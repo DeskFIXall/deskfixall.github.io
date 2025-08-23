@@ -393,6 +393,7 @@
 			color: #ee9e09;
 		}		
 		.path_divider {
+			color:#fff;
 			display:inline-block;
 			margin-left: 3px;
 			margin-right: 2px;
@@ -1598,7 +1599,7 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 									locationHtml + 
 									"<td class='size' data-sort='" + SearchFilenames[index][1] + "'><center>" + bytesToSize( SearchFilenames[index][1] ) + "</center></td>" + 
 									"<td><a onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + "style='color:white; font-weight:bold; text-decoration:none;cursor:zoom-in;'><center><i class='fa fa-image'></i> [ Image ]</center></a></td>" + 
-									"<td><a href='tg://resolve?domain=" + telegram_user +"&text=Hello, I am interested in "+ file_tmp +"'style='color:white; font-weight:bold;text-decoration:none;'><center><i class='fa fa-cart-arrow-down'></i> [ Pay ]</center></a></td>" + 
+									"<td><a onclick=" + '"pay('+ "'" + file_tmp + "'" + ')'+ "'" + file_tmp + "'" + ')"' + "style='color:white; font-weight:bold;text-decoration:none;'><center><i class='fa fa-cart-arrow-down'></i> [ Pay ]</center></a></td>" + 
 								"</tr>";
 							currentView.push( { "name": SearchFilenames[index][3], "path": SearchLocationsRaw[index].replace(/\//g,"\\"), "type": "file", "size": SearchFilenames[index][1], "date": SearchFilenames[index][2] } );
 						}
@@ -1629,7 +1630,7 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 
 					table_html += "</tbody></table>";
 					
-					$("#list_header").html( "<strong>Search results: </strong> →<span class='path_divider'></span> <span id='list_footer_info_label'></span>" );
+					$("#list_header").html( "<strong><i class='fa fa-search'></i> Search results: </strong> →<span class='path_divider'></span> <span id='list_footer_info_label'></span>" );
 					document.getElementById("list_files").innerHTML = table_html;
 					$("#search_indicator").hide();
 					addFolderClickEventHandlers();
@@ -2161,7 +2162,7 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 			var content = document.getElementById('viewfile_content');
 
 			content.style.height = (windowHeight - 80) + 'px';
-			content.style.top = '40px';
+			content.style.top = '30px';
 
 			var lightbox = document.getElementById('viewfile_lightbox');
 
@@ -2179,6 +2180,11 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 				
 		}		
 
+		function pay(archive){
+			window.open("tg://resolve?domain=" + telegram_user
+							+  "&text=Hello, I am interested in " + archive , "_blank"); 
+		}
+
 		// Llamada a la imagen de PCB
 		function imageView(nombreArchivo){			
 			const file = nombreArchivo.slice(0, nombreArchivo.lastIndexOf('.'));
@@ -2187,28 +2193,27 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 			const img = document.getElementById('file');
 			const titleDialogView = document.getElementById('titleDialogView');
 			const linkFullImage = document.getElementById('full');
+			const pay_button = document.getElementById('pay_button');
 
 			verificarImagen(url,
 			() => {
-				/* window.open(url, '_blank'); */
 				img.src = url;
 				titleDialogView.innerText = fileName;
 				linkFullImage.href = url;
+				pay_button.addEventListener('click', () => pay(fileName));
 				mostrarDialog();
 			},
 			() => {
-				alert("The boardview image of:\n [ " + fileName + " ] \nis not available at the moment. Please contactme for Telegram.");
+				alert("The boardview image of: " + fileName + " is not available at the moment. \n\nPlease contactme for Telegram.");
 			});
 		}
-
 	</script>
 	</head>
 
-	<!--- Body  -->
-	<body>
+	<!--Body -->
+	<body>			
 	<div id="wrapper" style="height:100%;">
         <div id="app_header" class="app_header">
-			<marquee></marquee>
 	      <span class="app_header_icon"></span>	
 		
 			<form class="app_header_search" id="search_form" action="#">
@@ -2279,9 +2284,15 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 			<strong style="color:white">Boardview Image: </strong>
 			<span style="color:white" id="titleDialogView"></span>
 			
-			<div style="margin-top:10px; overflow: auto; width: 100%; max-width: 800px;	height: calc(100% - 30px);">
-				<a target="_blank" id="full" href="#"><img id="file" src="" title="Click to view full Image"></a> 
+			<div style="margin-top:10px; overflow: auto; width: 100%; max-width: 800px;	height: calc(100% - 70px);border:solid 1px #fff;">
+				<center>
+					<a target="_blank" id="full" href="#"><img id="file" src="" title="Click to view full Image"></a> 
+				</center>
 			</div>
+			<center>
+				<button id="pay_button" style="font-weight: bold; height: 50px; width: 200px; font-size: 16px; margin-top: 5px; margin-bottom: 5px; cursor:pointer;">
+					$ Pay now!</button>
+			</center>			    
 		</div>
 
 		<div id="export_tip"><strong>Click</strong> to full Image:</div>
