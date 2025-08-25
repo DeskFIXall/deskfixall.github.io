@@ -12,10 +12,11 @@ function verificarImagen(urlImagen, onSuccess, onError) {
     };
     
     img.onerror = function() {
+        console.clear();
         onError();
     };
     
-    img.src = urlImagen;
+    img.src = urlImagen;    
 }
 
 // Dialog View Image
