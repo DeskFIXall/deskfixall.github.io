@@ -218,6 +218,7 @@ a img {
     width: 4px;
     background: #202020;
     border-right: 1px solid #bbb;
+    border-top: 1px solid #bbb;    
 }
 
 /* --- File Table --- */
@@ -239,7 +240,7 @@ a img {
     border-left: 0px;
     background-image: -webkit-gradient(linear, left top, left bottom, 
     color-stop(0%,#dfa334), color-stop(99%,rgb(14, 14, 14))) !important;
-    color: #ccc;			
+    color: #fff;			
 }
 #files.tablesorter thead tr .header {
     background-image: url(data:image/gif;base64,R0lGODlhFQAJAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAkAAAIXjI+AywnaYnhUMoqt3gZXPmVg94yJVQAAOw==);
@@ -516,7 +517,7 @@ ul.dynatree-container
     background-color: #202020;
     border: 0px dotted gray;
     overflow: auto;
-    height: 100%; /* issue 263 */
+    height: 99%; /* issue 263 */
 }
 
 ul.dynatree-container ul
