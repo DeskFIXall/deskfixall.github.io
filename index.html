@@ -746,10 +746,11 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 							}
 
 							var timestamp = timestampToDate(SearchFilenames[index][2]);
-						
+							let clase = file_tmp.toLowerCase().includes('pdf') ? "pdf" : "bvd";
+
 							table_html += 
 								"<tr>" + 
-									"<td><span style='cursor:pointer' class='file' onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + ">" + file_tmp + 
+									"<td><span style='cursor:pointer' class='"+ clase +"' onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + ">" + file_tmp + 
 									"</span></td>" + 
 									locationHtml + 
 									"<td class='size' data-sort='" + SearchFilenames[index][1] + "'><center>" + bytesToSize( SearchFilenames[index][1] ) + "</center></td>" + 
@@ -917,10 +918,11 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 					}
 					
 					var timestamp = timestampToDate(sTmp[2]);
-
+					let clase = file_tmp.toLowerCase().includes('pdf') ? "pdf" : "bvd";
+					
 					table_html += 
 						"<tr>" + 
-							"<td><span style='cursor:pointer' class='file' onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + ">" + file_tmp + 
+							"<td><span style='cursor:pointer' class='"+ clase +"' onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + ">" + file_tmp + 
 							"</span></td>" + 
 							"<td class='size' data-sort='" + sTmp[1] + "'><center>" + bytesToSize( sTmp[1] ) + "</center></td>" + 
 							"<td><a onclick=" + '"imageView('+ "'" + file_tmp + "'" + ')"' + " style='color:white; font-weight:bold;text-decoration:none;cursor:zoom-in;'><center><i class='fa fa-image'></i> [ Image ]</center></a></td>" + 

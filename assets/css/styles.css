@@ -296,6 +296,22 @@ span.file, span.file_folder {
     padding-top:1px;
 }
 
+/** File PDF Icon **/
+span.pdf {
+    background: url('../pdf.png') no-repeat left center;
+    padding-left:16px;
+    padding-bottom:1px;
+    padding-top:1px;
+}
+
+/** File BDV Icon **/
+span.bvd {
+    background: url('../bvd.png') no-repeat left center;
+    padding-left:16px;
+    padding-bottom:1px;
+    padding-top:1px;
+}
+
 /** Closed Folder Icon **/
 span.file_folder {
     background: url(data:image/gif;base64,R0lGODlhEAAOALMIAOC6eJdaH61zLZ9oJMOHNP/Sg//inv///////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAAgALAAAAAAQAA4AAAQ9EMlJq72XaIKnOOAhdIRhFgCwaRQRviE3lWZtB5Rg78bo8TafZFAoGo8DSuDILOAmAUHT+JwMrthsZ4uIAAA7)
