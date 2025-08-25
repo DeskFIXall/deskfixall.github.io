@@ -404,7 +404,7 @@ td.date {
     font-size: 13px;
     display: none;
 }
-.export_content {
+.export_content, .viewfile_content {
     text-align: left;
     background-color: #202020;
     padding: 20px;
@@ -415,23 +415,6 @@ td.date {
     margin-left: auto;
     margin-right: auto;
     position: relative;
-}
-.viewfile_content{
-    text-align: left;
-    background-color: #202020;
-    padding: 20px;
-    padding-top: 5px;
-    width: calc(100% - 40px);
-    max-width: 900px !important;
-    height: 240px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-@media(width <= 400px){
-    .viewfile_content{
-        max-height: 1000px !important;
-    }
 }
 .export_options {
     line-height: 2em;
