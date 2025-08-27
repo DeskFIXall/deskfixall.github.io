@@ -427,7 +427,7 @@ td.date {
     padding-top: 5px;
     width: calc(100% - 40px);
     max-width: 800px;
-    height: 240px;
+    max-height: 700px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
@@ -472,7 +472,6 @@ td.date {
 .export_save a:hover {
     text-decoration: underline;
 }
-
 .export_chevron {
     box-sizing: border-box;
     position: relative;
