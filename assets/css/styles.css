@@ -687,12 +687,12 @@ span.dynatree-active a
 
 /* My's styles */
 form input{
-background: #222;
-border: 1px solid #5f5d5d;
-text-align: center;
-height: 25px;
-color: #fff;
-margin: -1px 0;
+    background: #222;
+    border: 1px solid #5f5d5d;
+    text-align: center;
+    height: 25px;
+    color: #fff;
+    margin: -1px 0;
 }
 form input:focus{
     outline: none;
@@ -720,8 +720,17 @@ marquee{
     filter:sepia();
     transition: all .45s ease;
 }
-
 .navlist a:hover{
     color: #ee9e09;
     transition: all .45s ease;
+}
+
+#container{
+    margin-top:10px; 
+    overflow: auto; 
+    width: 100%; 
+    max-width: 800px;	
+    height: calc(100% - 70px);
+    border:solid 1px #fff;
+    user-select: none; 
 }
