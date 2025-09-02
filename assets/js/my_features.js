@@ -1,6 +1,6 @@
 /*-- Root */
 var telegram_user = 'DeskFixAll';
-var callUser = "tg://resolve?domain=" + telegram_user +  "&text=Hello, I am interested in "
+var callUser = "tg://resolve?domain=" + telegram_user +  "&text=🖐🏻 Hello, I am interested in pay💳 for "
 
 
 // Verificar imagen de PCB
@@ -68,6 +68,27 @@ function imageView(nombreArchivo){
         mostrarDialog();        
     },
     () => {
-        alert("The boardview image of: " + fileName + " is not available at the moment. \n\nPlease contactme for Telegram.");
+        alert("The boardview image📷 of: " + fileName + " is not available😥 at the moment. \n\nPlease contactme for Telegram.");
     });
 }
+
+// Copy Text
+function copiarAlPortapapeles(texto) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(texto)
+      .then(() => {
+        alert('✅ Link copied! ');
+      })
+      .catch(err => {
+        console.error('⛔️ Link error: ', err);
+      });
+  } 
+}
+
+// Button Copy URL boardview image
+document.getElementById('btnCopy').addEventListener('click', () => {
+  const img = document.getElementById('file');
+  if (img) {
+    copiarAlPortapapeles(img.src);
+  }
+});

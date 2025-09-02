@@ -734,3 +734,13 @@ marquee{
     border:solid 1px #fff;
     user-select: none; 
 }
+
+.big_buttons{
+    font-weight: bold; 
+    height: 50px; 
+    width: 200px; 
+    font-size: 16px; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    cursor:pointer;
+}
