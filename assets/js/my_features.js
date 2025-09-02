@@ -48,7 +48,6 @@ function pay(archive){
     window.open(callUser + " " + archive, "_blank"); 
 }
 
-
 // Call image PCB
 function imageView(nombreArchivo){			
     const file = nombreArchivo.slice(0, nombreArchivo.lastIndexOf('.'));
@@ -68,7 +67,7 @@ function imageView(nombreArchivo){
         mostrarDialog();        
     },
     () => {
-        alert("The boardview image📷 of: " + fileName + " is not available😥 at the moment. \n\nPlease contactme for Telegram.");
+        alert("The boardview image📷 of: " + fileName + " is not available😥 at the moment. \n\n🤝Please contactme for Telegram.");
     });
 }
 
