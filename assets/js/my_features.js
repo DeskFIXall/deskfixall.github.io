@@ -1,6 +1,6 @@
 /*-- Root */
 var telegram_user = 'DeskFixAll';
-var callUser = `tg://resolve?domain= ${telegram_user} &text=🖐🏻 Hello, I am interested in pay💳 for `
+var callUser = "tg://resolve?domain=" + telegram_user +"&text=🖐🏻 Hello, I am interested in pay💳 for "
 
 
 // Verificar imagen de PCB
