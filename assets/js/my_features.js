@@ -90,7 +90,7 @@ document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
     copiarAlPortapapeles("```🌐Source: https://deskfixall.github.io``` " 
-                          + "👤Contactme: @" + telegram_user + img.src );
+                          + "👤Contactme: @" + telegram_user + img.src + " ");
   }
 });
 
