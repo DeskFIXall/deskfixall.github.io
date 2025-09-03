@@ -1,7 +1,7 @@
 /*-- Root */
 var telegram_user = 'DeskFixAll';
 var callUser = "tg://resolve?domain=" + telegram_user +"&text=🖐🏻 Hello, I am interested in pay💳 for "
-
+var grados = 0;
 
 // Verificar imagen de PCB
 function verificarImagen(urlImagen, onSuccess, onError) {
@@ -94,20 +94,9 @@ document.getElementById('btnCopy').addEventListener('click', () => {
   }
 });
 
-// Rotar Imagen
-function rotar(lado){
-    let grados = 0; // Izquierda
-    const img = document.getElementById('file');   
-    const btnLeft = document.getElementById('btnLeft');   
-    const btnRight = document.getElementById('btnRight');   
-    btnLeft.disabled = true;
-    btnRight.disabled = false;
-
-    if (lado){// Derecha
-        grados = 90;
-        btnLeft.disabled = false;
-        btnRight.disabled = true;
-    }
-
-    img.style.transform = `rotate(${grados}deg)`;       
-  }
+function rotar(){
+    const img = document.getElementById('file');
+    grados = grados + 90 ;  // Siempre aumenta 90 grados
+    if (grados > 270){ grados = 0 }
+    img.style.transform = `rotate(${grados}deg)`; // Aplicar la rotación    
+}
