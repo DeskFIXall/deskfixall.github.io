@@ -1144,9 +1144,11 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 				$("#export_lightbox").fadeOut("fast");
 			});
 
+			/*
 			$("#viewfile_lightbox").click(function() {
 				$("#viewfile_lightbox").fadeOut("fast");
 			});
+			*/
 
 			$("#export_lightbox input[type=radio]").click(function() {
 				var type = $("#export_lightbox input[type='radio']:checked").val();
@@ -1390,8 +1392,7 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 	<!-- Dialog View File -->
   	<div id="viewfile_lightbox" class="viewfile_lightbox">
 		<div id="viewfile_content" class="export_content">
-			<a href="#" id="viewfile_close" class="export_close" style="text-decoration: none;" title="Close window.">
-				<i class="fa fa-close"></i></a>
+			
 
 			<strong style="color:white">Boardview Image: </strong>
 			<span style="color:white" id="titleDialogView"></span>
@@ -1399,14 +1400,16 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 			<div id="container">
 				<center>
 					<a target="_blank" id="full" href="#">
-						<img id="file" src="" title="🔍Click to view full Image"
-					></a> 
+						<img id="file" src="" class="rotar" title="🔍Click to view full Image"></a> 
 				</center>
 			</div>
 			<center>
 				<a id="pay_button"><button class="big_buttons">💳 Pay now!</button></a>
+				<button id="btnLeft" onclick="rotar()" class="big_buttons" disabled>⬅️ Left</button>
+				<button id="btnRight" onclick="rotar(true)" class="big_buttons">➡️ Right</button>
 				<button id="btnCopy" class="big_buttons">✅ Copy Link</button>
-			</center>			    
+				<button id="viewfile_close" class="big_buttons">❌ Close</button>				
+			</center>
 		</div>
 		<div id="export_tip"><strong>Click</strong> to full Image:</div>
 	</div>

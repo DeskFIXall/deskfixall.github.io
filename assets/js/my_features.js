@@ -1,6 +1,6 @@
 /*-- Root */
 var telegram_user = 'DeskFixAll';
-var callUser = "tg://resolve?domain=" + telegram_user +  "&text=🖐🏻 Hello, I am interested in pay💳 for "
+var callUser = `tg://resolve?domain= ${telegram_user} &text=🖐🏻 Hello, I am interested in pay💳 for `
 
 
 // Verificar imagen de PCB
@@ -45,7 +45,7 @@ function mostrarDialog(){
 
 // CallPay
 function pay(archive){
-    window.open(callUser + " " + archive, "_blank"); 
+    window.open(`${callUser}" "${archive}`, "_blank"); 
 }
 
 // Call image PCB
@@ -67,12 +67,13 @@ function imageView(nombreArchivo){
         mostrarDialog();        
     },
     () => {
-        alert("The boardview image📷 of: " + fileName + " is not available😥 at the moment. \n\n🤝Please contactme for Telegram.");
+        alert(`The boardview image📷 of: ${fileName} is not available😥 at the moment. \n\n🤝Please contactme for Telegram.`);
     });
 }
 
 // Copy Text
 function copiarAlPortapapeles(texto) {
+  const status = document.getElementById('status');
   if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(texto)
       .then(() => {
@@ -88,6 +89,25 @@ function copiarAlPortapapeles(texto) {
 document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
-    copiarAlPortapapeles(img.src);
+    copiarAlPortapapeles("```🌐Source: https://deskfixall.github.io``` " 
+                          + "👤Contactme: @" + telegram_user + img.src );
   }
 });
+
+// Rotar Imagen
+function rotar(lado){
+    let grados = 0; // Izquierda
+    const img = document.getElementById('file');   
+    const btnLeft = document.getElementById('btnLeft');   
+    const btnRight = document.getElementById('btnRight');   
+    btnLeft.disabled = true;
+    btnRight.disabled = false;
+
+    if (lado){// Derecha
+        grados = 90;
+        btnLeft.disabled = false;
+        btnRight.disabled = true;
+    }
+
+    img.style.transform = `rotate(${grados}deg)`;       
+  }
