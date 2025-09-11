@@ -809,9 +809,16 @@ D.p(["D:/(STORE)/STORE - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-
 					}
 
 					table_html += "</tbody></table>";
-					
-					$("#list_header").html( "<strong><i class='fa fa-search'></i> Search results: </strong> →<span class='path_divider'></span> <span id='list_footer_info_label'></span><br>");
-					document.getElementById("list_files").innerHTML = table_html;
+					not_found = "<td colspan='4'><p id='not_found'>😭 Not Found!</p></td>";
+					table = document.getElementById("list_files");				
+
+					if (!countFiles) {
+						table.innerHTML = not_found;
+					} else {
+						$("#list_header").html("<strong><i class='fa fa-search'></i> Search results: </strong> →<span class='path_divider'></span> <span id='list_footer_info_label'></span><br>");
+						table.innerHTML = table_html;						
+					}
+
 					$("#search_indicator").hide();
 					addFolderClickEventHandlers();
 
