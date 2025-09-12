@@ -748,3 +748,11 @@ marquee{
 .rotar{
   transform: rotate(0);
 }
+
+#not_found{
+    color:#fff !important;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
