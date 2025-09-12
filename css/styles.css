@@ -738,9 +738,21 @@ marquee{
 .big_buttons{
     font-weight: bold; 
     height: 50px; 
-    width: 200px; 
+    width: 150px; 
     font-size: 16px; 
     margin-top: 5px; 
     margin-bottom: 5px; 
     cursor:pointer;
+}
+
+.rotar{
+  transform: rotate(0);
+}
+
+#not_found{
+    color:#fff !important;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
 }
