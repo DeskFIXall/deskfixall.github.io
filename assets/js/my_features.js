@@ -1,6 +1,6 @@
 /*-- Root */
 var telegram_user = 'DeskFixAll';
-var callUser = "tg://resolve?domain=" + telegram_user +"&text=🖐🏻 Hello, I am interested in pay💳 for "
+var callUser = `tg://resolve?domain=${telegram_user}&text=🖐🏻 Hello, I am interested in pay💳 for`
 var grados = 0;
 
 // Verificar imagen de PCB
@@ -45,7 +45,7 @@ function mostrarDialog(){
 
 // CallPay
 function pay(archive){
-    window.open(`${callUser}" "${archive}`, "_blank"); 
+    window.open(`${callUser} ${archive}`, "_blank"); 
 }
 
 // Call image PCB
@@ -89,8 +89,8 @@ function copiarAlPortapapeles(texto) {
 document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
-    copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` "
-                          + "🤝Contactme: [ @" + telegram_user + " ] " + img.src);
+    copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` " + 
+                          + "```👤Contactme: @" + telegram_user + "``` " + img.src);
   }
 });
 
