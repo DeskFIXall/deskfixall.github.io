@@ -1,3 +1,5 @@
+var element = document.getElementById('app_header');
+
 function snow() {
   // 1. Defina una plantilla de copo de nieve
   var flake = document.createElement('div');
@@ -6,7 +8,8 @@ function snow() {
   flake.style.cssText = 'position:fixed;color:#fff;';
 
   // Obtiene la altura de la página, que es equivalente a la posición del eje Y cuando caen los copos de nieve
-  var documentHieght = window.innerHeight;
+  var documentHieght = window.innerHeight * 0.50;
+
   // Obtenga el ancho de la página, use este número para calcular, el valor de la izquierda cuando comienza el copo de nieve
   var documentWidth = window.innerWidth;
 
@@ -45,7 +48,9 @@ function snow() {
           `;
 
       // Empalmado en la página
-      document.body.appendChild(cloneFlake);
+      element.appendChild(cloneFlake);
+      //document.body.appendChild(cloneFlake);
+      
 
       // Establecer el segundo temporizador, temporizador de una sola vez,
       // Cuando el primer temporizador genera copos de nieve y los muestra en la página, modifique el estilo de los copos de nieve para que se muevan;

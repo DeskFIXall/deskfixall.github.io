@@ -82,15 +82,6 @@ a img {
 
 *{scroll-behavior: smooth;}
 
-@keyframes transition_img
-{
-    0% {filter:sepia();}
-    30% {filter:none;}
-    60% {filter:sepia();}
-    80% {filter:none;}
-    100% {filter:sepia();}
-}
-
 @media screen and (min-width : 1024px) {
     .app_header {
         width: 90%;
