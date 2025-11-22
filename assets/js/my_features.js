@@ -51,23 +51,29 @@ function pay(archive){
 // Call image PCB
 function imageView(nombreArchivo){			
     const file = nombreArchivo.slice(0, nombreArchivo.lastIndexOf('.'));
+    const ext = nombreArchivo.toLowerCase();
     let fileName = file;
     let url = "./images/" + file + ".webp";
+    const urlPDF = "./assets/pdfView.png";
     const img = document.getElementById('file');
     const titleDialogView = document.getElementById('titleDialogView');
     const linkFullImage = document.getElementById('full');
     const pay_button = document.getElementById('pay_button');
 
+    if (ext.includes('pdf')){
+        url = urlPDF;
+    }
+
     verificarImagen(url,
     () => {
         img.src = url;
-        titleDialogView.innerText = fileName;
         linkFullImage.href = url;
+        titleDialogView.innerText = fileName;
         pay_button.href = callUser + " " + file;
         mostrarDialog();        
     },
     () => {
-        alert(`The boardview image📷 of: ${fileName} is not available😥 at the moment. \n\n🤝Please contactme for Telegram.`);
+        alert(`The resource image 📷 of: ${fileName} is not available😥 at the moment. \n\n🤝Please contactme for Telegram. `);
     });
 }
 
@@ -90,7 +96,7 @@ document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
     copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` " + 
-                          + "```👤Contactme: @" + telegram_user + "``` " + img.src);
+                         "```👤Contactme: @" + telegram_user + "``` " + img.src);
   }
 });
 
