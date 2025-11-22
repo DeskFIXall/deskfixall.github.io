@@ -95,7 +95,8 @@ function copiarAlPortapapeles(texto) {
 document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
-    copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` " + 
+    const filename = document.getElementById('titleDialogView').textContent;
+    copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` " + "```" + filename + "``` " +
                          "```👤Contactme: @" + telegram_user + "``` " + img.src);
   }
 });
