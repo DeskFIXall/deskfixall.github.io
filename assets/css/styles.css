@@ -723,7 +723,8 @@ marquee{
     max-width: 800px;	
     height: calc(100% - 70px);
     border:solid 1px #fff;
-    user-select: none; 
+    user-select: none;
+    align-content:center;
 }
 
 .big_buttons{
