@@ -1,15 +1,6 @@
 /*------------------------------------------------------------------
     TRANSITIONS 
 -------------------------------------------------------------------*/
-@keyframes transition_Horizontal /* Horizontal Animation*/
-{
-    0% {transform: translateX(5px);}
-    30% {transform: translateY(-10px);}
-    60% {transform: translateX(5px);}
-    80% {transform: translateY(-10px);}
-    100% {transform: translateX(5px);}
-}
-
 @keyframes transition_enfasis
 {
     0% {
@@ -23,5 +14,17 @@
     100% {
         -webkit-filter: drop-shadow(0px 0px 20px gold);
         filter: drop-shadow(0px 0px 20px yellow);
+    }
+}
+
+@keyframes transition_sepia{
+    0%{
+        filter: none;
+    }
+    50%{
+        filter: sepia();
+    }
+    100%{
+        filter: none;
     }
 }
