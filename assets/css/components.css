@@ -76,8 +76,7 @@ header.sticky{
     border: none;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
-    border-bottom: 1px solid #ffffff1a; 
-    padding: 12px 15%;
+    border-bottom: 1px solid #ffffff1a;
 }
 
 body{
@@ -103,8 +102,6 @@ button{
     color: #fff;
     font-size: 14px !important;
 }  
-
-
 
 /*-- FOOTER--*/
 
