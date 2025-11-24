@@ -37,12 +37,11 @@
     align-content: center;
     place-content: center;
     text-align: center;
-
 }
 
 .about-logo img{
-    animation-name: transition_Horizontal;
-    animation-duration: 5s;
+    animation-name: transition_sepia;
+    animation-duration: 10s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
