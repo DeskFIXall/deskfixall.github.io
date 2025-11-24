@@ -1,4 +1,4 @@
-var element = document.getElementById('app_header');
+var element = document.body;
 
 function snow() {
   // 1. Defina una plantilla de copo de nieve
@@ -8,7 +8,7 @@ function snow() {
   flake.style.cssText = 'position:fixed;color:#fff;';
 
   // Obtiene la altura de la página, que es equivalente a la posición del eje Y cuando caen los copos de nieve
-  var documentHieght = window.innerHeight * 0.50;
+  var documentHieght = window.innerHeight;
 
   // Obtenga el ancho de la página, use este número para calcular, el valor de la izquierda cuando comienza el copo de nieve
   var documentWidth = window.innerWidth;

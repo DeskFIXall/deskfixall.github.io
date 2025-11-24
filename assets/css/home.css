@@ -1,0 +1,80 @@
+.home{
+    display: flex;
+    background-image: url(../images/Portada.webp);
+    background-size: cover;
+    background-position: center;
+    grid-template-columns: repeat(1fr);
+    align-items: normal;
+    gap: 5rem;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5); 
+}
+
+.slide{
+    margin-bottom: 20px;
+}
+
+.dos{
+    display: inline-block;
+    color: #ccc !important;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top:40px;
+}
+
+.home-text-h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color:#fff !important;
+    line-height: 1.1;
+    margin: 0 0 8px ;
+}
+
+.home-text-h3{
+    font-size: 1.8rem;
+    font-weight: 700;
+    color:#fff !important;
+    line-height: 1.1;
+    margin: 0 0 35px;
+}
+
+.home-text-p{
+    font-size: 1.1rem;
+    color:#fff !important;
+    line-height: 1.8;
+    margin-top:50px;
+    margin-bottom:30px;
+    max-width: 700px;
+
+}
+
+.button{
+    Text-decoration:None !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    display: inline-block;
+    padding: 12px 28px;
+    background:#ddb73b;
+    border-radius: 5px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    transition: all .45s ease;
+    color: #000 !important;
+    transform: scale(0.9);
+}
+
+.btn:hover{
+    transform: none;
+    cursor: pointer;
+}
+
+ridut-ima
+header.sticky{
+   background:#2a2a2a;
+   border-bottom: 1px solid #ffffff1a;
+   padding: 12px 15%;
+}
