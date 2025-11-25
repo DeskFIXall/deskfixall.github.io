@@ -37,11 +37,15 @@
     align-content: center;
     place-content: center;
     text-align: center;
+    align-items: center;
 }
 
-.about-logo img{
-    animation-name: transition_sepia;
-    animation-duration: 10s;
+#gallery{
+    width:400px;
+    height:295px;
+    animation-name: transition_gallery;
+    animation-duration: 40s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
+    filter: sepia(50%);
 }

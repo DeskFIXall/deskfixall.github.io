@@ -28,3 +28,25 @@
         filter: none;
     }
 }
+
+@keyframes transition_gallery{
+    0%{
+        background-image: url(../images/gallery-about/G1.webp);
+    }
+    20%{
+        background-image: url(../images/gallery-about/G2.webp);
+    }
+    40%{
+        background-image: url(../images/gallery-about/G3.webp);
+    }
+    60%{
+        background-image: url(../images/gallery-about/G4.webp);
+    }
+    80%{
+        background-image: url(../images/gallery-about/G5.webp);
+    }   
+    100%{
+        background-image: url(../images/gallery-about/G1.webp);
+    }
+}
+
