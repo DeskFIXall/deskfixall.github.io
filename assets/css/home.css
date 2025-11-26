@@ -1,12 +1,12 @@
 .home{
     display: flex;
-    background-image: url(../images/Portada.webp);
+    background-image: linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ),
+                      url(../images/Portada.webp);
     background-size: cover;
     background-position: center;
-    grid-template-columns: repeat(1fr);
+    grid-template-columns: repeat(2fr, 1);
     align-items: normal;
     gap: 5rem;
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5); 
 }
 .slide{
     margin-bottom: 20px;
@@ -71,13 +71,37 @@ header.sticky{
    border-bottom: 1px solid #ffffff1a;
    padding: 12px 15%;
 }
-.gradient-gold{
-    color: transparent;
-    background-clip: text;
-    background-image: linear-gradient(66.77deg,#ddb73b,#7d6e16);
-}
-.gradient-silver{
-    color: transparent;
-    background-clip: text;
-    background-image: linear-gradient(66.77deg,#ccc,#8c8c8c);
-}
+.mouse{
+    position: relative;
+    width: calc(16px * 2);
+    height: calc(31px * 2);
+    margin: 0 auto 0;
+    background: none;
+    border: 2px solid white;
+    border-radius: calc(16px * 2);
+    z-index: 1;
+    top:-15vh;
+  }
+  .mouse:after{
+    background: none;
+    display: block;
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: calc(4px * 2);
+    height: calc(4px * 2);
+    border: 2px solid white;
+    border-radius: 100%;
+    -webkit-animation-name: scrollWheel;
+            animation-name: scrollWheel;
+    -webkit-animation-duration: 1.4s;
+            animation-duration: 1.4s;
+    -webkit-animation-fill-mode: forwards;
+            animation-fill-mode: forwards;
+    -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease;
+            animation-timing-function: ease;
+    will-change: transform;
+  }

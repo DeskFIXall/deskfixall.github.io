@@ -1,12 +1,13 @@
 .about{
     display: flex;
-    background-image: url(../images/about.webp);
+    background-image: linear-gradient( to top, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ), 
+                      url(../images/about.webp);
     background-size: cover;
     background-position: center;
     grid-template-columns: repeat(1fr);
     align-items: normal;
     gap: 5rem;
-    /*box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5); */
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
 }
 .about-text-h2{
     color:#ccc;
