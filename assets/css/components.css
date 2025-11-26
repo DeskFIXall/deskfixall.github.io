@@ -46,7 +46,7 @@ header{
     transition: all .45s ease;
 }
 .navlist a:hover{
-    color: gold !important;
+    color: #ddb73b !important;
 }
 #menu-icon{
     font-size:35px;
@@ -60,7 +60,7 @@ header{
     margin-top: 0;
 }
 #menu-icon:hover{
-    color: gold !important;
+    color: #ddb73b !important;
 }
 header.sticky{
     background: rgb(0,0,0,.6);
