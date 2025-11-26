@@ -5,8 +5,7 @@
     font-weight: normal;
     font-style: normal;
 }
-
-* {
+*{
     font-family: "MontSerrat", Tahoma;
     margin: 0;
     padding: 0;
@@ -15,7 +14,6 @@
     list-style: None;
     scroll-behavior: smooth;
 }
-
 header{
     position: fixed;
     width: 100%;
@@ -31,18 +29,15 @@ header{
     transition: all .45s ease;
     font-weight: bold;
 }
-
 .logo{
     color: #fff !important;
     font-size: 14px;
     font-weight: 700;
     letter-spacing: 1px;
 }
-
 .navlist{
     display: flex;
 }
-
 .navlist a{
     color: #fff !important;
     font-size: 17px;
@@ -50,12 +45,9 @@ header{
     margin: 0 25px;
     transition: all .45s ease;
 }
-
 .navlist a:hover{
     color: gold !important;
 }
-
-
 #menu-icon{
     font-size:35px;
     color: #fff !important;
@@ -67,11 +59,9 @@ header{
     display: none;
     margin-top: 0;
 }
-
 #menu-icon:hover{
     color: gold !important;
 }
-
 header.sticky{
     background: rgb(0,0,0,.6);
     border: none;
@@ -79,21 +69,17 @@ header.sticky{
     backdrop-filter: blur(8px);
     border-bottom: 1px solid #ffffff1a;
 }
-
 body{
     background-color: black !important;
     color: #fff !important;
 }
-
 span{
-    color:/*#f4ac2d*/ gold;
+    color:#ddb73b;
     font-weight: bolder;
 }
-
 section{
     padding: 160px 15% 120px;
 }
-
 button{
     background: none;
     cursor: pointer !important;
@@ -103,15 +89,12 @@ button{
     color: #fff;
     font-size: 14px !important;
 }  
-
-/*-- FOOTER--*/
-
 .scrollup{
 	width:40px;
 	height:40px;			
 	position:fixed;
-	bottom:40px;
-	right:8px;
+	bottom:20px;
+	right:10px;
     font-size: 36px;
     color:white !important;
     display:none;	
@@ -119,7 +102,6 @@ button{
     -webkit-filter: drop-shadow(0px 0px 3px black);
     filter: drop-shadow(0px 0px 3px black);
 }
-
 .scrollup:hover{
     cursor:pointer;
 }

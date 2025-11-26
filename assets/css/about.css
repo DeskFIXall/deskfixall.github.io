@@ -8,8 +8,8 @@
     gap: 5rem;
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.5); 
 }
-
 .about-text-h2{
+    color:#ccc;
     font-size: 3rem;
     line-height: 1;
     animation-name: transition_enfasis;
@@ -17,29 +17,25 @@
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
-
 .about-text-h4{
+    /*color: #ccc;*/
     font-size: 24px;
-    line-height: 1.7;
-    color: #fff !important;
+    line-height: 1.7;    
     font-weight: 600;
     margin: 15px 0 30px;
 }
-
 .about-text-p {
-    color: #fff !important;
+    color: #ccc;
     font-size: 1.1rem;
     line-height: 1.8;
     margin-bottom: 4rem;
 }
-
 .about-logo{
     align-content: center;
     place-content: center;
     text-align: center;
     align-items: center;
 }
-
 #gallery{
     width:400px;
     height:295px;

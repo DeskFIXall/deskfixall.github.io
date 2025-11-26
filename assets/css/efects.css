@@ -1,6 +1,3 @@
-/*------------------------------------------------------------------
-    TRANSITIONS 
--------------------------------------------------------------------*/
 @keyframes transition_enfasis
 {
     0% {
@@ -49,4 +46,22 @@
         background-image: url(../images/gallery-about/G1.webp);
     }
 }
+
+@keyframes escaner {
+    0% {
+      clip-path: inset(0 100% 0 0);
+    }
+    100% {
+      clip-path: inset(0 0 0 0);
+    }
+  }
+  
+  @keyframes lineaAmarilla {    
+    0% {
+        left: 0;
+    }
+    100% {
+        left: calc(100%);
+    }
+  }
 

@@ -1,45 +1,33 @@
-@media(width < 1480px){
-    
+@media(width < 1480px){   
     header{
         padding: 20px 2.5%;
         transition: .1s;
     }
-
     header.sticky{
         padding: 20px 2.5%;
         transition: .1s;
     }        
-
     section{
         padding: 110px 3% 60px;
-    }
-
-    .end{
-        padding: 15px 3%
     }
 }
 
 @media(width < 868px){
-
     .home-text-h1{
         font-size: 4.5rem;         
     }
-
     .home-text-h3{
         font-size: 1.5rem;
         margin: 0 0 20px;      
     }
-
     .home-text-p{
         color:#fff !important;
         max-width: 600px;
-        text-align: left;
+        text-align: left;   
     }
-
     .about, .home{
         display: grid;
     }
-
     .about-img img{
         width: 100%;
         height: auto;
@@ -48,15 +36,12 @@
 }
 
 @media(width < 740px){
-
     .home-text-h1{
         font-size: 4rem;         
     }
-
     .home-text-h3{
         font-size: 1.2rem;      
     }
-    
     .home-text-p{
         color:#fff !important;
         line-height: 1.8;
@@ -68,13 +53,10 @@
     }
 }
 
-
 @media(width < 630px){
-
     #menu-icon{
        display: block;
     }
-
     .navlist{
        position: absolute; 
        top: -1000px;
@@ -88,7 +70,6 @@
        transition: all .45s ease;
        border-bottom: #ccc 2px solid;
     }
-
     .navlist a{
         display: block;
         margin: 17px;
@@ -97,14 +78,12 @@
         color:#fff !important;
         font-weight: bolder;
     }
-
     .navlist.open{
         top: 100%;  
     }
 }
 
 @media(width < 554px){
-
     .home-text-p{
         max-width: 450px;
     }
@@ -112,7 +91,6 @@
 
 
 @media(width < 483px){
-
     .home-text-p{
         max-width: 400px;
     }
@@ -127,28 +105,23 @@
         margin-bottom:10px;
         max-width: 300px;
     }
-    
     .about{
         display:grid;
         grid-template-columns: 1fr;
         margin-left: 0;
         padding: 0;
     }
-
     .about-text-h2{
         margin-left:20px;
      }
-
     .main-text-h2{
         font-size: 40px;
      }
-
     .about-text-p{
         margin-left:20px;
         width: 340px;
         text-align: justify;
     }
-
     .about-text-h4{
         font-size: 20px;
         line-height: 1.7;
@@ -157,6 +130,4 @@
         margin:30px,30px;
         text-align: center;
     }
-}
-
 }
