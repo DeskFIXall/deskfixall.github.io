@@ -67,6 +67,9 @@ MARK:Mobile
     .contact-form h2{
         text-align: center;
     }
+    .contact-text img{
+        width: 50% !important;
+    }
 }
 @media(width < 740px){
     .home-text-h1{
