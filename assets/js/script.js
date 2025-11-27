@@ -43,7 +43,8 @@ submit_telegram.addEventListener('click', function(){
     if (!checkInput(message, message_label) ) message.setAttribute('style', danger);
 
     if (checkInput(name, name_label) && checkInput(email, email_label) && checkInput(message, message_label)){
-        window.location.href = 'tg://resolve?domain=DeskFIXall&text=🖐🏻 Hello my friend.';
+        let send_message = `🖐🏻Hello friend, I'm writing to you from your website, my name is:[ 👤 ${name.value} ], and my email is:[ 📧 ${email.value} ]\n, my message is: [ ✉️ ${message.value} ].`;
+        window.location.href = `tg://resolve?domain=DeskFIXall&text=${send_message}`;
     }
 
 });
