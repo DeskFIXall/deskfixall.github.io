@@ -23,6 +23,10 @@
 MARK:Mobile 
 */
 @media(width < 868px){ 
+    .home{
+        background-image: linear-gradient( to top, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ),
+                          url(../images/Portada.webp);
+    }
     .mouse{
         display: none;
     }
