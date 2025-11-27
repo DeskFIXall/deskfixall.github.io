@@ -3,9 +3,6 @@
         padding: 20px 2.5%;
         transition: .1s;
     }
-    .end{
-        padding: 15px 3%
-    }
 }
 @media(width < 1480px){   
     section{
@@ -26,7 +23,9 @@
 MARK:Mobile 
 */
 @media(width < 868px){ 
-    .mouse{display: none;}
+    .mouse{
+        display: none;
+    }
     .home-text-h1{
         font-size: 4.5rem;         
     }
@@ -57,6 +56,12 @@ MARK:Mobile
         width: 100%;
         height: auto;
         max-width: 100%;
+    }
+    .contact{
+        grid-template-columns: 1fr;
+    }
+    .contact-form h2{
+        text-align: center;
     }
 }
 @media(width < 740px){
@@ -128,7 +133,6 @@ MARK:Hamburguesa
         color: black !important;
     }
 }
-
 @media(width < 554px){
     .about-text-h2{
         margin-left:15px;
@@ -140,7 +144,6 @@ MARK:Hamburguesa
         margin: 15px 0 0 15px;
         max-width: 450px;
     }
-
 }
 @media(width < 483px){
     .about-text-h2{
@@ -170,10 +173,10 @@ MARK:Hamburguesa
     }
     .about-text-h2{
         margin-left:20px;
-     }
+        }
     .main-text-h2{
         font-size: 40px;
-     }
+        }
     .about-text-p{
         margin: 15px 0 0 15px;
         width: 340px;
@@ -189,7 +192,6 @@ MARK:Hamburguesa
         text-align: center;
     }
 }
-
 /* 
 MARK: Services 
 */

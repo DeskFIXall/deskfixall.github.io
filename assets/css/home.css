@@ -41,7 +41,7 @@
     max-width: 700px;
 }
 .button{
-    Text-decoration: none !important;
+    text-decoration: none !important;
     display: inline-flex;
     align-items: center;
     justify-content: center;

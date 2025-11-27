@@ -1,8 +1,17 @@
-.footer{
+/*.footer{
     align-items: center;
     display: flex;
     align-content: center;
     place-content: center;
     text-align: center;
     margin-top: 15px;
+}*/
+.footer{
+    padding: 20px 15%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    place-content: center;
+    text-align: center;
+    gap: 2rem;
 }

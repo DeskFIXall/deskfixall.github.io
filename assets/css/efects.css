@@ -4,19 +4,18 @@ MARK:Transitions
 @keyframes transition_enfasis
 {
     0% {
-        -webkit-filter: drop-shadow(0px 0px 20px gold);
-        filter: drop-shadow(0px 0px 20px yellow);
+          -webkit-filter: drop-shadow(0px 0px 20px gold);
+          filter: drop-shadow(0px 0px 20px yellow);
         }
     50% {
-        -webkit-filter: drop-shadow(0px 0px 10px yellow);
-        filter: drop-shadow(0px 0px 10px gold);
+          -webkit-filter: drop-shadow(0px 0px 10px yellow);
+          filter: drop-shadow(0px 0px 10px gold);
         }
     100% {
-        -webkit-filter: drop-shadow(0px 0px 20px gold);
-        filter: drop-shadow(0px 0px 20px yellow);
+          -webkit-filter: drop-shadow(0px 0px 20px gold);
+          filter: drop-shadow(0px 0px 20px yellow);
     }
 }
-
 @keyframes transition_sepia{
     0%{
         filter: none;
@@ -28,7 +27,6 @@ MARK:Transitions
         filter: none;
     }
 }
-
 @keyframes transition_gallery{
     0%{
         background-image: url(../images/gallery-about/G1.webp);
@@ -49,7 +47,6 @@ MARK:Transitions
         background-image: url(../images/gallery-about/G1.webp);
     }
 }
-
 @keyframes escaner {
     0% {
       clip-path: inset(0 100% 0 0);
@@ -58,16 +55,14 @@ MARK:Transitions
       clip-path: inset(0 0 0 0);
     }
   }
-  
-  @keyframes lineaAmarilla {    
-    0% {
-        left: 0;
-    }
-    100% {
-        left: calc(100%);
-    }
+@keyframes lineaAmarilla {    
+  0% {
+      left: 0;
   }
-
+  100% {
+      left: calc(100%);
+  }
+}
 @-webkit-keyframes scrollWheel {
   from {
     -webkit-transform: translate(-50%, 0);
@@ -84,7 +79,6 @@ MARK:Transitions
     opacity: 0;
   }
 }
-
 @keyframes scrollWheel {
   from {
     -webkit-transform: translate(-50%, 0);
