@@ -25,7 +25,7 @@
     <title>DeskFIXall Solutions</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link rel="stylesheet" href="assets/css/(style).css">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
 </head>
 <body>
 
@@ -208,5 +208,15 @@
     <script defer src="./assets/js/3d.min.js"></script>
     <script defer src="./assets/js/scroll.js"></script>
     <script defer src="./assets/js/script.js"></script>
+    <script async>
+        document.addEventListener("DOMContentLoaded", function () {
+            let etiquetasFuente = `
+            <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+            `;
+            document.head.insertAdjacentHTML('beforeend', etiquetasFuente);
+        });
+    </script>
+
+    <!-- Activate to Christmas -->
     <!--<script defer src="./assets/js/copo_de_nieve.js"></script>-->
 </html>

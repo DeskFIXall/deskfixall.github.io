@@ -72,7 +72,7 @@ submit_telegram.addEventListener('click', ()=>{
 });
 
 // Check fields
-const checkInput = (input, label) => {
+checkInput = (input, label) => {
     if (input.value === ''){
         label.innerText = 'Your must be complete this field.';
         return false; 
@@ -82,7 +82,7 @@ const checkInput = (input, label) => {
 }
 
 // Check email
-const checkEmail = (email, label) => {
+checkEmail = (email, label) => {
     if (!email == ''){
         const regex = /^[^s@]+@[^s@]+.[^s@]+.[^s@]+$/;
         if (!regex.test(email)) label.innerText = 'Your email is not correct.';
@@ -105,6 +105,6 @@ message.addEventListener('input', function(){
 });
 
 // Reset color
-const resetColor = (object) =>{
+resetColor = (object) =>{
     object.removeAttribute('style', 'border:red 2px solid');
 };
