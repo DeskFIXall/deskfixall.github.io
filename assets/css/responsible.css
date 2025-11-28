@@ -60,7 +60,7 @@ MARK:Mobile
         max-width: 600px;
     }
     #gallery{
-        width: 90%;
+        width: 350px;
     }
     .contact-transition, .home-transition{
         grid-template-columns: 1fr;
