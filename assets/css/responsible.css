@@ -30,6 +30,9 @@ MARK:Mobile
     .mouse{
         display: none;
     }
+    .home-text{
+        padding-left: 10px;
+    }
     .home-text-h1{
         font-size: 4.5rem;         
     }
@@ -61,7 +64,7 @@ MARK:Mobile
         height: auto;
         max-width: 100%;
     }
-    .contact{
+    .contact-transition, .home-transition{
         grid-template-columns: 1fr;
     }
     .contact-form h2{

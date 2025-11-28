@@ -95,6 +95,46 @@ MARK:Transitions
     opacity: 0;
   }
 }
+@-webkit-keyframes reflectLight {
+  0% {
+    left: -250%;
+  }
+  50% {
+    left: 150%;
+  }
+  100% {
+    left: 150%;
+  }
+}
+@keyframes reflectLight {
+  0% {
+    left: -250%;
+  }
+  50% {
+    left: 150%;
+  }
+  100% {
+    left: 150%;
+  }
+}
+/* Animación de fondo */
+@-webkit-keyframes moveBackground {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -18000px 0;
+  }
+}
+@keyframes moveBackground {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -18000px 0;
+  }
+}
+
 /*
 MARK:Effects
 */
@@ -114,4 +154,7 @@ MARK:Effects
   background-clip: text;
   background-image: linear-gradient(66.77deg,#ccc,#8c8c8c);
 }
-
+.transition{
+  -webkit-animation: moveBackground 1000s linear infinite;
+          animation: moveBackground 1000s linear infinite;
+} 

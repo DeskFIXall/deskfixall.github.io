@@ -49,48 +49,47 @@
 
 <!-- Home Section -->
 <section class="home" id="home">
+    <div class="home-transition transition">
+        <div class="home-text">
+            <div class="slide">
+                <span class="dos">Boardviews and schematics for sale.</span>
+            </div>
 
-    <div class="home-text">
-        <div class="slide">
-            <span class="dos">Boardviews and schematics for sale.</span>
+            <h1 class="home-text-h1" translate="no">DeskFIXall</h1>
+            <h3 class="home-text-h3" >Shop: 
+            <span class="typer" 
+                                id="some-id" 
+                                data-delay="100" 
+                                data-delim=":" 
+                                data-words="Motherboards.:Graphics Cards.: Schematics.:Boardviews.:Notebooks.:" 
+                                data-colors="rgb(174, 163, 67);">PC.</span>
+                        <span class="cursor" 
+                                data-cursordisplay=" |" 
+                                data-owner="some-id" 
+                                style="transition: all 0.1s ease 0s; opacity: 1;"> |
+                        </span>
+            </span>
+            </h3>
+
+            <p class="home-text-p">
+                Access clear and detailed repair and maintenance diagrams, optimized for technicians and enthusiasts. 
+                Simplify your work with accurate and reliable information!
+                <strong></br>🤝Thank you for using our service.</strong>
+            </p> 
+
+            <div class="button">
+                <a href="store.html" class="btn"><i class="fa fa-search"></i> Start to search</a>
+            </div>      
         </div>
 
-        <h1 class="home-text-h1" translate="no">DeskFIXall</h1>
-
-        <h3 class="home-text-h3" >Shop: 
-        <span class="typer" 
-                            id="some-id" 
-                            data-delay="100" 
-                            data-delim=":" 
-                            data-words="Motherboards.:Graphics Cards.: Schematics.:Boardviews.Notebooks:" 
-                            data-colors="rgb(174, 163, 67);">PC.</span>
-                    <span class="cursor" 
-                            data-cursordisplay=" |" 
-                            data-owner="some-id" 
-                            style="transition: all 0.1s ease 0s; opacity: 1;"> |
-                    </span>
-        </span>
-        </h3>
-
-        <p class="home-text-p">
-            Access clear and detailed repair and maintenance diagrams, optimized for technicians and enthusiasts. 
-            Simplify your work with accurate and reliable information!
-            <strong></br>🤝Thank you for using our service.</strong>
-        </p> 
-
-        <div class="button">
-            <a href="store.html" class="btn"><i class="fa fa-search"></i> Start to search</a>
-        </div>      
-    </div>
-
-    <center>
-        <div class="container hero-square is-moving-object is-rotating">
-            <img class="imagen1" src="assets/images/imagen1.webp" alt="Imagen original" />
-            <img class="imagen2" src="assets/images/imagen2.webp" alt="Imagen rayos X" />
-        </div>
-    </center>   
+        <center>
+            <div class="container hero-square is-moving-object is-rotating">
+                <img class="imagen1" src="assets/images/imagen1.webp" alt="Imagen original" />
+                <img class="imagen2" src="assets/images/imagen2.webp" alt="Imagen rayos X" />
+            </div>
+        </center>
+    </div> 
 </section>
-<!-- End Home Section -->
 
 <!-- Scroll indicator -->
 <div id="mouse" class="mouse" title="Scroll to move"></div>
@@ -175,22 +174,25 @@
 
 <!-- Contact -->
 <section class="contact" id="contact">
+    <div class="contact-transition transition">
+        <div class="contact-text">
+            <img src="assets/images/logo_shop.webp" alt="Logo"/>
+            <h4>Conctact me if you need any file.</h4>
+        </div>
 
-    <div class="contact-text">
-       <img src="assets/images/logo_shop.webp" alt="Logo"/>
-       <h4>Conctact me if you need any file.</h4>
-    </div>
-
-    <div class="contact-form">
-        <h2><i class="fa fa-map-marker fa-fw"></i><span>Contact</span>.</h2>  
-        <div class="form">
-            <label for="name" id="label_name"></label>
-            <input id="name" type="text" placeholder="Your Name" autocomplete="off">
-            <label for="email" id="label_email"></label>
-            <input id="email" type="email" placeholder="Your Email Address" autocomplete="off">
-            <label for="message" id="label_message"></label>
-            <textarea id="message" id="" cols="35" rows="10" placeholder="Message">Message</textarea>
-            <a class="submit-telegram"><i class="fa fa-paper-plane"></i>  Send to Telegram</a>
+        <div class="contact-form">
+            <h2><i class="fa fa-map-marker fa-fw"></i><span>Contact</span>.</h2>  
+            <div class="form">
+                <center>
+                <label for="name" id="label_name"></label>
+                <input id="name" type="text" placeholder="Your Name" autocomplete="off">
+                <label for="email" id="label_email"></label>
+                <input id="email" type="email" placeholder="Your Email Address" autocomplete="off">
+                <label for="message" id="label_message"></label>
+                <textarea id="message" id="" cols="35" rows="10" placeholder="Message"></textarea>
+                <a class="submit-telegram"><i class="fa fa-paper-plane"></i>  Send to Telegram</a>
+                </center>
+            </div>
         </div>
     </div>
 
@@ -208,7 +210,7 @@
 <!-- Scroll button -->
 <a href="#" >
     <div class="scrollup">
-        <i class="fa fa-angle-up"></i>
+        <i class="fa fa-angle-double-up"></i>
     </div>
 </a>
 
@@ -219,6 +221,5 @@
     <script defer src="./assets/js/script.js"></script>
     <script defer src="./assets/js/moment.js"></script>
     <script defer src="./assets/js/all.js"></script>
-    <script defer src="./assets/js/search.js"></script> 
     <!--<script defer src="./assets/js/copo_de_nieve.js"></script>-->
 </html>

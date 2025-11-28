@@ -1,11 +1,21 @@
 .contact{
-    background-image: linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ), 
+    background: linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ), 
                       url(../images/about.webp);
+    background-size: cover;
+    background-position: center;
+    padding-left: 0;
+    padding-right: 0;
+}
+.contact-transition{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 2.5rem;
-}
+    padding-left: 3%;
+    padding-right: 3%;
+    background-image: url(../images/fondo-transition-social.webp);
+    background-repeat: repeat space;
+} 
 .contact-text{
     text-align: center;
     align-content: center;
@@ -14,7 +24,7 @@
 .contact-text h4{
     color: #fff;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 600px;
 }
 .contact-form h2{
     color: #fff;
@@ -35,7 +45,6 @@
 .contact-text img{
     width: min-content;
 }
-
 .form{
     position: relative;
 }
@@ -78,3 +87,4 @@ label{
     line-height: 2.0;
     color:red;
 }
+
