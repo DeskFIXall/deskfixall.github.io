@@ -40,6 +40,8 @@
 #gallery{
     width:400px;
     height:295px;
+    background-size: contain;
+    background-repeat: no-repeat;
     animation-name: transition_gallery;
     animation-duration: 40s;
     animation-timing-function: linear;

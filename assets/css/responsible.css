@@ -59,10 +59,8 @@ MARK:Mobile
         margin: 15px 0 0 15px;
         max-width: 600px;
     }
-    .about-img img{
-        width: 100%;
-        height: auto;
-        max-width: 100%;
+    #gallery{
+        width: 90%;
     }
     .contact-transition, .home-transition{
         grid-template-columns: 1fr;
