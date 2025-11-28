@@ -2,7 +2,7 @@ const scrollUp = document.querySelector('.scrollup');
 const header = document.querySelector("header");
 
 // Scroll button
-window.addEventListener("scroll", function() {
+window.addEventListener("scroll", () => {
     if (window.scrollY > 100) {
         scrollUp.style.display = 'block'; // Mostrar
     } else {
@@ -10,10 +10,15 @@ window.addEventListener("scroll", function() {
     }
 });
 
-document.addEventListener("DOMContentLoaded", function(){
+document.addEventListener("DOMContentLoaded", () =>{
     header.classList.remove("sticky");
 });
 
-window.addEventListener("scroll", function(){
+window.addEventListener("scroll", () =>{
     header.classList.toggle("sticky", window.scrollY > 100);
 });
+
+scrollUp.addEventListener('click', () =>{
+    window.location.href = "#";
+});
+
