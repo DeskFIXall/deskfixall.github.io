@@ -42,8 +42,9 @@
     line-height: 1.8;
     margin-bottom: 30px;
 }
-#logo-in-contact{
-    width: min-content;
+.logo-in-contact{
+    max-width: 400px;
+    max-height:  295px;
 }
 .form{
     position: relative;

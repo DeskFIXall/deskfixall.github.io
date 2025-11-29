@@ -68,8 +68,8 @@ MARK:Mobile
     .contact-form h2{
         text-align: center;
     }
-    #logo-in-contact{
-        width: 50% !important;
+    .logo-in-contact{
+        width: 50%;
     }
 }
 @media(width < 740px){
