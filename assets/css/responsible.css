@@ -71,6 +71,9 @@ MARK:Mobile
     .logo-in-contact{
         width: 50%;
     }
+    .container{
+        display: none;
+    }
 }
 @media(width < 740px){
     .home-text-h1{
