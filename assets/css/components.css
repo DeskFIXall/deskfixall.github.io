@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: "MontSerrat";
-    src: url("../fonts/Montserrat-Regular.ttf") format("truetype");
+    src: url("../fonts/Montserrat-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -29,7 +29,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: transparent;
+    background: transparent;
     padding: 22px 15%;
     border-bottom: 1px solid transparent;
     transition: all .45s ease;
