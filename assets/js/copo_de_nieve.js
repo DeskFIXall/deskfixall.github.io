@@ -14,7 +14,7 @@ function snow() {
   var documentWidth = window.innerWidth;
 
   // Define la cantidad de milisegundos para generar un copo de nieve
-  var millisec = 50;
+  var millisec = 90;
   // 2, establece el primer temporizador, un temporizador periódico y genera un copo de nieve cada vez (milisegundos);
   setInterval(function() { // Una vez que se carga la página, el temporizador comienza a funcionar
       // Genera aleatoriamente el valor de left al principio de la caída del copo de nieve, que es equivalente a la posición del eje X al principio
