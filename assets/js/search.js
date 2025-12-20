@@ -28,12 +28,12 @@ renderPage = (page) => {
         const text = 'tg://resolve?domain=DeskFixAll&text=🖐🏻 Hello, I am interested in pay💳 for '
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
-                    <a target="_blank" href="${file.image}" title="📷 Click to view ${file.image}">
+                    <a target="_blank" href="${file.image}" title="📷 Click to view.">
                         <img src="${file.image}" alt="${file.image}" loading="lazy"/>
                     </a>
                         <div class="layer">
-                            <p class="name-search"><strong>${file.name}</strong></p></br>
-                            <a style="text-decoration: none" href="${text} ${file.name}">💳Pay Now</a>                                
+                            <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
+                            <a class="payNow" href="${text} ${file.name}">💳Pay Now</a>                                
                         </div>
                     `;
         files_container.appendChild(articleItem);
@@ -67,7 +67,7 @@ renderPaginationControls = () => {
 
     // Info página
     const pageInfo = document.createElement('span');
-    pageInfo.textContent = ` Page ${currentPage} de ${Math.ceil(filteredFiles.length / FILES_PER_PAGE)} `;
+    pageInfo.textContent = ` Page ${currentPage} of ${Math.ceil(filteredFiles.length / FILES_PER_PAGE)} `;
     pageInfo.style.margin = '0 10px';
     pagination.appendChild(pageInfo);
 
@@ -86,8 +86,13 @@ renderPaginationControls = () => {
 
 // Filtrar, actualizar lista y reiniciar paginación
 filesFilterInput.addEventListener('input', () => {
+    search(filesFilterInput);
+});
+
+// Filtrar, actualizar lista y reiniciar paginación
+search = (filter) =>{
     lastest.innerHTML = '<a target="_blank" href="ftp.html"><i class="fa fa-folder-open" title="Redirect to page"></i> Click to more files in ftp mode.</a>';
-    const filterValue = filesFilterInput.value.toLowerCase();
+    const filterValue = filter.value.toLowerCase();
     filteredFiles = database.files.filter(file => file.name.toLowerCase().includes(filterValue));
     currentPage = 1;
     if (filterValue === '') {
@@ -95,12 +100,12 @@ filesFilterInput.addEventListener('input', () => {
     } else {
         renderPage(currentPage);
     }
-});
+}
 
 // Render inicial: últimos 8 archivos sin filtro
 renderLastEightFiles = () => {
-    lastest.innerHTML = '<i class="fa fa-calendar"></i> Lastest 8 files:';
-    filteredFiles = database.files.slice(-8);
+    lastest.innerHTML = `<i class="fa fa-calendar"></i> Lastest ${FILES_PER_PAGE} files:`;
+    filteredFiles = database.files.slice(-FILES_PER_PAGE);
     currentPage = 1;
     renderPage(currentPage);
 }
