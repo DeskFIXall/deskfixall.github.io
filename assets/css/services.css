@@ -1,9 +1,21 @@
 .services{
     background-image: linear-gradient( to top, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ), 
                       url(../images/about.webp),
-                      linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ) ;
+                      linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black );
     background-size: cover;
     background-position: center;
+}
+.not-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+.services-transition{
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2.5rem;
+    align-items: center;    
+    background-image: url(../images/fondo-transition-portada.webp);
+    background-repeat: repeat space;
 }
 .services-content{
     display: grid;
@@ -14,6 +26,18 @@
     margin-top: 1rem;
     place-content: center;
     text-align: center;
+}
+.search{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.name-search{
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+    overflow: hidden;
+}
+.name-search:hover{
+    cursor: help;
 }
 .item-service{
     position: relative;
@@ -41,12 +65,15 @@
             animation: reflectLight 5s infinite;
     -webkit-animation-delay: 5s;
             animation-delay: 5s;
-  }
+}
 .item-service img{
     width: 230px;
     height:300px;
     border-radius: 8px;
     object-fit: cover;
+}
+.item-service img{
+    cursor: zoom-in;
 }
 .main-text{
     top: 10px;

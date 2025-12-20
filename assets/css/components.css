@@ -20,6 +20,9 @@ html{
     list-style: None;
     scroll-behavior: smooth;
 }
+a{
+    color: #fff;
+}
 header{
     position: fixed;
     width: 100%;
@@ -92,7 +95,6 @@ section{
 button{
     background: none;
     cursor: pointer !important;
-    width: 12px;
     height: 35px;
     border: #fff;
     color: #fff;
@@ -116,4 +118,38 @@ button{
     color:white !important;
     font-size: 48px;
     font-weight: bold;
+}
+.input-error{
+    border-color:  red;
+}
+.find{
+    background: #222;
+    border: 1px solid #5f5d5d;
+    text-align: center;
+    height: 35px;
+    color: #fff;
+    padding: 15px;
+    margin: 25px 10px;
+    width: 250px;
+}
+.find:focus{
+    outline: none;
+}
+#pagination{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+h1, h2, h3, li, #pagination{
+   user-select: none;
+}
+.payNow{
+    transition: all .50s ease-in-out;
+    padding: 5px;
+}
+.payNow:hover{
+    background: #ccc;
+    color: black;
+    border-radius: 5px;
+    font-weight: bolder;
 }
