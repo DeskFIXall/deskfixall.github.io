@@ -96,19 +96,36 @@ search = (filter) =>{
     filteredFiles = database.files.filter(file => file.name.toLowerCase().includes(filterValue));
     currentPage = 1;
     if (filterValue === '') {
-        renderLastEightFiles();
+        renderEightFiles();
     } else {
         renderPage(currentPage);
     }
 }
 
-// Render inicial: últimos 8 archivos sin filtro
-renderLastEightFiles = () => {
-    lastest.innerHTML = `<i class="fa fa-calendar"></i> Lastest ${FILES_PER_PAGE} files:`;
-    filteredFiles = database.files.slice(-FILES_PER_PAGE);
+// Función para obtener n elementos aleatorios sin repetición de un array
+function getRandomItems(arr, n) {
+    const result = [];
+    const taken = new Set();
+    n = Math.min(n, arr.length); // No exceder la cantidad disponible
+
+    while (result.length < n) {
+        const randomIndex = Math.floor(Math.random() * arr.length);
+        if (!taken.has(randomIndex)) {
+            taken.add(randomIndex);
+            result.push(arr[randomIndex]);
+        }
+    }
+
+    return result;
+}
+
+// Render inicial: mostrar 8 archivos aleatorios sin filtro
+renderEightFiles = () => {
+    lastest.innerHTML = `<i class="fa fa-calendar"></i> Random ${FILES_PER_PAGE} files:`;
+    filteredFiles = getRandomItems(database.files, FILES_PER_PAGE);
     currentPage = 1;
     renderPage(currentPage);
 }
 
 // Lanzar al cargar
-renderLastEightFiles();
+renderEightFiles();
