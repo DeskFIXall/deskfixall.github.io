@@ -1,3 +1,9 @@
+@media(width < 1921px){ 
+    header{
+        padding: 20px 2.5%;
+        transition: .1s;
+    }
+}
 @media(width > 1680px){ 
     .home, .about, .services, .contact{
         background-image: none;
