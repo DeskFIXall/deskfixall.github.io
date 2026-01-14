@@ -2,6 +2,7 @@
 var telegram_user = 'DeskFixAll';
 var callUser = `tg://resolve?domain=${telegram_user}&text=🖐🏻 Hello, I am interested in pay💳 for`
 var grados = 0;
+var zoom = 100;
 
 // Verificar imagen de PCB
 function verificarImagen(urlImagen, onSuccess, onError) {
@@ -79,7 +80,6 @@ function imageView(nombreArchivo){
 
 // Copy Text
 function copiarAlPortapapeles(texto) {
-  const status = document.getElementById('status');
   if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(texto)
       .then(() => {
@@ -101,9 +101,31 @@ document.getElementById('btnCopy').addEventListener('click', () => {
   }
 });
 
+// Rotate
 function rotar(){
     const img = document.getElementById('file');
     grados = grados + 90 ;  // Siempre aumenta 90 grados
     if (grados > 270){ grados = 0 }
     img.style.transform = `rotate(${grados}deg)`; // Aplicar la rotación    
 }
+
+// Zoom in
+const zoom_in = document.getElementById('zoom_in');
+zoom_in.addEventListener('click', 
+    () => {
+        const img = document.getElementById('file');
+        zoom = zoom - 10;
+        if (zoom > 10) img.style.width = `${zoom}%`;
+    }
+);
+// Zoom out
+const zoom_out = document.getElementById('zoom_out');
+zoom_out.addEventListener('click', 
+    () => {
+        const img = document.getElementById('file');
+        zoom = zoom + 10;
+        if (zoom < 100) img.style.width = `${zoom}%`;
+    }
+);
+
+
