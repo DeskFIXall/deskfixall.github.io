@@ -18,12 +18,6 @@
         height:100%;
     }
 }
-
-@media(width < 1480px){   
-    section{
-        padding: 110px 3% 60px;
-    }
-}
 @media(width < 1014px){   
     .mouse{
         top:-13vh;
