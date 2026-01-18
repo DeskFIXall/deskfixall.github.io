@@ -551,6 +551,20 @@ D.p(["D:/(STORE)/Shop - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-G
 
 		delete(Array.prototype.p);	// remove alias added above
 
+		function iconExt(file_tmp) {
+			const aux_tmp = file_tmp.toLowerCase();
+			const bvd_ext = ['fz', 'faz', 'asc', 'brd', 'bvr', 'pcb', 'cad'];
+			const compact_ext = ['zip', 'rar', '7zip'];
+			const is_bvd = bvd_ext.some(item => aux_tmp.includes(item));			
+			const is_compact = compact_ext.some(item => aux_tmp.includes(item));
+
+			if (aux_tmp.includes('pdf')) return "pdf";			
+			if (is_bvd) return "bvd";
+			if ( is_compact && !(is_bvd)) return "zip";
+
+			return "file_icon"
+		};
+
 		$(document).ready(function(){
 
 			var numberOfFiles = 15796;
@@ -914,7 +928,7 @@ D.p(["D:/(STORE)/Shop - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-G
 							}
 
 							var timestamp = timestampToDate(SearchFilenames[index][2]);
-							let clase = file_tmp.toLowerCase().includes('pdf') ? "pdf" : "bvd";
+							let clase = iconExt(file_tmp);
 							
 
 							// Buscando
@@ -1022,7 +1036,7 @@ D.p(["D:/(STORE)/Shop - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-G
 				var showParentFolderClass = "";
 				if( FolderID != 0 ) {
 					showParentFolderClass = " has-parent-folder"
-					table_html += "<span id='parent_folder' class='file_folder'><a href=\"#\" class=\"folder_link\" id=\"" + parent_folders[FolderID] + "\"> <b>[ ← ]</b></a></span>\n";										
+					table_html += "<span id='parent_folder' class='file_folder'><a href=\"#\" class=\"folder_link\" id=\"" + parent_folders[FolderID] + "\"> <b><i>[ ... Parent directory ]</i></b></a></span>\n";										
 					table_html += "<div id='parent_folder_border'></div>";
 				}
 				table_html += "<table id='files' class='tablesorter" + showParentFolderClass + "'><thead><th>Name</th><th>Size</th><th style='min-width:60px'>  Image  </th><th style='min-width:60px'>Go to Pay</th></tr></thead><tbody>\n";
@@ -1095,7 +1109,9 @@ D.p(["D:/(STORE)/Shop - DeskFixAll/VIDEOCARDS/NVIDIA*0*1755805326","Asus_STRIX-G
 					}
 					
 					var timestamp = timestampToDate(sTmp[2]);
-					let clase = file_tmp.toLowerCase().includes('pdf') ? "pdf" : "bvd";
+
+					// MARK: principal
+					let clase = iconExt(file_tmp);
 					
 					// Listado
 					table_html += 
