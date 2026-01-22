@@ -106,11 +106,34 @@ button{
     border: #fff;
     color: #fff;
     font-size: 14px !important;
-}  
-.scrollup{
+}
+.shopping-car{
+    width: 30%; /*  50% en vista movil*/
+    height: 50%;
+    z-index: 1000;    
+    background-color: rgba(0,0,0,0.90);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    position: fixed;
+    text-align: center;
+    font-size: 13px;
+    bottom: 20px;
+	right: 80px;
+}
+.car-button{
 	position: fixed;
 	bottom: 20px;
 	right: 20px;
+    transition: all .45s ease;
+    -webkit-filter: drop-shadow(0px 0px 3px black);
+    filter: drop-shadow(0px 0px 3px black);
+    user-select: none;
+    transition: all .50s ease-in-out;
+}
+.scrollup{
+	position: fixed;
+	bottom: 80px;
+	right: 25px;
     display: none;	
     transition: all .45s ease;
     -webkit-filter: drop-shadow(0px 0px 3px black);
@@ -118,10 +141,19 @@ button{
     user-select: none;
     transition: all .50s ease-in-out;
 }
-.scrollup:hover{
+.car-button sup{
+    position:absolute;
+    right:-7px;
+    background-color: red;
+    border-radius:10px;
+    padding:5px;
+    width:30px;
+    text-align: center;
+}
+.scrollup:hover, .car-button:hover{
     cursor:pointer;
 }
-.scrollup i{
+.scrollup i, .car-button i{
     color:white !important;
     font-size: 48px;
     font-weight: bold;
@@ -150,13 +182,54 @@ button{
 h1, h2, h3, li, #pagination{
    user-select: none;
 }
-.payNow{
+
+.addCart{
     transition: all .50s ease-in-out;
     padding: 5px;
 }
-.payNow:hover{
+.payNow{
+    display:none;
+    transition: all .50s ease-in-out;
+    padding: 5px;
+}
+.payNow:hover,.addCart:hover{
+    cursor:pointer;
     background: #ccc;
     color: black;
     border-radius: 5px;
     font-weight: bolder;
+}
+table{
+    width: 100%;
+    padding-left:10px;  
+    padding-right:10px;  
+    place-content: center;
+    align-items: center;
+    align-content: center;          
+}
+td{
+    background: linear-gradient(180deg, #202020, #303030);
+    height: 20px;            
+}
+td img{
+    object-fit: contain;
+    max-width:64px;
+    margin:4px;
+}
+.shopping-car{
+    display: none;
+    border-radius: 10px;
+    text-align: center;
+}
+.containerCar{
+    width: 98%;
+    height: 77%;
+    overflow: auto; 
+    scrollbar-width: thin;
+}
+.btnEliminar{
+    background-color: rgb(158, 61, 61);
+    margin: 5px;
+    padding:10px;
+    border-radius:4px;
 }

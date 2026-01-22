@@ -134,6 +134,37 @@ MARK:Mobile
         max-width: 550px;
     }
 }
+@media(width < 1145px){
+    .shopping-car{
+        width: 60%;
+    }
+}
+@media(width < 1000px){
+    .shopping-car{
+        width: 50%;
+    }
+}
+@media(width < 880px){
+    .shopping-car{
+        width: 70%;
+    }
+}
+@media(width < 700px){
+    .shopping-car{
+        width: 60%;
+    }
+}
+@media(width < 569px){
+    .shopping-car{
+        width: 80%;
+    }
+}
+@media(width < 413px){
+    .shopping-car{
+        width: 75%;
+    }
+}
+
 /*
 MARK:Hamburguesa 
 */

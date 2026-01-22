@@ -5,7 +5,7 @@
 <head>
     <meta name="viewport" content="width=device-width, maximum-scale=5, initial-scale=1, user-scalable=1">
     <title>DeskFIXall Solutions - Shop</title>
-    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.png">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <link rel="stylesheet" href="assets/css/(style).css">
 
     <meta name="author" content="Shop - DeskFixAll Solutions" />
@@ -33,7 +33,7 @@
 <body>
 <main>
     <header class="sticky">
-        <a href="#" class="logo" style="font-size: 24px;">
+        <a href="#" class="logo" style="font-size: 24px">
             <ul>     
             <li translate="no">
                 <svg style="margin-bottom: -2px;" width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -66,8 +66,9 @@
                 <input id="filesFilter" class="filesFilter find" placeholder="Boardview serie..."></br></br></br>
             </div>
             </br></br>
+
             <!-- No existe -->
-             <div>
+            <div>
             <center>
                 <h2 id="texto" style="margin-bottom:10px"></h2>
                 <h3 id="lastest"></h3>
@@ -92,9 +93,32 @@
 </footer>
 <!---End Footer-->
 
+<!-- 
+    MARK: Shopping-Cart 
+-->
+<div class="shopping-car">
+    <p style="font-size: large; padding: 10px;"><i class="fa fa-shopping-cart"></i> Cart</p>
+
+    <div class="containerCar">
+        <table id="cartTable">
+            <tbody></tbody>
+        </table>
+    </div>
+    
+    <div style="place-content: center; margin-top: 10px;">
+        <a id="requestCart" class="payNow">💳Pay Now</a>
+    </div>
+
+</div>
+
 <!-- Scroll button -->
 <div class="scrollup">
     <i class="fa fa-angle-double-up"></i>
+</div>
+
+<!-- Shop-Cart button -->
+<div class="car-button">
+    <i class="fa fa-shopping-cart"></i><sup id="countNumber">0</sup>
 </div>
 
 </body>
@@ -112,4 +136,5 @@
     <script defer src="./assets/js/scroll.js"></script>
     <script defer src="./assets/js/database.js"></script>
     <script defer src="./assets/js/search.js"></script>
+    <script defer src="./assets/js/cart.js"></script>
 </html>

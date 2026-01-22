@@ -25,7 +25,6 @@ renderPage = (page) => {
 
     pageFiles.forEach(file => {
         const articleItem = document.createElement('article');
-        const text = 'tg://resolve?domain=DeskFixAll&text=🖐🏻 Hello, I am interested in pay💳 for '
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
                     <a target="_blank" href="${file.image}" title="📷 Click to view.">
@@ -33,10 +32,14 @@ renderPage = (page) => {
                     </a>
                         <div class="layer">
                             <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
-                            <a class="payNow" href="${text} ${file.name}">💳Pay Now</a>                                
+                            <button class="addCart" onclick="addProduct( '${file.image}', '${file.name}' )">
+                                <i class="fa fa-cart-plus"></i> <strong>Add to Cart</strong>
+                            </button>                                
                         </div>
                     `;
+                    
         files_container.appendChild(articleItem);
+        //<a class="payNow" href="${text} ${file.name}">💳Pay Now</a>  
     });
 
     renderPaginationControls();
