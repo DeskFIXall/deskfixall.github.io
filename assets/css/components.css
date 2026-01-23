@@ -108,7 +108,7 @@ button{
     font-size: 14px !important;
 }
 .shopping-car{
-    width: 30%; /*  50% en vista movil*/
+    width: 30%;
     height: 50%;
     z-index: 1000;    
     background-color: rgba(0,0,0,0.90);
@@ -192,6 +192,11 @@ h1, h2, h3, li, #pagination{
 .addCart{
     transition: all .50s ease-in-out;
     padding: 5px;
+    background: black;
+    background: linear-gradient(180deg, #c3c2c2, #777676);
+    color: black;
+    border-radius: 5px;
+    transition: all .50s ease-in-out;
 }
 .payNow{
     display:none;
@@ -227,6 +232,9 @@ td img{
     max-width:64px;
     margin:4px;
 }
+td img:hover{
+    cursor: zoom-in;
+}
 .shopping-car{
     display: none;
     border-radius: 10px;
@@ -243,8 +251,13 @@ td img{
     border:2px solid #ccc;
 }
 .btnEliminar{
-    background-color: rgb(158, 61, 61);
+    background: linear-gradient(180deg, #9e3d3d, #5e2323);
     margin: 5px;
     padding:10px;
     border-radius:4px;
+}
+.fotterCar{
+    place-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
