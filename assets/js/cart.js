@@ -63,10 +63,16 @@ const updateCartCount = () => {
     const count = tbody.querySelectorAll('tr').length;
     const requestCart = document.getElementById('requestCart');
     const countNumber = document.getElementById('countNumber');
+    const message = document.querySelector('.shopping-car span');
 
     if (countNumber) countNumber.innerText = count;
-    if (count > 0) requestCart.setAttribute('style', 'display: inline');
-    else requestCart.setAttribute('style', 'display: none');
+    if (count > 0) {
+        requestCart.setAttribute('style', 'display: inline');
+        message.setAttribute('style', 'display: none');
+    }else {
+        requestCart.setAttribute('style', 'display: none');
+        message.setAttribute('style', 'display: inline');
+    }
     return count;
 };
 

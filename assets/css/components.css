@@ -197,10 +197,14 @@ h1, h2, h3, li, #pagination{
     display:none;
     transition: all .50s ease-in-out;
     padding: 5px;
+    background: #ccc;
+    color: black;
+    border-radius: 5px;
+    font-weight: bolder;
 }
 .payNow:hover,.addCart:hover{
     cursor:pointer;
-    background: #ccc;
+    background: #fff;
     color: black;
     border-radius: 5px;
     font-weight: bolder;
