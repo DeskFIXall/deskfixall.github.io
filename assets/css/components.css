@@ -209,6 +209,7 @@ table{
     width: 100%;
     padding-left:10px;  
     padding-right:10px;  
+    padding-top:10px;  
     place-content: center;
     align-items: center;
     align-content: center;          
@@ -227,11 +228,15 @@ td img{
     border-radius: 10px;
     text-align: center;
 }
+.shopping-car p{
+    background: linear-gradient(180deg, #202020, #303030);
+    border-radius: 10px;
+}
 .containerCar{
-    width: 98%;
     height: 77%;
     overflow: auto; 
     scrollbar-width: thin;
+    border:2px solid #ccc;
 }
 .btnEliminar{
     background-color: rgb(158, 61, 61);
