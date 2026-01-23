@@ -209,7 +209,7 @@ h1, h2, h3, li, #pagination{
 }
 .payNow:hover,.addCart:hover{
     cursor:pointer;
-    background: #fff;
+    background: linear-gradient(180deg, #777676,  #c3c2c2 );
     color: black;
     border-radius: 5px;
     font-weight: bolder;
