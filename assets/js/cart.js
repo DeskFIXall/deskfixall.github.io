@@ -17,6 +17,12 @@ asignarEventoEliminar();
 
 // Add row
 function addProduct(imageProductURl, nameProdduct) {
+
+    if (isExistProduct(nameProdduct)) {
+        alert(`✅ The product [ ${nameProdduct} ] is already in the cart.`);
+        return
+    };
+
     const tabla = document.getElementById('cartTable');
     const nuevaFila = tabla.insertRow();
 
@@ -80,12 +86,25 @@ const updateCartCount = () => {
 // Send request car
 const requestCart = document.getElementById('requestCart');
 requestCart.addEventListener('click', () => {
-    let list = [];
     const products = document.querySelectorAll('.producto-nombre');
-        products.forEach( (product, index, arr) => {
-            list += product.innerText;
-            if (index !== arr.length - 1) list += ',';
-        });
+    const setList = new Set();
 
-    window.location.href = urlPay + '```\n' + list + '\n' + '```' ;
+    products.forEach(product => {
+        const texto = product.innerText.trim();
+        setList.add(texto);
+    });
+
+    const result = Array.from(setList).join(', ');
+
+    window.location.href = urlPay + '```\n' + result + '\n' + '```' ;
 })
+
+// Check product
+
+const isExistProduct = (requestProduct) =>{
+    const tabla = document.getElementById('cartTable');
+    const products = tabla.querySelectorAll('.producto-nombre');
+
+    return Array.from(products).some(product => product.innerText.trim() === requestProduct.trim());
+
+};
