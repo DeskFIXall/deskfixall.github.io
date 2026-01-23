@@ -132,7 +132,6 @@ button{
 }
 .scrollup{
 	position: fixed;
-	bottom: 80px;
 	right: 25px;
     display: none;	
     transition: all .45s ease;
@@ -141,6 +140,13 @@ button{
     user-select: none;
     transition: all .50s ease-in-out;
 }
+.scrollup.index{
+    bottom: 20px;
+}
+.scrollup.store{
+    bottom: 80px;
+}
+
 .car-button sup{
     position:absolute;
     right:-7px;
