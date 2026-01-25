@@ -7,7 +7,7 @@ database.files.forEach(file => {
     const titulo = document.createElement('h3');
     const enlace = document.createElement('a');
     enlace.href = file.image;
-    enlace.textContent = file.name;
+    enlace.textContent = `Boardview ${file.name}`;
     enlace.target = '_blank'; // abre la imagen en nueva pestaña
     enlace.rel = 'noopener noreferrer'; // recomendaciones de seguridad
     titulo.appendChild(enlace);
