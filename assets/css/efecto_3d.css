@@ -3,6 +3,7 @@
     width: 350px;   
     height: 450px;
     overflow: hidden;
+    user-select:none;
   }
 .imagen1, .imagen2 {
   position: absolute;
@@ -41,3 +42,4 @@
   animation: lineaAmarilla 4s linear infinite alternate;
   z-index: 3;
 }
+
