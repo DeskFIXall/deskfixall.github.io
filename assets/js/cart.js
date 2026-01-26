@@ -70,14 +70,17 @@ const updateCartCount = () => {
     const requestCart = document.getElementById('requestCart');
     const countNumber = document.getElementById('countNumber');
     const message = document.querySelector('.shopping-car span');
+    const container_cart = document.querySelector('.containerCar');
 
     if (countNumber) countNumber.innerText = count;
     if (count > 0) {
         requestCart.setAttribute('style', 'display: inline');
         message.setAttribute('style', 'display: none');
+        container_cart.classList.remove('emptyCart');
     }else {
         requestCart.setAttribute('style', 'display: none');
         message.setAttribute('style', 'display: inline');
+        container_cart.classList.add('emptyCart');
     }
     return count;
 };

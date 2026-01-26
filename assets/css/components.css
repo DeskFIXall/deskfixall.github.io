@@ -84,14 +84,7 @@ header.sticky{
 body{
     background-color: black;
     color: white;
-    /*background: linear-gradient( to bottom, rgba(0,0,0,0.1),rgba(0, 0, 0, 0), black ),
-                        url(../images/Portada.webp) fixed;
-    background-size: cover;
-    background-position: center;
-    width:100%;
-    height:100%;*/
 }
-
 span{
     color:#ddb73b;
     font-weight: bolder;
@@ -249,6 +242,10 @@ td img:hover{
     overflow: auto; 
     scrollbar-width: thin;
     border:2px solid #ccc;
+}
+.containerCar.emptyCart{
+    background: url('../images/empty_cart.png') no-repeat center;
+    background-size: contain;
 }
 .btnEliminar{
     background: linear-gradient(180deg, #9e3d3d, #5e2323);
