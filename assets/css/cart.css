@@ -1,0 +1,108 @@
+.shopping-car{
+    width: 30%;
+    height: 50%;
+    z-index: 1000;    
+    background-color: rgba(0,0,0,0.90);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+    border: 2px solid #ccc;
+    position: fixed;
+    text-align: center;
+    font-size: 13px;
+    bottom: 20px;
+	right: 80px;
+}
+.car-button{
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+    transition: all .45s ease;
+    -webkit-filter: drop-shadow(0px 0px 3px black);
+    filter: drop-shadow(0px 0px 3px black);
+    user-select: none;
+    transition: all .50s ease-in-out;
+}
+.car-button sup{
+    position:absolute;
+    right:-7px;
+    background-color: red;
+    border-radius:10px;
+    padding:5px;
+    width:30px;
+    text-align: center;
+}
+.addCart{
+    transition: all .50s ease-in-out;
+    padding: 5px;
+    background: black;
+    background: linear-gradient(180deg, #c3c2c2, #777676);
+    color: black;
+    border-radius: 5px;
+    transition: all .50s ease-in-out;
+}
+.payNow{
+    display:none;
+    transition: all .50s ease-in-out;
+    padding: 5px;
+    background: #ccc;
+    color: black;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+.payNow:hover,.addCart:hover{
+    cursor:pointer;
+    background: linear-gradient(180deg, #777676,  #c3c2c2 );
+    color: black;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+table{
+    width: 100%;
+    padding-left:10px;  
+    padding-right:10px;  
+    padding-top:10px;  
+    place-content: center;
+    align-items: center;
+    align-content: center;          
+}
+td{
+    background: linear-gradient(180deg, #202020, #303030);
+    height: 20px;            
+}
+td img{
+    object-fit: contain;
+    max-width:64px;
+    margin:4px;
+}
+td img:hover{
+    cursor: zoom-in;
+}
+.shopping-car{
+    display: none;
+    border-radius: 10px;
+    text-align: center;
+}
+.shopping-car p{
+    background: linear-gradient(180deg, #202020, #303030);
+    border-radius: 10px 10px 0 0;
+}
+.containerCar{
+    height: 79%;
+    overflow: auto; 
+    scrollbar-width: thin;
+    border:2px solid #ccc;
+}
+.containerCar.emptyCart{
+    background: url('../images/empty_cart.png') no-repeat center;
+    background-size: contain;
+}
+.btnEliminar{
+    background: linear-gradient(180deg, #9e3d3d, #5e2323);
+    margin: 5px;
+    padding:10px;
+    border-radius:4px;
+}
+.fotterCar{
+    place-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -294,16 +294,4 @@ MARK: Services
         grid-template-columns: repeat(auto-fit, minmax(auto,200px));
         grid-template-columns: repeat(1, 1fr);
     }
-    .item-service img{
-        width: 50%;
-        height: 50%;
-        object-fit: contain;
-    }
-}
-@media (width : 565px) {
-    .item-service img{
-        width: 100%;
-        height: 50%;
-        object-fit: contain;
-    }
 }
