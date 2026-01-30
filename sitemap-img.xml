@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
    <url>
-       <loc>https://deskfixall.github.io/store.html</loc>
+       <loc>https://deskfixall.github.io</loc>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/19674_N3050I_C_1_00_N3050I_C_R1_00EN_021922560MB0M30_MB0A01%20(FZ).webp</image:loc>
            <image:title>Boardview 19674_N3050I_C_1_00_N3050I_C_R1_00EN_021922560MB0M30_MB0A01 (FZ)</image:title>
@@ -14996,3 +14996,4 @@
        </image:image>
    <url>
 </urlset>
+
