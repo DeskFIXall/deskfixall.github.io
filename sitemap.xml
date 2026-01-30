@@ -19,7 +19,7 @@
        <priority>1.0</priority>
    </url>
    </url>
-       <loc>https://deskfixall.github.io/products.html</loc>
+       <loc>https://deskfixall.github.io/products-dynamic.html</loc>
        <lastmod>2026-01-26</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0</priority>
@@ -22513,3 +22513,4 @@
           <priority>1.0</priority>
    </url>
 </urlset>
+
