@@ -28,7 +28,7 @@ renderPage = (page) => {
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
                     <a target="_blank" href="${file.image}" title="📷 Click to view.">
-                        <img src="${file.image}" alt="${file.image}" />
+                        <img src="${file.image}" alt="${file.image}" loading="lazy"/>
                     </a>
                         <div class="layer">
                             <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
@@ -133,3 +133,4 @@ renderEightFiles = () => {
 // Lanzar al cargar
 
 renderEightFiles();
+
