@@ -28,7 +28,12 @@ renderPage = (page) => {
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
                     <a target="_blank" href="${file.image}" title="📷 Click to view.">
-                        <img src="${file.image}" alt="${file.image}" loading="lazy"/>
+                        <img src='/assets/images/loading.webp'
+                             data-src="${file.image}" 
+                             alt="${file.image}"
+                             loading="lazy"
+                             onload="if(this.dataset.src){this.src=this.dataset.src; delete this.dataset.src;}"
+                             onerror="this.onerror=null;this.src='/assets/images/unlink.webp' "/>
                     </a>
                         <div class="layer">
                             <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
@@ -39,7 +44,6 @@ renderPage = (page) => {
                     `;
                     
         files_container.appendChild(articleItem);
-        //<a class="payNow" href="${text} ${file.name}">💳Pay Now</a>  
     });
 
     renderPaginationControls();
@@ -131,6 +135,4 @@ renderEightFiles = () => {
 }
 
 // Lanzar al cargar
-
 renderEightFiles();
-
