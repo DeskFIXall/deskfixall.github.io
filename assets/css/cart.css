@@ -86,7 +86,7 @@ td img:hover{
     border-radius: 10px 10px 0 0;
 }
 .containerCar{
-    height: 79%;
+    height: 78%;
     overflow: auto; 
     scrollbar-width: thin;
     border:2px solid #ccc;
@@ -105,4 +105,5 @@ td img:hover{
     place-content: center;
     margin-top: 10px;
     margin-bottom: 10px;
+
 }
