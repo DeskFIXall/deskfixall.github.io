@@ -5,7 +5,7 @@ var grados = 0;
 var zoom = 100;
 
 // Verificar imagen de PCB
-function verificarImagen(urlImagen, onSuccess, onError) {
+verificarImagen = (urlImagen, onSuccess, onError) => {
     const img = new Image();
 
     img.onload = function() {
@@ -21,7 +21,7 @@ function verificarImagen(urlImagen, onSuccess, onError) {
 }
 
 // Dialog View Image
-function mostrarDialog(){
+mostrarDialog = () => {
     var windowHeight = document.body.clientHeight;
     var content = document.getElementById('viewfile_content');
 
@@ -45,12 +45,12 @@ function mostrarDialog(){
 }		
 
 // CallPay
-function pay(archive){
+pay = (archive) => {
     window.open(`${callUser} ${archive}`, "_blank"); 
 }
 
 // Call image PCB
-function imageView(nombreArchivo){			
+imageView = (nombreArchivo) => {			
     const file = nombreArchivo.slice(0, nombreArchivo.lastIndexOf('.'));
     const ext = nombreArchivo.toLowerCase();
     let fileName = file;
@@ -61,9 +61,7 @@ function imageView(nombreArchivo){
     const linkFullImage = document.getElementById('full');
     const pay_button = document.getElementById('pay_button');
 
-    if (ext.includes('pdf')){
-        url = urlPDF;
-    }
+    if (ext.includes('pdf'))  url = urlPDF;
 
     verificarImagen(url,
     () => {
@@ -79,7 +77,7 @@ function imageView(nombreArchivo){
 }
 
 // Copy Text
-function copiarAlPortapapeles(texto) {
+copiarAlPortapapeles = (texto) => {
   if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(texto)
       .then(() => {
@@ -102,7 +100,7 @@ document.getElementById('btnCopy').addEventListener('click', () => {
 });
 
 // Rotate
-function rotar(){
+rotar = () => {
     const img = document.getElementById('file');
     grados = grados + 90 ;  // Siempre aumenta 90 grados
     if (grados > 270){ grados = 0 }

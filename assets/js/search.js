@@ -105,11 +105,11 @@ search = (filter) => {
     const filterValue = filter.value.toLowerCase();
     filteredFiles = database.files.filter(file => file.name.toLowerCase().includes(filterValue));
     currentPage = 1;
+
     if (filterValue === '') {
-        renderEightFiles();
-    } else {
-        renderPage(currentPage);
+       return renderEightFiles();
     }
+     renderPage(currentPage);
 }
 
 // Función para obtener n elementos aleatorios sin repetición de un array

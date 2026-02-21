@@ -56,10 +56,9 @@ const shopping_car = document.querySelector('.shopping-car');
 car_button.addEventListener('click', () => {
     const style = window.getComputedStyle(shopping_car);
     if (style.display === 'none') {
-        shopping_car.style.display = 'block';
-    } else {
-        shopping_car.style.display = 'none';
+        return shopping_car.style.display = 'block';
     }
+    shopping_car.style.display = 'none';
 });
 
 
@@ -98,16 +97,13 @@ requestCart.addEventListener('click', () => {
     });
 
     const result = Array.from(setList).join(', ');
-
     window.location.href = urlPay + '```\n' + result + '\n' + '```' ;
 })
 
-// Check product
 
+// Check product
 const isExistProduct = (requestProduct) =>{
     const tabla = document.getElementById('cartTable');
     const products = tabla.querySelectorAll('.producto-nombre');
-
     return Array.from(products).some(product => product.innerText.trim() === requestProduct.trim());
-
 };

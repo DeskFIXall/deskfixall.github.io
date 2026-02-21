@@ -31,8 +31,7 @@ const message_label = document.getElementById('label_message');
 
 
 // Send Message to Telegram
-submit_telegram.addEventListener('click', () =>{
-
+submit_telegram.addEventListener('click', () => {
     // Reset fields
     let danger = 'border:red 2px solid';
     fullname.removeAttribute('style', danger);
@@ -59,7 +58,7 @@ submit_telegram.addEventListener('click', () =>{
 checkInput = (input, label) => {
     if (input.value === ''){
         label.innerText = 'Your must be complete this field.';
-        return false; 
+        return ; 
     }
     label.innerText = '';
     return true; 
@@ -71,32 +70,32 @@ checkEmail = (email, label) => {
 
     if (email.value.trim() === ''){
         label.innerText = 'Your email is blank.';
-        return false;
+        return ;
     }
 
     if (!emailRegex.test(email.value)) {
         label.innerText = 'Your email is not correct.';
-        return false;
+        return ;
     } 
     resetColor(email);
     return true;
 }
 
 // Remove all danger borders 
-fullname.addEventListener('input', function(){
+fullname.addEventListener('input', () => {
     name_label.innerText = '';
     resetColor(this);
 });
-email.addEventListener('input', function(){
+email.addEventListener('input', () => {
     email_label.innerText = '';
     resetColor(this);
 });
-message.addEventListener('input', function(){
+message.addEventListener('input', () => {
     message_label.innerText = '';
     resetColor(this);
 });
 
 // Reset color
-resetColor = (object) =>{
+resetColor = (object) => {
     object.removeAttribute('style', 'border:red 2px solid');
 };

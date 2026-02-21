@@ -4,21 +4,20 @@ const header = document.querySelector("header");
 // Scroll button
 window.addEventListener("scroll", () => {
     if (window.scrollY > 100) {
-        scrollUp.style.display = 'block'; // Mostrar
-    } else {
-        scrollUp.style.display = 'none'; // Ocultar
-    }
+        return scrollUp.style.display = 'block'; // Mostrar
+    } 
+    scrollUp.style.display = 'none'; // Ocultar
 });
 
-document.addEventListener("DOMContentLoaded", () =>{
+document.addEventListener("DOMContentLoaded", () => {
     header.classList.remove("sticky");
 });
 
-window.addEventListener("scroll", () =>{
+window.addEventListener("scroll", () => {
     header.classList.toggle("sticky", window.scrollY > 100);
 });
 
-scrollUp.addEventListener('click', () =>{
+scrollUp.addEventListener('click', () => {
     window.location.href = "#";
 });
 
