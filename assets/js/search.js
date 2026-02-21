@@ -64,6 +64,7 @@ renderPaginationControls = () => {
     const prevButton = document.createElement('button');
     prevButton.textContent = 'Previous';
     prevButton.disabled = currentPage === 1;
+    if (prevButton.disabled) prevButton.classList.add('disabled');
     prevButton.addEventListener('click', () => {
         if (currentPage > 1) {
             currentPage--;
@@ -82,6 +83,8 @@ renderPaginationControls = () => {
     const nextButton = document.createElement('button');
     nextButton.textContent = 'Next';
     nextButton.disabled = currentPage >= Math.ceil(filteredFiles.length / FILES_PER_PAGE);
+    if (nextButton.disabled) nextButton.classList.add('disabled');
+
     nextButton.addEventListener('click', () => {
         if (currentPage < Math.ceil(filteredFiles.length / FILES_PER_PAGE)) {
             currentPage++;
@@ -97,7 +100,7 @@ filesFilterInput.addEventListener('input', () => {
 });
 
 // Filtrar, actualizar lista y reiniciar paginación
-search = (filter) =>{
+search = (filter) => {
     lastest.innerHTML = '<a target="_blank" href="ftp.html"><i class="fa fa-folder-open" title="Redirect to page"></i> Click to more files in ftp mode.</a>';
     const filterValue = filter.value.toLowerCase();
     filteredFiles = database.files.filter(file => file.name.toLowerCase().includes(filterValue));
@@ -110,7 +113,7 @@ search = (filter) =>{
 }
 
 // Función para obtener n elementos aleatorios sin repetición de un array
-function getRandomItems(arr, n) {
+getRandomItems = (arr, n) => {
     const result = [];
     const taken = new Set();
     n = Math.min(n, arr.length); // No exceder la cantidad disponible
