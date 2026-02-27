@@ -84,18 +84,19 @@ checkEmail = (email, label) => {
 // Remove all danger borders 
 fullname.addEventListener('input', () => {
     name_label.innerText = '';
-    resetColor(this);
+    resetColor(fullname);
 });
 email.addEventListener('input', () => {
     email_label.innerText = '';
-    resetColor(this);
+    resetColor(email);
 });
 message.addEventListener('input', () => {
     message_label.innerText = '';
-    resetColor(this);
+    resetColor(message);
 });
 
 // Reset color
 resetColor = (object) => {
     object.removeAttribute('style', 'border:red 2px solid');
+
 };
