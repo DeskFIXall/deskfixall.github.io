@@ -82,17 +82,17 @@ checkEmail = (email, label) => {
 }
 
 // Remove all danger borders 
-fullname.addEventListener('input', () => {
+fullname.addEventListener('input', function () {
     name_label.innerText = '';
-    resetColor(fullname);
+    resetColor(this);
 });
-email.addEventListener('input', () => {
+email.addEventListener('input', function () {
     email_label.innerText = '';
-    resetColor(email);
+    resetColor(this);
 });
-message.addEventListener('input', () => {
+message.addEventListener('input', function () {
     message_label.innerText = '';
-    resetColor(message);
+    resetColor(this);
 });
 
 // Reset color
@@ -100,3 +100,4 @@ resetColor = (object) => {
     object.removeAttribute('style', 'border:red 2px solid');
 
 };
+
