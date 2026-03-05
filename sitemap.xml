@@ -841,6 +841,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/ASRock%20Fatal1ty%20Z270%20Gaming%20K6%20Rev%201.02%2080-MXB3M0-A01%20BoardView%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/ASRock%20FM2A75M-ITX%20R1.01%2070-MXGNR0-A01%20BoardView%20File%20(FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -4075,6 +4081,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Asus%20CG210PL3_1.0%20PH-GTX1050TI-4G%20-%20BoardView%20(.FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Asus%20CROSSHAIR%20IV%20EXTREM%20Rev1.02G%20Boardview%20(FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -4148,6 +4160,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/ASUS%20DUAL-RTX2060S-O8G-EVO-V2%20CG161P%20R2.%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Asus%20DUAL-RX590-GME-O8G-D2I2S%20D009PI2%20r1.01X%20(CAD)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -4394,6 +4412,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Asus%20GTX970%204GD5_1.01_60PA06W0-VG0A31%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ASUS%20GTX980TI%20BoardView%20(FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -4748,6 +4772,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/ASUS%20H170M-PLUS%20REV1.04W%20BoardView%20File%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ASUS%20H610M%20H%20DDR4%20r1.0%20Boardview%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -6511,7 +6541,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Asus%20ROG%20Strix%20GTX%201060_70%20Rev1.0%20CG411P3%20STRIX-GTX1060-O6G-GAMING%20-%20BoardView%20(.FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/ASUS%20ROG%20STRIX%20GTX1080TI%20GAMING%20CG611P%20(60YV0AM1-VG0B01)%20Rev%201.01X</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Asus%20ROG%20Strix%20RTX%203090%20OC%20Edition%2024GB%20ROG-STRIX-RTX3090-24G-GAMING-2I3%2060YV0F90-VG0A01%20(CG132BS%20MIC)%20Rev%201.01X%20-%20BoardView%20(.FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -7064,6 +7106,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Asus%20TUF%20B360-PLUS%20GAMING%20Rev1.01B%2060MB0X10-MB0A01%20BoardView%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ASUS%20TUF%20B365M-PLUS_GAMING%20R1.01%20Boardview%20(CAD)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -7789,6 +7837,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Asus_TUF_RTX3070TI_O8G_GAMING_2I3S_CG141BP_MIC_r1_00X60YV0GY0_VG0A01-%20BoardView%20(.FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/ASUS_TUF_RX9070XT_O16G_I3SR1_00X_G295BPHYN_PH3F_60YV0L70_VG0A02_EN_0427001%20Boardview%20(FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -7796,6 +7850,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/ASUS_TUF_Z370_PLUS_GAMING_60MB0VF0_MB0A01_Rev_1_03A_BOARDVIEW%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Asus C1060PML_KA Rev%201.00 59YV01J1-VG0A13D%20-%20BoardView%20(FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -14155,6 +14215,42 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GTX1060%20GV-N1060%203G%20R2.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GTX1060%20GV-N1060AORUS%20X%206G%20%20R1.0-2.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GTX1650%20GV-N1650D6%204G%20R2.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GTX1650%20GV-N1650GAMING%20OC%204G%20R1.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N105TOC-4GB%20Rev1.1%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N1060D5-3GD%20Rev2.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GIGABYTE%20GV-N1070IXOC-8GD-0.2%20REV%201.0%20BoardView%20File%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -14257,13 +14353,85 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N650OC-1GI%20Rev2.0%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N660OC-2GD%20Rev1.01%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Gigabyte%20GV-N740D5OC-2GI%20REV%202.0%20BoardView%20File%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GV-N760OC-2GD%20-%20BoardView%20N760IO2D-00-02-BOT%20(FAZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GIGABYTE%20GV-N760OC-2GD%20-%20BoardView%20N760IO2D-00-02-TOP%20(FAZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N760OC-4GD%20Rev2.1%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N770OC-2GD%20Rev1.01%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Gigabyte%20GV-N770OC-2GD%20Rev1.01%20Boardview</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N780OC-3GD%20Rev0.2%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N950XTREME-2GD%20Rev1.0%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N960G1%20Gaming-4GD%20Rev1.1%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-N970TTOC-4GD%20Rev1.0%20%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-R55XTOC-4GD%20Rev1.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20GV-R939XG1%20GAMING-8GD%20Rev1.0_1.01%20-%20BoardView%20(.FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -14654,6 +14822,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Gigabyte%20H55M-USB3%20R2.0%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Gigabyte%20P104-100%204G%20GV-NP104D5X-4G%20Rev%201.0%20-%20BoardView%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -15703,6 +15877,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GTX960%202GD5_1.00A_60PA0710-VG0A04-%20BoardView%20(.FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GTX970%204GD5%20Rev.1.01%20(60PA06W0-VG0A31)-%20BoardView%20(.FZ)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -15716,6 +15896,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/GV-N1050D5-2GD_Rev_1.0_BoardView</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N1060G1%20GAMING-6GD%20Rev%202.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N1070G1%20Gaming-8GD-2.0%20-%20BoardView%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -15745,7 +15937,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GV-N207SWF3OC-8GD-1.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GV-N208SGAMING%20OC-8GC-2.0%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N208TGAMING-OC-11GC%20r1.0%20-%20BoardView%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -15841,7 +16045,31 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GV-N770OC-4GD-2.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N960IXOC-2GD-1.0%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N970G1%20GAMING-4GD-1.1%20-%20BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GV-N980G1%20Gaming-4GD%20REV1.1</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-N98TG1%20GAMING-6GD%20r1.0%20-%20BoardView%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -15896,6 +16124,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/GV-R79XTGAMING%20OC-20GD%20R1.0%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GV-R927XOC-2GD-1.01%20-%20BoardView%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -18422,6 +18656,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/MSI%20B75MA-E33%20(%20MS-7808%20)%20REV%201.0%20-%20BoardView%20(CAD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20GeForce%20RTX%203070%20Ti%20VENTUS%203X%208G%20MS-V505%20Rev1.0%20Boardview(CAD)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>

@@ -547,6 +547,10 @@
            <image:title>Boardview AsRock Fatal1ty Z170 Professional Gaming i7 Rev1.02 (70-MXB110-A02) Boardview (FZ)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASRock%20Fatal1ty%20Z270%20Gaming%20K6%20Rev%201.02%2080-MXB3M0-A01%20BoardView%20(FZ).webp</image:loc>
+           <image:title>Boardview ASRock Fatal1ty Z270 Gaming K6 Rev 1.02 80-MXB3M0-A01 BoardView (FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/ASRock%20FM2A75M-ITX%20R1.01%2070-MXGNR0-A01%20BoardView%20File%20(FZ).webp</image:loc>
            <image:title>Boardview ASRock FM2A75M-ITX R1.01 70-MXGNR0-A01 BoardView File (FZ)</image:title>
        </image:image>
@@ -2703,6 +2707,10 @@
            <image:title>Boardview ASUS CG210L 08003-10400X00 REV 1.0 (CAD)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20CG210PL3_1.0%20PH-GTX1050TI-4G%20-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview Asus CG210PL3_1.0 PH-GTX1050TI-4G - BoardView (.FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20CROSSHAIR%20IV%20EXTREM%20Rev1.02G%20Boardview%20(FZ).webp</image:loc>
            <image:title>Boardview Asus CROSSHAIR IV EXTREM Rev1.02G Boardview (FZ)</image:title>
        </image:image>
@@ -2753,6 +2761,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20DUAL-RTX2060S-O8G-EVO-V2%20CG161P%20R2.%20(CAD)%20.webp</image:loc>
            <image:title>Boardview ASUS DUAL-RTX2060S-O8G-EVO-V2 CG161P R2. (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20DUAL-RX590-GME-O8G-D2I2S%20D009PI2%20r1.01X%20(CAD).webp</image:loc>
+           <image:title>Boardview Asus DUAL-RX590-GME-O8G-D2I2S D009PI2 r1.01X (CAD)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20E2KM1I-DELUXE%20Rev1.02X%20Boardview%20(FZ).webp</image:loc>
@@ -2917,6 +2929,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20GTX970%204GD5_1.01_60PA06W0-VG0A31%20(FZ).webp</image:loc>
            <image:title>Boardview Asus GTX970 4GD5_1.01_60PA06W0-VG0A31 (FZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASUS%20GTX980TI%20BoardView%20(FZ).webp</image:loc>
+           <image:title>Boardview ASUS GTX980TI BoardView (FZ)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20H110-4S%20R2.0%20Rev1.00%20Boardview%20(FZ).webp</image:loc>
@@ -3153,6 +3169,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20H170M-PLUS%20REV1.04W%20BoardView%20File%20(FZ).webp</image:loc>
            <image:title>Boardview ASUS H170M-PLUS REV1.04W BoardView File (FZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASUS%20H610M%20H%20DDR4%20r1.0%20Boardview%20(TVW).webp</image:loc>
+           <image:title>Boardview ASUS H610M H DDR4 r1.0 Boardview (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20H61M-A%20Rev1.02%20Boardview%20(FZ).webp</image:loc>
@@ -4327,8 +4347,16 @@
            <image:title>Boardview ASUS ROG STRIX B760-G GAMING WIFI D4 REV1.01A BoardView (FZ)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20ROG%20Strix%20GTX%201060_70%20Rev1.0%20CG411P3%20STRIX-GTX1060-O6G-GAMING%20-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview Asus ROG Strix GTX 1060_70 Rev1.0 CG411P3 STRIX-GTX1060-O6G-GAMING - BoardView (.FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20ROG%20STRIX%20GTX1080TI%20GAMING%20CG611P%20(60YV0AM1-VG0B01)%20Rev%201.01X.webp</image:loc>
            <image:title>Boardview ASUS ROG STRIX GTX1080TI GAMING CG611P (60YV0AM1-VG0B01) Rev 1.01X</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20ROG%20Strix%20RTX%203090%20OC%20Edition%2024GB%20ROG-STRIX-RTX3090-24G-GAMING-2I3%2060YV0F90-VG0A01%20(CG132BS%20MIC)%20Rev%201.01X%20-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview Asus ROG Strix RTX 3090 OC Edition 24GB ROG-STRIX-RTX3090-24G-GAMING-2I3 60YV0F90-VG0A01 (CG132BS MIC) Rev 1.01X - BoardView (.FZ)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20ROG%20STRIX%20RTX4090%2024G%20WHITE%202I3S%20R1%20(CG139BS)%20R1.02X%2060YV0ID3%20VG0A02%20Boardview%20(CAD).webp</image:loc>
@@ -4697,6 +4725,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20TUF%20B360-PLUS%20GAMING%20Rev1.01B%2060MB0X10-MB0A01%20BoardView%20(FZ).webp</image:loc>
            <image:title>Boardview Asus TUF B360-PLUS GAMING Rev1.01B 60MB0X10-MB0A01 BoardView (FZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASUS%20TUF%20B365M-PLUS_GAMING%20R1.01%20Boardview%20(CAD).webp</image:loc>
+           <image:title>Boardview ASUS TUF B365M-PLUS_GAMING R1.01 Boardview (CAD)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20TUF%20B450%20PLUS%20GAMING%20R1.02%20(CAD).webp</image:loc>
@@ -5179,12 +5211,20 @@
            <image:title>Boardview Asus_TUF_Gaming_RTX_4070_Ti_12GB_GDDR6X_TUF_RTX4070TI_12G_GAMING BoardView (CAD)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus_TUF_RTX3070TI_O8G_GAMING_2I3S_CG141BP_MIC_r1_00X60YV0GY0_VG0A01-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview Asus_TUF_RTX3070TI_O8G_GAMING_2I3S_CG141BP_MIC_r1_00X60YV0GY0_VG0A01- BoardView (.FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS_TUF_RX9070XT_O16G_I3SR1_00X_G295BPHYN_PH3F_60YV0L70_VG0A02_EN_0427001%20Boardview%20(FZ).webp</image:loc>
            <image:title>Boardview ASUS_TUF_RX9070XT_O16G_I3SR1_00X_G295BPHYN_PH3F_60YV0L70_VG0A02_EN_0427001 Boardview (FZ)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS_TUF_Z370_PLUS_GAMING_60MB0VF0_MB0A01_Rev_1_03A_BOARDVIEW%20(FZ).webp</image:loc>
            <image:title>Boardview ASUS_TUF_Z370_PLUS_GAMING_60MB0VF0_MB0A01_Rev_1_03A_BOARDVIEW (FZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus C1060PML_KA Rev%201.00 59YV01J1-VG0A13D%20-%20BoardView%20(FZ).webp</image:loc>
+           <image:title>Boardview Asus C1060PML_KA Rev 1.00 59YV01J1-VG0A13D - BoardView (FZ)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ATI%20RADEON%20HD8570-2GD3%20DP%20REV.%201.00%2059PA0560-VG0A03T.webp</image:loc>
@@ -9423,6 +9463,30 @@
            <image:title>Boardview Gigabyte GTX 1660 Super OC (GV-N166SOC-6GD) Rev 0.1-1.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GTX1060%20GV-N1060%203G%20R2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GIGABYTE GTX1060 GV-N1060 3G R2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GTX1060%20GV-N1060AORUS%20X%206G%20%20R1.0-2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GIGABYTE GTX1060 GV-N1060AORUS X 6G  R1.0-2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GTX1650%20GV-N1650D6%204G%20R2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GIGABYTE GTX1650 GV-N1650D6 4G R2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GTX1650%20GV-N1650GAMING%20OC%204G%20R1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GIGABYTE GTX1650 GV-N1650GAMING OC 4G R1.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N105TOC-4GB%20Rev1.1%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N105TOC-4GB Rev1.1  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N1060D5-3GD%20Rev2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N1060D5-3GD Rev2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GV-N1070IXOC-8GD-0.2%20REV%201.0%20BoardView%20File%20(TVW).webp</image:loc>
            <image:title>Boardview GIGABYTE GV-N1070IXOC-8GD-0.2 REV 1.0 BoardView File (TVW)</image:title>
        </image:image>
@@ -9491,12 +9555,60 @@
            <image:title>Boardview Gigabyte GV-N3090EAGLE_OC-24GD_Rev_1.0_BoardView</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N650OC-1GI%20Rev2.0%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N650OC-1GI Rev2.0  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N660OC-2GD%20Rev1.01%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N660OC-2GD Rev1.01  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N740D5OC-2GI%20REV%202.0%20BoardView%20File%20(TVW).webp</image:loc>
            <image:title>Boardview Gigabyte GV-N740D5OC-2GI REV 2.0 BoardView File (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GV-N760OC-2GD%20-%20BoardView%20N760IO2D-00-02-BOT%20(FAZ).webp</image:loc>
+           <image:title>Boardview GIGABYTE GV-N760OC-2GD - BoardView N760IO2D-00-02-BOT (FAZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GIGABYTE%20GV-N760OC-2GD%20-%20BoardView%20N760IO2D-00-02-TOP%20(FAZ).webp</image:loc>
+           <image:title>Boardview GIGABYTE GV-N760OC-2GD - BoardView N760IO2D-00-02-TOP (FAZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N760OC-4GD%20Rev2.1%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N760OC-4GD Rev2.1  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N770OC-2GD%20Rev1.01%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N770OC-2GD Rev1.01  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N770OC-2GD%20Rev1.01%20Boardview.webp</image:loc>
            <image:title>Boardview Gigabyte GV-N770OC-2GD Rev1.01 Boardview</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N780OC-3GD%20Rev0.2%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N780OC-3GD Rev0.2  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N950XTREME-2GD%20Rev1.0%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N950XTREME-2GD Rev1.0  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N960G1%20Gaming-4GD%20Rev1.1%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N960G1 Gaming-4GD Rev1.1  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N970TTOC-4GD%20Rev1.0%20%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N970TTOC-4GD Rev1.0  - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-R55XTOC-4GD%20Rev1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-R55XTOC-4GD Rev1.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-R939XG1%20GAMING-8GD%20Rev1.0_1.01%20-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview Gigabyte GV-R939XG1 GAMING-8GD Rev1.0_1.01 - BoardView (.FZ)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-RX480G1%20GAMING-8GD%20Rev%201.0%20BoardView%20File%20(FZ).webp</image:loc>
@@ -9757,6 +9869,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20H55M-USB3%20R2.0%20(TVW).webp</image:loc>
            <image:title>Boardview Gigabyte H55M-USB3 R2.0 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20P104-100%204G%20GV-NP104D5X-4G%20Rev%201.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview Gigabyte P104-100 4G GV-NP104D5X-4G Rev 1.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20Q370M%20D3H%20GSM%20PLUS%20Rev1.0%20Boardview%20(TVW).webp</image:loc>
@@ -10455,6 +10571,10 @@
            <image:title>Boardview GTX960 2GD5 REV1.00A PCBA 60PA0710-VG0A04</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GTX960%202GD5_1.00A_60PA0710-VG0A04-%20BoardView%20(.FZ).webp</image:loc>
+           <image:title>Boardview GTX960 2GD5_1.00A_60PA0710-VG0A04- BoardView (.FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/GTX970%204GD5%20Rev.1.01%20(60PA06W0-VG0A31)-%20BoardView%20(.FZ).webp</image:loc>
            <image:title>Boardview GTX970 4GD5 Rev.1.01 (60PA06W0-VG0A31)- BoardView (.FZ)</image:title>
        </image:image>
@@ -10465,6 +10585,14 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N1050D5-2GD_Rev_1.0_BoardView.webp</image:loc>
            <image:title>Boardview GV-N1050D5-2GD_Rev_1.0_BoardView</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N1060G1%20GAMING-6GD%20Rev%202.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N1060G1 GAMING-6GD Rev 2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N1070G1%20Gaming-8GD-2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N1070G1 Gaming-8GD-2.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N1070WF2OC-8GD%20Rev%201.0%20BoardView.webp</image:loc>
@@ -10483,8 +10611,16 @@
            <image:title>Boardview GV-N2060AORUSX-6GC-0.1 Rev1.0</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N207SWF3OC-8GD-1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N207SWF3OC-8GD-1.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N208SGAMING%20OC-8GC-2.0%20(TVW).webp</image:loc>
            <image:title>Boardview GV-N208SGAMING OC-8GC-2.0 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N208TGAMING-OC-11GC%20r1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N208TGAMING-OC-11GC r1.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N306TAORUS_M-8GD-1.0%20-%20BoardView%20(TVW).webp</image:loc>
@@ -10547,8 +10683,24 @@
            <image:title>Boardview GV-N730D5-2GI-2.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N770OC-4GD-2.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N770OC-4GD-2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N960IXOC-2GD-1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N960IXOC-2GD-1.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N970G1%20GAMING-4GD-1.1%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N970G1 GAMING-4GD-1.1 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N980G1%20Gaming-4GD%20REV1.1.webp</image:loc>
            <image:title>Boardview GV-N980G1 Gaming-4GD REV1.1</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N98TG1%20GAMING-6GD%20r1.0%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-N98TG1 GAMING-6GD r1.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-R56XTGAMING_OC-6GD_Rev_1.0_BoardView.webp</image:loc>
@@ -10585,6 +10737,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-R79XTGAMING%20OC-20GD%20R1.0%20(TVW).webp</image:loc>
            <image:title>Boardview GV-R79XTGAMING OC-20GD R1.0 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-R927XOC-2GD-1.01%20-%20BoardView%20(TVW).webp</image:loc>
+           <image:title>Boardview GV-R927XOC-2GD-1.01 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-RX480G1%20GAMING-8GD-1.0%20Boardview%20(FZ).webp</image:loc>
@@ -12269,6 +12425,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/MSI%20B75MA-E33%20(%20MS-7808%20)%20REV%201.0%20-%20BoardView%20(CAD).webp</image:loc>
            <image:title>Boardview MSI B75MA-E33 ( MS-7808 ) REV 1.0 - BoardView (CAD)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20GeForce%20RTX%203070%20Ti%20VENTUS%203X%208G%20MS-V505%20Rev1.0%20Boardview(CAD).webp</image:loc>
+           <image:title>Boardview MSI GeForce RTX 3070 Ti VENTUS 3X 8G MS-V505 Rev1.0 Boardview(CAD)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/MSI%20GeForce%20RTX3080%20MS-V389%20Rev1.0%20Boardview(CAD).webp</image:loc>
