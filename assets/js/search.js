@@ -6,7 +6,7 @@ const files_container = document.getElementById('services-content');
 const FILES_PER_PAGE = 8;
 let filteredFiles = database.files.slice(); // copia completa inicialmente
 let currentPage = 1;
-
+let pagination = document.getElementById('pagination');
 
 // Función para renderizar una página con paginación
 renderPage = (page) => {
@@ -20,6 +20,7 @@ renderPage = (page) => {
     if (pageFiles.length === 0) {
         texto.innerHTML = 'Not found anything.';
         lastest.innerHTML = '<a target="_blank" href="ftp.html"><i class="fa fa-folder-open" title="Redirect to page"></i> Click to more files in ftp mode.</a>';
+        pagination.remove();
         return;
     }
 
@@ -28,12 +29,12 @@ renderPage = (page) => {
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
                     <a target="_blank" href="${file.image}" title="📷 Click to view.">
-                        <img src='/assets/images/loading.webp'
+                        <img src='assets/images/loading.webp'
                              data-src="${file.image}" 
                              alt="${file.image}"
                              loading="lazy"
                              onload="if(this.dataset.src){this.src=this.dataset.src; delete this.dataset.src;}"
-                             onerror="this.onerror=null;this.src='/assets/images/unlink.webp' "/>
+                             onerror="this.onerror=null;this.src='assets/images/unlink.webp' "/>
                     </a>
                         <div class="layer">
                             <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
@@ -51,7 +52,6 @@ renderPage = (page) => {
 
 // Mostrar los controles de paginación
 renderPaginationControls = () => {
-    let pagination = document.getElementById('pagination');
     if (!pagination) {
         pagination = document.createElement('div');
         pagination.id = 'pagination';
@@ -60,38 +60,39 @@ renderPaginationControls = () => {
     }
     pagination.innerHTML = '';
 
-    // Botón anterior
-    const prevButton = document.createElement('button');
-    prevButton.textContent = 'Previous';
-    prevButton.disabled = currentPage === 1;
-    if (prevButton.disabled) prevButton.classList.add('disabled');
-    prevButton.addEventListener('click', () => {
-        if (currentPage > 1) {
-            currentPage--;
-            renderPage(currentPage);
-        }
-    });
-    pagination.appendChild(prevButton);
+    if (filteredFiles.length / FILES_PER_PAGE > 1){
+            const prevButton = document.createElement('button');
+            prevButton.textContent = 'Previous';
+            prevButton.disabled = currentPage === 1;
+            if (prevButton.disabled) prevButton.classList.add('disabled');
+            prevButton.addEventListener('click', () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    renderPage(currentPage);
+                }
+            });
+            pagination.appendChild(prevButton);
 
-    // Info página
-    const pageInfo = document.createElement('span');
-    pageInfo.textContent = ` Page ${currentPage} of ${Math.ceil(filteredFiles.length / FILES_PER_PAGE)} `;
-    pageInfo.style.margin = '0 10px';
-    pagination.appendChild(pageInfo);
+            // Info página
+            const pageInfo = document.createElement('span');
+            pageInfo.textContent = ` Page ${currentPage} of ${Math.ceil(filteredFiles.length / FILES_PER_PAGE)} `;
+            pageInfo.style.margin = '0 10px';
+            pagination.appendChild(pageInfo);
 
-    // Botón siguiente
-    const nextButton = document.createElement('button');
-    nextButton.textContent = 'Next';
-    nextButton.disabled = currentPage >= Math.ceil(filteredFiles.length / FILES_PER_PAGE);
-    if (nextButton.disabled) nextButton.classList.add('disabled');
+            // Botón siguiente
+            const nextButton = document.createElement('button');
+            nextButton.textContent = 'Next';
+            nextButton.disabled = currentPage >= Math.ceil(filteredFiles.length / FILES_PER_PAGE);
+            if (nextButton.disabled) nextButton.classList.add('disabled');
 
-    nextButton.addEventListener('click', () => {
-        if (currentPage < Math.ceil(filteredFiles.length / FILES_PER_PAGE)) {
-            currentPage++;
-            renderPage(currentPage);
-        }
-    });
-    pagination.appendChild(nextButton);
+            nextButton.addEventListener('click', () => {
+                if (currentPage < Math.ceil(filteredFiles.length / FILES_PER_PAGE)) {
+                    currentPage++;
+                    renderPage(currentPage);
+                }
+            });
+            pagination.appendChild(nextButton);
+    }
 }
 
 // Filtrar, actualizar lista y reiniciar paginación
