@@ -3183,6 +3183,10 @@
            <image:title>Boardview ASUS GT630-4GD3 C1071A (60YV06K0-VG0A11) Rev1.01 BoardView (FZ)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASUS%20GT710%20C2131P%20REV%201.00%20-%20BoardView%20(FZ).webp</image:loc>
+           <image:title>Boardview ASUS GT710 C2131P REV 1.00 - BoardView (FZ)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20GT720-2GD3%20Rev1.0%20PCBA%2060PA06Z0-VG0A51%20Boardview(FZ).webp</image:loc>
            <image:title>Boardview Asus GT720-2GD3 Rev1.0 PCBA 60PA06Z0-VG0A51 Boardview(FZ)</image:title>
        </image:image>
@@ -6995,6 +6999,34 @@
            <image:title>Boardview GA-H77N-WIFI REV1.0B (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r1.0%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r1.0 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r1.01%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r1.01 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r1.02%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r1.02 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r1.03%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r1.03 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r2.01%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r2.01 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r2.02%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r2.02 (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GA-H81M-D2V%20r2.1%20(TVW).webp</image:loc>
+           <image:title>Boardview GA-H81M-D2V r2.1 (TVW)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/GA-H81M-S%20REV1.0%20(TVW).webp</image:loc>
            <image:title>Boardview GA-H81M-S REV1.0 (TVW)</image:title>
        </image:image>
@@ -10027,6 +10059,10 @@
            <image:title>Boardview GIGABYTE GTX1650 GV-N1650GAMING OC 4G R1.0 - BoardView (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N1050D5-2GD%20Rev1.0%20-%20BoardView%20(TVW)%20.webp</image:loc>
+           <image:title>Boardview Gigabyte GV-N1050D5-2GD Rev1.0 - BoardView (TVW) </image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-N105TOC-4GB%20Rev1.1%20%20-%20BoardView%20(TVW).webp</image:loc>
            <image:title>Boardview Gigabyte GV-N105TOC-4GB Rev1.1  - BoardView (TVW)</image:title>
        </image:image>
@@ -10157,6 +10193,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-R939XG1%20GAMING-8GD%20Rev1.0_1.01%20-%20BoardView%20(.FZ).webp</image:loc>
            <image:title>Boardview Gigabyte GV-R939XG1 GAMING-8GD Rev1.0_1.01 - BoardView (.FZ)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-RX460WF2OC-2GD%20Rev1.1%20-%20BoardView%20(TVW)%20.webp</image:loc>
+           <image:title>Boardview Gigabyte GV-RX460WF2OC-2GD Rev1.1 - BoardView (TVW) </image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Gigabyte%20GV-RX480G1%20GAMING-8GD%20Rev%201.0%20BoardView%20File%20(FZ).webp</image:loc>
@@ -11237,6 +11277,14 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N730D5-2GI-2.0%20-%20BoardView%20(TVW).webp</image:loc>
            <image:title>Boardview GV-N730D5-2GI-2.0 - BoardView (TVW)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N750-OC-2GI%20-%20BoardView%20(TVW)%20.webp</image:loc>
+           <image:title>Boardview GV-N750-OC-2GI - BoardView (TVW) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/GV-N770OC-2GD-1.01%20-%20BoardView%20(TVW)%20.webp</image:loc>
+           <image:title>Boardview GV-N770OC-2GD-1.01 - BoardView (TVW) </image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/GV-N770OC-4GD-2.0%20-%20BoardView%20(TVW).webp</image:loc>
@@ -15447,12 +15495,48 @@
            <image:title>Boardview MSI RTX4090 V510 R2.2 Boardview (CAD)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V303%20Rev1.0%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V303 Rev1.0 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V303%20Rev1.1%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V303 Rev1.1 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V303%20Rev2.0%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V303 Rev2.0 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V304%20Rev1.2%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V304 Rev1.2 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V305%20Rev1.2%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V305 Rev1.2 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V307%20Rev1.2%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V307 Rev1.2 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V323%20Rev2.0%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V323 Rev2.0 (CAD) </image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/MSI%20V325%20Rev1.0%20(CAD).webp</image:loc>
            <image:title>Boardview MSI V325 Rev1.0 (CAD)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/MSI%20V326%20Rev3.1%20(CAD).webp</image:loc>
            <image:title>Boardview MSI V326 Rev3.1 (CAD)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V327%20Rev3.0%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V327 Rev3.0 (CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/MSI%20V342%20Rev3.0%20(CAD)%20.webp</image:loc>
+           <image:title>Boardview MSI V342 Rev3.0 (CAD) </image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/MSI%20Z170A%20Gaming%20M9%20ACK%20MS-7966%20Rev1.0%20BoardView%20(CAD).webp</image:loc>
