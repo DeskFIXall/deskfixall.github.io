@@ -132,7 +132,7 @@ getRandomItems = (arr, n) => {
 
 // Render inicial: mostrar 8 archivos aleatorios sin filtro
 renderEightFiles = () => {
-    lastest.innerHTML = `<i class="fa fa-calendar"></i> Random ${FILES_PER_PAGE} files:`;
+    lastest.innerHTML = `<i class="fa fa-random"></i> Random ${FILES_PER_PAGE} files:`;
     filteredFiles = getRandomItems(database.files, FILES_PER_PAGE);
     currentPage = 1;
     renderPage(currentPage);
