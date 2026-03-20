@@ -11977,7 +11977,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-D841P%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Compal%20LA-E051P%20REV%201.0%20-%20BoardView%20(.BRD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-E121P%20Boardview(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -11995,6 +12007,36 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-F331P%20Rev%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-F371P%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-F486P%20elmv2%20Rev0.2%20Boardview(cad)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-G871P%20EDC40%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-H171P%20EDC42%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/COMPAL%20LA-H482P_R1.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12002,6 +12044,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Compal%20LA-H791P%20EH7LW_EH5LW_FH5TW_EH7LC_EH5LC%20rev%202.0%20Boardview(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-H811P%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-H872P%20Boardview(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12037,13 +12091,55 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-L761P%20r1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Compal%20LA-M213P%20r1.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-M366P%20Rev%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20LA-M721P%20IH4ST%20r1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20PAL61%20LA-6561P%20REум1.0%20(A00)%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Compal%20PIWG2%20LA-675AP%20Rev1.0%20Boardview(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20PLYTA%20LA-A101P%20Rev1.0%20(A00)%20Boardview(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20PWWHA%20LA-7202P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Compal%20STORM3%20LA-F421P%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12056,6 +12152,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Compal%20·LA-7552P%20r1.0%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/CORE_L%20MB%20rev%202.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12079,6 +12181,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/CS10G-6050A2338701-MB-A01-TI%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/CT10G-6050A2381501-MB-AX1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/D91B%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12097,7 +12211,73 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/DA0NJHMBAH0%20-%20DA0NJHMBAG0%20-%20NJH%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DA0NJLMBAD0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DA0NJSMBAD0%20NJS%20FA507N%20FA707N%20FA507X%20FA707X%20series%20Rev%202.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DA0XKTMB8C0%20Rev20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/da0xw2mbag0%20(FRONT)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/da0xw2mbag0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/da0xw2mbag0</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/DA0Y0DMBAA0%20Y0D%20REV%20A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/da0z8vmb8c0-c-megu-0224%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DA0ZRYMB8G0-G%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DA0ZYTMBAE0-E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DAG3BEMBCD0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12110,6 +12290,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/DAN91AMB6D0%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DAX1ADMB6F0%20Quanta%20X1A-MB%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12133,6 +12319,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20%20E5530%20Compal%20QXW10%20LA-7902P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%2015-5565%20-%20LA-D803P%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%201520%20Vostro%201400%20FM5-REP-Output%20Boardview%20(1)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12145,7 +12343,67 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%203521-%20LA-9104P%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%205439%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DELL%20Alienware%2013%20R2%20-%20LA-C901P%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Alienware%2013%20R3%20P81G%20%20Compal%20BAP00%20LA-D581P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Alienware%2017%20P18E%20Compal%20LA-9331P%20r1.0%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Alienware%2017%20R2%20LA-B753P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Alienware%2017%20R5%20Compal%20LA-F551P%20LA-F552P%20LA-F553P%20Rev%201.0%20BoardView%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Alienware%20Area%2051M%20LA-G881P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20E7450%20Compal%20ZBU10%20LA-A961P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/DELL%20FLEX%20M11Z%20H320DI-AB4800-X03-0224%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DELL%20G3%203590%20-%20SELEK_N18P_MB%20-%2018825-1%20Boardview%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12157,13 +12415,109 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2014_16%20Plus%207440_7640%20Wistron%20223674-1_223142-1_233042-1%20Polaris%20N16%202in1%20MTL%20MB%20..%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2015%205545%20Compal%20ZAMB0_ZAMC0%20LA-B651P%20Rev%201.0%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2015%205559%20Compal%20LA-D071P%20AAL15%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2015%20Gaming%207567%20LA-D993P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2015-3567%20Wistron%20Vegas_Turis%20SKL_KBL%2015341-SD%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2015-7560%20Compal%20LA-D821P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%2017R%203721%20Compal%20LA-9105P%20VAW10%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%20Inspiron%203462%20-%20Turis_APL%20-%2016823-1%20Boardview%20(.CAD)%20(1)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%203473-3573%20-%2017831-1%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%203490%20-%20LA-G717P%20-%20LA-G716P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20inspiron%203582%20LA-G094P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%205590%20-%20Mantis%20CML%20MB%20-%2018778-1%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%207380%20Wistron%20KR%20CS%20MLK%2013%2017945-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%207490%20Compal%20LA-H451P%20EDW40%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%207570%20Wistron%20Kyloren%2015%2016841-1%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%207590%20Wistron%20Jedi%2015%20WHL%2018718-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%20Inspiron%20N4030%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Inspiron%20N4110%20-%20%20DA0V02MB6E0%20-%20DAV02AMB8F0%20-%20V02A%20V02A%20BoardView(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12176,6 +12530,54 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Dell%20Inspiron%20N5110%2010260-1%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%203301%20Wistron%20WASP13%20WHL-U%20CS%2018769-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%203340%20Wistron%20Round%20Rock%2013.3_%20UMA%2013229-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%203420%20-%20Cyborg-L14%20MB%20TGL%20-%20203068-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%205175%20%20Compal%20AAJA0%20LA-C791P%20Rev%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%205520%20Wistron%20SouthPeak15%20TGL%20MB%208L%2019819-SA%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%207350%20-%20LA-B331P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%207400%202-in-1%20-%20LA-G441P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%207430%20Compal%20HDB30_40_50%20LA-L581P%20Rev%201.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12199,6 +12601,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%20E5250%20-%20LA-A891P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%20Latitude%20E5410%20E5510%20Wistron%20DF3%2009276-1%20boardview%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12212,6 +12620,60 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Dell%20Latitude%20E5450%20ZAM70%20LA-A901P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%20E6420%20-%20LA-6591P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%20E7270%20E7470%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20LATITUDE%20E7280%20-%20LA-E122P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%20E7440%20Compal%20VAUA0%20LA-9591P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude%20G5%205587%20Compal%20LA-E993P%20DDK51%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Latitude_7390%20-%20LA-F292P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Precision%207510%20_7710%20Compal%20AAPA0%20LA-C541P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DELL%20Precision%207540%20%20LA-H271P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Precision%207710%20Compal%20LA-C551P%20Rev%201.0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12235,6 +12697,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20T1700%20-%20Amazon%20MT%20BOARDVIEW(BDV)(.CAD)%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%20Vostro%2014-5459%20Quanta%20AM8%20(DA0AM8MB8D0)%20Boardview%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12253,7 +12721,49 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Dell%20Vostro%205414%20Wistron%20Cyborg%2014V%20AMD%20A00%20203100-1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20Vostro%205468%20Compal%20LA-D822P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20XPS%2013%209310%20Compal%20GDA30%20LA-J143P%20Rev1.0%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DELL%20XPS%2013%209350%20Compal%20%20AAZ80%20LA-C881P%20Rev1.0%20(A00)%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell%20XPS%208500%20DH77M01%20CY0629%20REV.A00%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Dell%20XPS13%20-%20LA-B441P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DELL%20XPS15%209550%20-%20LA-C361P%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Dell_G15_5530%20LA-M531P%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12313,6 +12823,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/DM5-E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/DV15%20HR%2010316-1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/E1-421%20ZQZ-MB%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -12320,6 +12842,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/E153P%20CDP81%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/E202SA_2.0_60NL0050-MB1040%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/E202SA_2.0_60NL0050-MB1240%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12391,13 +12925,109 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/EDI54%20LA-G712P%20r1.0%20(A00)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Eletro-X_GPI52%20LA-J951P%20(REV%201.0)%20(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/EPK50%20LA-G07BP%20(REV%201.0)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/EPW50%20LA-H323P%20REV%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ERIC%20VE%20BA92-09516B-BA41-01799A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Eric%20VE%20R%20BA92-09908B%20BA41-01868A%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/ES1-420%20ES1-421%20ES1-422%20A4W1E%20LAC801P%20R1A%20Board%20View%20File%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/ET2311I_1.3_60PT00L0-MB4A06%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ET2400IGTS_1.01G%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ET2700I_1.01G%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ET2700I_1.02G%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/EYG70%20NM-B741%20Ariel-SVT%20(Motherboard)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/F52%20Rev2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/F52-3_10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/F80CR%20Rev%202.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/FAROE%20DIS%20X32%20MB%20MV%20(18742-1%200GG02)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/FATAL1TY%20Z170%20PROFESSIONAL%20GAMING%20I7%20(70-MXB110-A01)%20REV%201.02%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/FPI50%20LA-H329P%20r1.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12416,6 +13046,24 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Fujitsu%20Lifebook%20A530_AH530%20%20Quanta%20FH2A-MB-D%20DAFH2AMB6G0%20%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/FX504GD_60NR00J0-MB2300%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/FX506LH%2060NR03U0-MB1210%20FX506LH%20MB._0M／I5-10300H／／R1.2(V4G)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/FX507ZM%20NJK%20DA0NJKMBAE0%2060NR09A0_MB2010%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -12470,6 +13118,24 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/G51A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/G60JX_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/G60JX_VGA_MXM_1.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/G60JX_VGA_MXM_2.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20191,6 +20857,24 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GK5CN5Z_MB_V11_cad_20180314_2400%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GK5CN5Z_MB_V12_cad_20180614_2330%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GK5CP5Z_MB_BRD_REVA2-1126-1800%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GRANGER%206050A2977701-MB-A01%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -20617,7 +21301,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/GX502GW.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/GYGABYTE%20GA-A320M-S2H-1.0-1.1%20(BDV)%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/GZ302EA%202.0%2060NR0JY0-MB4000%20GZ302EA%20MB._32G_MAX+-395%20R2%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20785,6 +21481,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/HAGRID-6050A2983601-MB-X01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Haier%20M410A%20Quanta%20JW5-MB-B%20BoardМiew%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -20803,7 +21505,49 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/HEDWIG%206050A2992901-MB-A02%20(A2)%20fix%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HEDWIG02-6050A3285801-MB-A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%2015%20Compal%20GPT52%20LA-K202P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%2015-cx%20Compal%20DPK54%20LA-F861P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%2015-DK%20Compal%20FPC52%20LA-H461P%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/HP%2015-F039WM%20Quanta%20U88-MB-A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%2015Z-EF%20&%2015S-EQ%20Series%20Quanta%200P5J%20DA0P5JMB6B0%20Rev%20B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%2017-an100%20Quanta%20G3BE%20DAG3BEMBCD0%20Rev%20D%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20822,6 +21566,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/HP%20240%20G8%20Inventec%20HEDWIG01%206050A3158801-MB-A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%204411S%20(6050A2252601-MB-A03)Zenith%20UMA_A03_0318%20ZZ_A03%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20863,6 +21613,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/HP%20Omen%2015-dc1060tx%20Quanta%20G3DB%20DAG3DBMB8D0%20Rev%20D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/HP%20Omen%2017-W000%20DAG38DMBCC0%20QUANTA%20G38D%20(BOARDVIEW)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -20881,7 +21637,25 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/HP%20Pavilion%2014-CE%20Quanta%20G7AL-2G%20DAG7ALMB8B0%20Rev%20B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20Pavilion%2015-eg0000%20Quanta%20G7H%20DA0G7HMB8G0%20Rev%20G%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/HP%20Pavilion%2015-P%20%20Quanta%20Y23A%20(HP%20Pavilion%2015-P)%20REV%20B%20-%20BoardView%20(.BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20Pavilion%2015z-eh000%20Quanta%20G7HA%20DAG7HAMB8E0%20Rev%20E%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20900,6 +21674,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/HP%20Pavilion%20DV8%20Quanta%20UT8A%20DAUT8AMB8C0%20v2.0%20Rev3A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20Pavilion%20Gaming%2015-dk%20Compal%20LA-J643P%20GPC52%20Rev%201.0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20924,6 +21704,30 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/HP%20ProBook%20450%20G4%20Quanta%20X83%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20ProBook%20450%20G6%20X8JM%20%20DA0X8JMB8E0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20ProBook%20450%20G7%20DA0X8MMB6D0%20-%20Quanta%20X8M%20Rev%20D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20ProBook%20450%20G7%20Quanta%20X8M%20Rev%20D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HP%20Probook%20455%20G7%20Quanta%20X9M%20DA0X9MMB8F0%20Rev%20F%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -20965,7 +21769,61 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/HP%20ZBook%2017%20G6%20Quanta%20XW3E%20DAXW3EMBAD0%20rD%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/HSTNN-I42C%20%206050A2892301-MB-A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HT3B0%20NMD35R10_View_0330%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HT4B0-NMD353R40_View%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HT4B0_NMD353R10_%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HuaQin%20Labatt%20JL%20NB2950%20Rev%20V3%20BOARDVIEW%20(BDV)(.CAD)%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HuaQin%20Labatt%20JL%20NB2950%20Rev%20V3%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HuaQin%20Labattt%20GL%20NB2665%20Rev%20V3%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HuaQin%20NB8513%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/HuaQin%20Tiger%20TL%20NB2629%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21043,6 +21901,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Inventec%20G614J-PMV-GBM%206050A3438102-MB-A01%20(60NR0C60-MB1100)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Inventec%20GUCCI10-6050A2255301-MB-A02%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21061,7 +21925,43 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAINZ10G-6050A2360601-MB-A01-NEUTRAL%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Inventec%20Manaus%2010M%20DDR3%20RevA02%20Boardview(BRD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAS10M-6050A2355301-MB-A01-NEUTRAL%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAS10M-6050A2355301-MB-A02-NEUTRAL%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAS10M-6050A2355301-MB-A03-001-NEUTRAL%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAS10M-6050A2355301-MB-A03-002-NEUTRAL%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/INVENTEC%20MAS10M-6050A2355301-MB-A03-NEUTRAL%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21085,7 +21985,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Inventec_pantanal_ra02_6050a2114801_boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/IPKBL-SC_Alienware%20Aurora%20R6%20Boardview%20(CAD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Jinmao-L%201.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21097,7 +22009,229 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/JM7-MB-Output%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/JM7B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/JM7B-MB-A-Output%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/JS476&JS576%20NM-E331%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K40AB_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K40AB_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K40AB_2.3%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K40C_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43E_MB_3.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43L_1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43L_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43L_3.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43L_4.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43L_5.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20%20Rev%204.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%201.1BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%202.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%202.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%202.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%204.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K43SD%20Rev%205.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K52N_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K52N_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_1.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_1.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_2.3%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_5.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SD_6.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K53SV_3.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K54C_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K54C_3.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K55VM_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K55VM_2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K55VM_2.3%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/K6602VV%202.0%2060NB11K0-MB1200%20K6502VJQ%20MB._8G+6G_I7-13620H__R2.0(W_AMP)(W_PMIC)_FTPM%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21145,6 +22279,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LA-6132P_Rev10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LA-6221PR10%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21175,6 +22315,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LA-7782P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-7782P%20LA-7781P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/La-8331p%20rev1.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21182,6 +22334,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/LA-8941PR10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-9641P%20R10-0429%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21205,6 +22363,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LA-B071P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-B843P%20R10-0120%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LA-C281P-R10%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21217,13 +22387,55 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LA-C912P%20Echo15MLK_0723B_NV%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LA-E892P-R1A%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LA-F051P%20R10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-G07EP%20r1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-G661P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-K454P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-K455P-R10_0416%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LA-L191P%20Rev%201A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LA-M811P%20r1A%20L380_Y580S%20AMD%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21265,6 +22477,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LAA972PR05-0910%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LAB551P%20Rev%201.0%20%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21272,6 +22490,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/LAB551P_R10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LAC571PR10-0608B%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21301,13 +22525,109 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LCFC%20EYG70%20NM-B291%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20FY521_FY522_FY519_FY520%20NM-C372%20Rev1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LCFC%20GC55D%20NM-C811%20Rev0.2%20Boardview(TVW)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/LCFC%20GY535%20NM-D191%20Rev0.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20HY568%20NM-D711%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/LCFC%20HYG71%20NM-E203%20REV0.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-A141%20Rev1.0%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-A752%20Rev%200.2%20BoardView(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-B321%20DG525%20r1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-B441%20ES321%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-B461%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-B661%20EG431%20EG532%20Rev1.0%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-C171%20Rev0.2%20Boardview(tvw)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-C711%20Rev0.2%20BoardView(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-C961%20Rev1.0%20BoardView(tvw)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-D211%20Boardview(tvw)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LCFC%20NM-E091%20Rev1.0%20Boardview(TVW)%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20%20330-14IKB%20-%20NM-B731%20REV0.1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21367,6 +22687,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20E480%20-%20NM-B421%20Rev1.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20G400S%20-%20LA-9901P%20REV10%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21403,6 +22729,72 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20100-15IBY%20Compal%20LA-C771P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%20110-15IBR%20LCFC%20CG520%20NM-A801%20NM-A804%20Rev%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%20110-17IKB%20LCFC%20DG710%20NM-B031%20Rev%201.0%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%203%2015ALC6%20LCFC%20HS461&HV461%20SVT%20NM-D522%20Rev%202.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%203-15ALC6%20LCFC%20HS461_HS561A_HS761%20NM-D521%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20310-15IKB%20LCFC%20NM-A981%20CG413%20CG513%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20310-15IKB%20LCFC%20NM-A982%20CG413%20CG513%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%20330-15AR%20LCFC%20NM-B681%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%20330-17ICH%20LCFC%20EG530%20NM-B671%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20330C-15IKB%20Compal%20DLID4%20DLID5%20DULU%20LA-G201P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%205-14IIL05%20Compal%20FLMSO%20LA-J551P%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20710S-13IKB%20Wistron%20LS711%20MB%2016817-1%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21427,7 +22819,31 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20S145%20Compal%20FS441_FS540%20NM-C121%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20S145-14IKB%20S145-15IKB%20LCFC%20GS44B%20GS54B%20NM-C561%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Ideapad%20S340-15IWL%20Compal%20EL5C3_EL531_EL431%20LA-H101P%20Rev%200.3%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20Yoga%2011e%20Quanta%20LI5%20DA0LI5MB6H0%20Rev%20H%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20IdeaPad%20Z510%20LCFC%20AILZA%20NM-A181%20Rev%200.3%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21445,7 +22861,55 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20L340-15IRH%20-%20NM-C361%20REV0.3%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20L540%2012290-1%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20LCFC%20JY771%20JY776%20NM-E641%20REV0.4%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LENOVO%20Legion%207%20Pro%2016IRX8H%20LCFC%20KY782%20R1.0%20Boardview(TVW)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Legion%20Y520-15IKBN%20LCFC%20NM-B191%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Legion%20Y540-15IRH%20LCFC%20NM-C221%20Rev%200.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Legion%20Y7000%20LCFC%20NM-C371%20Y520%20%20Rev%200.3%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Legion5-15ARH05%20LCFC%20GY55H%20NM-D041%20Rev%200.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20LOQ%2015IAX9%20Compal%20JLG10%20LA-N221P%20Rev%201A%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21458,6 +22922,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Lenovo%20NIWE1%20Compal%20LA-5751P%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/LENOVO%20NM-E981%20BOARDVIEW%20(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20S145-15IIL%20LCFC%20NM-C711%20Rev%200.2%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21493,6 +22969,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkBook%2014s%2015s%20Gen2%20ITL%20Compal%20FLV34%20LA-K051P%20Rev%201B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20%20L540%2012290-1%20Boardview%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21517,7 +22999,25 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20E460%20E560%20BE560%20NM-A561%20rev%201.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20Edge%20X140E%20E145%20Quanta%20LI2K%20Rev%20D%20DALI2KMB8D0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20L14%20LCFC%20HL4A5_HL5A5%20NM-D391%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20L14-L15%20LCFC%20GL4A5_GL5A5%20NM-C741%20Rev%201.0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21529,7 +23029,49 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20P53_P73%20LCFC%20NM-C261%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20P53_P73%20LCFC%20NM-C262%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20S2%20TYPE%2020L1%20-%20LKL-1%20MB%20-%2017821-1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20S5%20-%20%20LA-D214P%20REV1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20T14%20Gen%203_T16%20Gen%201%20LCFC%20JT4C1_JT6C1_JP6C1%20NM-E441%20Rev%200.3%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20ThinkPad%20T450s%20LCFC%20NM-A301%20UMA%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20T480%20LCFC%20ET480-Windu2%20NM-B501%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Thinkpad%20T490s%20LCFC%20NM-B891%20Jazz_Sideswipe%20Rev%201.0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21577,6 +23119,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20V14-14ARE%20LCFC%20NM-C861%20Rev%200.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20V310-14ISK,%20V310-15ISK%20DA0LV6MB6F0%20boardview%20file%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21607,13 +23155,43 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20X380%20Yoga%20X380%20LA-F421P%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20Y470%20LA-6881p%20boardview%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Yoga%2011s%20LCFC%20NM-A191%20Venus3%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Yoga%20530-14ARR%20LCFC%20NM-B781%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Lenovo%20Yoga%20700-11ISK%20Compal%20LA-D131P%20BIZY1%20Rev%201A%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Yoga9-14IAP7%20-%20NM-D992%20REV1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Lenovo%20Z50-70%20LCFC%20NM-A273%20Rev%201.0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21704,6 +23282,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/M5A99FX_PRO_R2.0_1.01A%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/M6400QC%20REV%202.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21841,6 +23425,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/MacBook%20PRO13%202019%20LCFC%20NM-C581%20GS341%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Macbook_A1534_J92_EVT_MLB%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -21848,6 +23438,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/MAINZ10-6050A2307301-MB-A02%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MAINZ10-6050A2307301-MB-AX1-F2B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MAINZ10G-6050A2307201-MB-AX1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21883,7 +23485,19 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/MI%206050A2811101-MB-A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/MS-%207A63%20Rev%201.1%20(CAD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MS-117E41%201.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -21896,6 +23510,24 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/MS-16P5-MS-16P51%20-%20MS-17C5-MS-17C51%20Rev%200B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MS-16P71%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MS-16U11%20Rev10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MS-17E81%20r1%20Boardview%20(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -23149,6 +24781,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/MS-AEA11%20r1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MS-AEA11%20r2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/MS-G021%20Rev1.0%20BOARDVIEW%20(CAD)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -24187,6 +25831,30 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/MSI%20GF63%20MS-16R3%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20GF75%20THIN%209SE%20MS-17F31%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20GP72M%207REX%20-%20MS-16J9%20-%20MS-1799%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20GS60%206QE%20GHOST%20PRO%20-%20MS-16H7%20-%20MS-16H71%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/MSI%20GTX%201070</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -24301,6 +25969,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/MSI%20MS-%2017G11%20MS-17G1%20Rev1.1%20Boardview(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/MSI%20MS-110581-10%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -24398,6 +26072,48 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/MSI%20MS-16GN1%20Rev1.0%20Boardview(BRD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20MS-16J9%20-%20MS-16J91%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20MS-16K4%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20MS-16K5%20r1.01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/MSI%20MS-16P6%20Rev%201.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Msi%20MS-16S61-0A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Msi%20MS-16S61-0B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Msi%20MS-16S61-10</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29053,6 +30769,72 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20W03B-MB-B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W05D%201%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W05D%202%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W05D%20Rev%20B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W05D%20Rev%20C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W05D%20Rev%20D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20W08-MB-E%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X11A-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X11A-MB-D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X12A-MB-6L-D%20DAX12AMB6D0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X13A-MB-D%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20X1P%20(Y19C)%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29060,6 +30842,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Quanta%20X1Q%20BoardView%20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X22-MB-D%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29078,6 +30866,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Quanta%20X63%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X63C-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X73-MB-D%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29107,6 +30907,18 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20X8J%20UMA%20dax8jmb16e0%20Boardview(cad)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20X8QA%20DAX8QAMB8D0-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20X93A%20BoardView%20(.BDV)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29125,6 +30937,54 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20XJ3A-MB%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y02%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y02-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y07-10L-MB-F%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y07-6L-MB-D%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y08-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y09-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0A-MB-B%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20Y0B-MB-B%20%20%20%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29132,6 +30992,36 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Quanta%20Y0BC-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0D%20%20Rev%20F%20%20BoardView%20(.BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0D%20DA0Y0DMBAF0%20REV%20F%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0D%20Rev%20E%20%20BoardView%20(.BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0DD%20DAY0DDMBAE0%20Quanta%20Y0DD-MB-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0DD-MB-D%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29155,13 +31045,121 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0K-MB-C%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y0K-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20Y0M-MB%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y11A-MB-D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y11A-MB-E%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y12A-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y12E-MB-B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y16-MB-E%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20Y19C%20boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y21A-MB-C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y21A-MB-D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y22A-MB-E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y23A-MB-B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y31-MB-B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y34G%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y61%20DA0Y61MB6E0%20RevE%20Boardview(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y61-MB-D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y62P-MB-B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20Y72%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20YB1-MB-I%20%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29179,7 +31177,37 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20Z8Y%20DA0Z8YMB8F0%20BoardView(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZAS%20DA0ZASMB8D0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZAUI%20dazauimb8c0%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/QUANTA%20ZAUR%20DAZAURMB8C0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZAV%20DA0ZAVMB8E0%20Rev%20E%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZAW%20Whiskey%20Lake%20%20DA0ZAWMB8E0%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29191,7 +31219,43 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZE6-MB-B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZE6-MB-E%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZH1%20Boardview(BV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/QUANTA%20ZH3%20Boardview(BV)%20(1)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZHE%20da0zhemb8e0%20rev%20E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZHV%20DA0ZHVMB8C0%20Boardview(BDV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/quanta%20zhx%20da0zhxmb6c0-c%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29203,13 +31267,55 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZM3%20DA0ZM3MB8D0%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/QUANTA%20ZM3%20DA0ZM3MB8D0%20VERA%20165%20fix%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20ZM8%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZO5%20RevE%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZPZ%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20ZQ5-MB-D%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZQF%20DA0ZQFMB6F0%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZQK%20DA0ZQKMB8E0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/QUANTA%20ZQM-MB-E%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29227,6 +31333,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZRC%20Rev%20C%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Quanta%20ZRI-MB-C%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29234,6 +31346,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Quanta%20ZRL%20Boardview(BRD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZW6%20RevC%20Boardview(BV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Quanta%20ZYP%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29257,7 +31381,31 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Quante%20G3HB%20DA0G3HMB8D0%20%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/R13-B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/R13-MB-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/R22-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/R22-mb-b%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29329,6 +31477,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/S301LA_MB_2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/SABERTOOTH_X58_1.02</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29390,6 +31544,90 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/SABERTOOTH_Z97_MARK_S_1.00</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20Lotus-13%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20Nike2-15H-QC%20BA41-02195A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP-RF510%20VEYRON-EXT%20BA41-01374A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP-RF711%20VEYRON-R%20Rev%201.0%20BA41-01471A_BA41-01472A_BA41-01473A%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP300E5C%20Scala3-15_17CRV%20Rev%201.2%20BA41-01976A,%20BA41-01977A,%20BA41-01978A,%20BA41-01979A%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/SAMSUNG%20NP300E5K%20BA41-02501A%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP530U3C%20NP530U%20BA92-14629B%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP530U3C-A08%20Lotus-13-R%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP530U4C%20LOTUS-14R%20(BA41-02013A,%20BA41-02014A)%20Rev%201.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20NP8500GM-X07CN%20BA41-02549A%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Samsung%20R530%20Bremen-L3%20BA41-01226A%20BA41-01227A%20BA41-01228A%20BoardView(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/SAMSUNG%20RV515%20RV415%20BA41-01533A%20BA41-01534A%20BA41-01532A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/SCALA2-EXT%20BA41-01423A%20BA41-01424A%20BA41-01425A%20MP1.1%20SAMSUNG%20RV411%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/SNICKERS%206050A2635701-MB-A02%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29461,7 +31699,79 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/SWH-UMA-C%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TAICHI31%20MB_2.1_60NB0080-MB7020%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TAICHI31_2.1_60NB0080-MB7020%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/TE8-MB-E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA%20MB_1.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA%20MB_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA20%20MB%20_2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA20%20MB_1.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA20%20MB_1.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA20%20MB_1.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TERESA20%20MB_2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TETON-6050A2184601-MB-A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/TETON-6050A2184601-MB-AX1-NEUTRAL%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29485,7 +31795,61 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/TongFang%20GH5AD2D%20V1.0%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20GH5SN66%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Tongfang%20GJ5CN60-MB-A1%202017-12-09%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20GK5CU1X_MB_VA%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20GK7MR0R%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20NTSN1423-MB-V10%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20PF4NR1F%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20PF4PN2F_MB_RA_1126_1815%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20PF5CP5G%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Tongfang%20QH5KD58%20Boardview(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -29515,6 +31879,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/TP201SA%20MAIN%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/TRX40%20AORUS%20XTREME%20r1.0%20BOARDVIEW%20(TVW)</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -29534,6 +31904,66 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/TUF%20GAMING%20B650-PLUS%20WIFI1.04%20(CAD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/U33JC%20Rev2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/U33JC_IO_BOARD_USB3.0_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/U52-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/U52-E%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/U52-MB-B%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/UX305CA_2.0_60NB0AA0-MB3330%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/UX305CA_2.1_60NB0AA0-MB2140%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/UX330UAR_2.1_60NB0CW0-MB9020%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/UX333FN.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/UX370UAR_2.0_60NB0EN0-MB4000%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30391,7 +32821,49 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/VAWGB%20LA9911P%20R10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/vinafix.com_ASROCK_B75M-GL%20R2_R2.01(70-MXGN10-B04)%20(FZ)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/VM62_1.02_60MS0080-MB0A0A%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/VV10ID15%206050A2364401-MB%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/WISTRON%20%20203005-1%20Boardview(GR)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%2018717-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%2018828-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%2019800-1%20BoardView%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30409,6 +32881,42 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Wistron%20Cedar%20AMD%20Beema%2013283-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20Cedar%20FX3MC%2013269-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20DMB50%20Intel%20MB%20(BMW%20Z5%20DIS)%2011307-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20DOE40%2012314%20Boardview(GR)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20DOE40%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20DQ15%2010260-1%20Boardview(GR)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/WISTRON%20HM42-DN%20-%20BoardView%20(.BRD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -30416,6 +32924,18 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Wistron%20Husk%20%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20Iris%20BSW%2014279-1.0608WZS1713%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20Iris%20BTM%20%2014214-1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30434,6 +32954,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Wistron%20Jean%20Grey%2011%20AMD%20%2018811-1%20Boardview%20(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20Jedi%2015%20WHL%2018718-1%20Boardview(CAD)%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30469,6 +32995,12 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Wistron%20LMQ-2%2013268-1%20ThinkPad%20X1%20Carbon%203rd%20Gen%20%20Boardview(BV)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/Wistron%20LRV-3%2017800-1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
@@ -30476,6 +33008,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Wistron%20LS730%20%20S730%20SABAH%2017934-1%20Boardview(BRD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20LSZ-1%20boardview%2013251-1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30517,7 +33055,25 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Wistron%20NAKIA%20_%20SHURIN7%20TGL-U%2019765-1%20REV%20A00%20(SD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20PIKBLU_EIFFEL215i_R%2017577-1%20Boardview(CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/WISTRON%20Poseidon%20860M%2014204-1M%20-%20Boardview%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Wistron%20REDWOOD%20B%20MLK%2014274-1%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30529,7 +33085,181 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/Wistron%20Starlord13_R%20%20-%2015296-1%20Boardview%20(.CAD)%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X101CH_MB_2.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X101CH_MB_2.3%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X101CH_MB_3.2%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X1403ZA2.1%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X200CA%20Rev%202.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X200CA%20Rev%202.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X412DA_X412DP_X412DK%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X451CA_MB%20r2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X451CA_MB%20Rev%202.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X455LD%20Rev%202.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X455LD%20Rev%202.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X512FF%203.1L%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X550LD%20Rev%201.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X550LD%20Rev%202.0%20%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X551CA%20Rev%202.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X553MA_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X555LD%20Rev%201.2%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X555LD%20Rev%202.0%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X555LD%20Rev%203.1%20BoardView%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X555SJ%20rev2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X555UJ_1.1_60NB0AQ0-MB2610%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X55VD%203.2,60-N0OMB1700-B01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X55VD_2.0%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/X570%20AORUS%20PRO%20WIFI_1.0_BoardView%20(TVW)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X570UD.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X570ZD.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X705FD.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X705MA.20%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/X750LB%202.0%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30554,6 +33284,30 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/YOGA%20C740-15IML%20NM-C433%20R10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/YX80-NM-F081-R04-20221104-1340%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Z220IC_1.0_60PT01D1-MB5A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Z220IC_1.1_60PT01D0-TC0A01%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Z240IC_1.4_60PT01E0-MB9B04%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30596,6 +33350,12 @@
    </url>
    <url>
           <loc>https://deskfixall.github.io/Z390-A%20PRO%20MSI%20MS-7B98%20Rev%201.1%20(CAD)</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/Z450LA_2.0_60NB0960-MB1420%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
@@ -30667,7 +33427,25 @@
           <priority>1.0</priority>
    </url>
    <url>
+          <loc>https://deskfixall.github.io/ZAUSASB%20LAA331P-R10%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
           <loc>https://deskfixall.github.io/ZE7-D%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/zi6-e%20</loc>
+          <lastmod>2026-01-26</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+          <loc>https://deskfixall.github.io/ZK2-mb-f%20</loc>
           <lastmod>2026-01-26</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
