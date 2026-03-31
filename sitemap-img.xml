@@ -6987,6 +6987,10 @@
            <image:title>Boardview Asus X451MA Rev 2.1 BoardView </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20X455LJ%20Boardview(ASC).webp</image:loc>
+           <image:title>Boardview Asus X455LJ Boardview(ASC)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X455YI%20Rev%201.1%2060NB09G0-MB1120%20BoardView%20.webp</image:loc>
            <image:title>Boardview Asus X455YI Rev 1.1 60NB09G0-MB1120 BoardView </image:title>
        </image:image>
@@ -7131,6 +7135,10 @@
            <image:title>Boardview Asus X550MD r2.0 boardview </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20X550VX.webp</image:loc>
+           <image:title>Boardview Asus X550VX</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X550WE%20Rev1.3%20Boardview%20(FZ).webp</image:loc>
            <image:title>Boardview Asus X550WE Rev1.3 Boardview (FZ)</image:title>
        </image:image>
@@ -7165,6 +7173,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X555LD%20Rev3.3%20Boardview(FZ)%20.webp</image:loc>
            <image:title>Boardview Asus X555LD Rev3.3 Boardview(FZ) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20X555LP%20Rev1.1%20Boardview(ASC).webp</image:loc>
+           <image:title>Boardview Asus X555LP Rev1.1 Boardview(ASC)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X556UV%203.1%20.webp</image:loc>
@@ -7225,6 +7237,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X750LN%20Rev2.0%20Boardview(FZ)%20.webp</image:loc>
            <image:title>Boardview Asus X750LN Rev2.0 Boardview(FZ) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/ASUS%20X751LAB%20X751LB%20X751LJ%20BoardView%20(ASC).webp</image:loc>
+           <image:title>Boardview ASUS X751LAB X751LB X751LJ BoardView (ASC)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Asus%20X751LD%20r2.0%20boardview%20.webp</image:loc>
@@ -7393,6 +7409,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20Z490-GUNDAM%20WI-FI%20Rev%201.00AX%20BoardView%20File%20(CAD).webp</image:loc>
            <image:title>Boardview ASUS Z490-GUNDAM WI-FI Rev 1.00AX BoardView File (CAD)</image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Asus%20Z550MA%20Boardview%20(ASC).webp</image:loc>
+           <image:title>Boardview Asus Z550MA Boardview (ASC)</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/ASUS%20Z590%20AORUS%20ELITE_1.0%20(TVW).webp</image:loc>
@@ -7931,6 +7951,10 @@
            <image:title>Boardview Compal GDI4A LA-K034P Rev 1.0(A00) BoardView </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Compal%20GH4FZ%20LA-L202P%20DIS%20Rev1.0%20Boardview(bdv).webp</image:loc>
+           <image:title>Boardview Compal GH4FZ LA-L202P DIS Rev1.0 Boardview(bdv)</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20GH51M%20LA-K861P%20Rev%201A%20BoardView%20.webp</image:loc>
            <image:title>Boardview Compal GH51M LA-K861P Rev 1A BoardView </image:title>
        </image:image>
@@ -8003,6 +8027,10 @@
            <image:title>Boardview Compal LA-4494P LA-4495P Boardview(BDV) </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/COMPAL%20LA-4851P%20(KAWF0,KAWH0)%20Boardview.webp</image:loc>
+           <image:title>Boardview COMPAL LA-4851P (KAWF0,KAWH0) Boardview</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20LA-5401P%20NAL00%20Boardview(BDV)%20.webp</image:loc>
            <image:title>Boardview Compal LA-5401P NAL00 Boardview(BDV) </image:title>
        </image:image>
@@ -8041,6 +8069,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20LA-6601P%20PAR00%20Boardview(CAD)%20.webp</image:loc>
            <image:title>Boardview Compal LA-6601P PAR00 Boardview(CAD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/COMPAL%20LA-6901P%20(P5WE0,P5WS0)%20BoardView.webp</image:loc>
+           <image:title>Boardview COMPAL LA-6901P (P5WE0,P5WS0) BoardView</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20LA-6931P%20Boardview(BDV)%20.webp</image:loc>
@@ -8183,6 +8215,10 @@
            <image:title>Boardview Compal LA-H872P Boardview(CAD) </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Compal%20LA-H901P%20boardview.webp</image:loc>
+           <image:title>Boardview Compal LA-H901P boardview</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20LA-K091P%20Rev%202.0%20%20BoardView%20.webp</image:loc>
            <image:title>Boardview Compal LA-K091P Rev 2.0  BoardView </image:title>
        </image:image>
@@ -8245,6 +8281,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Compal%20·LA-7552P%20r1.0%20boardview%20.webp</image:loc>
            <image:title>Boardview Compal ·LA-7552P r1.0 boardview </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Compal_GH53Z%20LA-L031%20r1A.webp</image:loc>
+           <image:title>Boardview Compal_GH53Z LA-L031 r1A</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/CORE_L%20MB%20rev%202.0%20.webp</image:loc>
@@ -14379,6 +14419,10 @@
            <image:title>Boardview H310M D3H-10 (TVW)</image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/H34Y%20R2.3.webp</image:loc>
+           <image:title>Boardview H34Y R2.3</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/H510M%20H%20REV1.01%20(TVW).webp</image:loc>
            <image:title>Boardview H510M H REV1.01 (TVW)</image:title>
        </image:image>
@@ -14531,6 +14575,10 @@
            <image:title>Boardview HP 4411S (6050A2252601-MB-A03)Zenith UMA_A03_0318 ZZ_A03 </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/HP%208570W%20boardview.webp</image:loc>
+           <image:title>Boardview HP 8570W boardview</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/HP%20ChromeBook%2011%200C1-MB-E%20%20Quanta%200C1-MB-E%20BoardView%20.webp</image:loc>
            <image:title>Boardview HP ChromeBook 11 0C1-MB-E  Quanta 0C1-MB-E BoardView </image:title>
        </image:image>
@@ -14549,6 +14597,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/HP%20DV9000-DA0AT3MB8F0%20Boardview%20.webp</image:loc>
            <image:title>Boardview HP DV9000-DA0AT3MB8F0 Boardview </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/HP%20Elitebook%20830%20G6.webp</image:loc>
+           <image:title>Boardview HP Elitebook 830 G6</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/HP%20elitebook%208440p%208840W%20Compal%20LA-4902P%20.webp</image:loc>
@@ -15809,6 +15861,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/MI%206050A2811101-MB-A01%20.webp</image:loc>
            <image:title>Boardview MI 6050A2811101-MB-A01 </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Microsoft%20Surface%20Pro%204.webp</image:loc>
+           <image:title>Boardview Microsoft Surface Pro 4</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Microsoft%20Surface%20Pro%205%201796%20Calgary%20MB%20U_DV%20BoardView.webp</image:loc>
@@ -20551,6 +20607,10 @@
            <image:title>Boardview Quanta R53-MB-C - BoardView </image:title>
        </image:image>
        <image:image>
+           <image:loc>https://deskfixall.github.io/images/Quanta%20R53-MB-C.webp</image:loc>
+           <image:title>Boardview Quanta R53-MB-C</image:title>
+       </image:image>
+       <image:image>
            <image:loc>https://deskfixall.github.io/images/Quanta%20R63%20RevB%20.webp</image:loc>
            <image:title>Boardview Quanta R63 RevB </image:title>
        </image:image>
@@ -21057,6 +21117,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Quanta%20ZRL%20Boardview(BRD)%20.webp</image:loc>
            <image:title>Boardview Quanta ZRL Boardview(BRD) </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/Quanta%20ZS8%20DA0ZS8MB8E0%20DA0ZS8MB8E1.webp</image:loc>
+           <image:title>Boardview Quanta ZS8 DA0ZS8MB8E0 DA0ZS8MB8E1</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/Quanta%20ZW6%20RevC%20Boardview(BV)%20.webp</image:loc>
@@ -22305,6 +22369,10 @@
        <image:image>
            <image:loc>https://deskfixall.github.io/images/X555UJ_1.1_60NB0AQ0-MB2610%20.webp</image:loc>
            <image:title>Boardview X555UJ_1.1_60NB0AQ0-MB2610 </image:title>
+       </image:image>
+       <image:image>
+           <image:loc>https://deskfixall.github.io/images/X555YI.webp</image:loc>
+           <image:title>Boardview X555YI</image:title>
        </image:image>
        <image:image>
            <image:loc>https://deskfixall.github.io/images/X55VD%203.2,60-N0OMB1700-B01%20.webp</image:loc>
