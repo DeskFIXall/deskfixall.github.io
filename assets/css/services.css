@@ -92,11 +92,12 @@
     animation-timing-function: linear;
     animation-iteration-count: infinite;    
 }
-
 button{
     font-weight: bolder;
 }
-
 .disabled{
     color: #505050;
+}
+.only_one{
+    grid-template-columns:none !important;
 }
