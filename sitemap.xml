@@ -24,16 +24,4 @@
        <changefreq>daily</changefreq>
        <priority>1.0</priority>
    </url>
-   <url>
-         <loc>https://deskfixall.github.io/posts/ASUS%20STRIX%20H370-F%20GAMING%20R1.02A%20Boardview(FZ)</loc>
-          <lastmod>2026-03-01</lastmod>
-          <changefreq>daily</changefreq>
-          <priority>1.0</priority>
-   </url>
-   <url>
-         <loc>https://deskfixall.github.io/posts/ASUS%20TUF%20H370-PRO%20GAMING%20R1.02A%20Boardview(FZ)</loc>
-          <lastmod>2026-03-01</lastmod>
-          <changefreq>daily</changefreq>
-          <priority>1.0</priority>
-   </url>
 </urlset>
