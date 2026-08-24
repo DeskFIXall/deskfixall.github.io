@@ -24,4 +24,16 @@
        <changefreq>daily</changefreq>
        <priority>1.0</priority>
    </url>
+   <url>
+         <loc>https://deskfixall.github.io/posts/ASRock%20B550%20Taichi%20Razer%20Edition%20Rev%201.02%2070-MXBEN0-A01%20BoardView%20(FZ)</loc>
+          <lastmod>2026-03-01</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+         <loc>https://deskfixall.github.io/posts/ASUS%20TURBO-RTX2060-6G-2I2S-EVO%20(CG160PIL)%20R1.0%20BoardView%20(CAD)</loc>
+          <lastmod>2026-03-01</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
 </urlset>
