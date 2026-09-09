@@ -25,7 +25,13 @@
        <priority>1.0</priority>
    </url>
    <url>
-         <loc>https://deskfixall.github.io/posts/Quanta%20G3P%20TPN-Q278%20TPN-Q279%20Boardview(CAD)</loc>
+         <loc>https://deskfixall.github.io/posts/Acer%20Predator%20PH315-53-71HN%20Compal%20LA-K862P%20Rev1A%20Boardview%20(BDV)</loc>
+          <lastmod>2026-03-01</lastmod>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+   </url>
+   <url>
+         <loc>https://deskfixall.github.io/posts/ASUS%20TUF%20NJS%20DA0NJSMBAF0%20FA507UV%20Boardview(CAD)</loc>
           <lastmod>2026-03-01</lastmod>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
