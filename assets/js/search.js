@@ -4,9 +4,15 @@ const texto = document.getElementById('texto');
 const lastest = document.getElementById('lastest');
 const files_container = document.getElementById('services-content');
 const FILES_PER_PAGE = 8;
-let filteredFiles = database.files.slice(); // copia completa inicialmente
+const searchableFiles = database.files.map(file => ({
+    ...file,
+    searchName: file.name.toLocaleLowerCase()
+}));
+let filteredFiles = searchableFiles.slice(); // copia completa inicialmente
 let currentPage = 1;
 let pagination = document.getElementById('pagination');
+let searchTimer;
+
 
 // Función para renderizar una página con paginación
 renderPage = (page) => {
@@ -97,14 +103,16 @@ renderPaginationControls = () => {
 
 // Filtrar, actualizar lista y reiniciar paginación
 filesFilterInput.addEventListener('input', () => {
-    search(filesFilterInput);
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => search(filesFilterInput), 180);
 });
 
 // Filtrar, actualizar lista y reiniciar paginación
 search = (filter) => {
     lastest.innerHTML = '<a target="_blank" href="ftp.html"><i class="fa fa-folder-open" title="Redirect to page"></i> Click to more files in ftp mode.</a>';
-    const filterValue = filter.value.toLowerCase();
-    filteredFiles = database.files.filter(file => file.name.toLowerCase().includes(filterValue));
+    const filterValue = filter.value.toLocaleLowerCase().trim();
+
+    filteredFiles = searchableFiles.filter(file => file.searchName.includes(filterValue));
     currentPage = 1;
 
     if (filterValue === '') {
@@ -126,14 +134,13 @@ getRandomItems = (arr, n) => {
             result.push(arr[randomIndex]);
         }
     }
-
     return result;
 }
 
 // Render inicial: mostrar 8 archivos aleatorios sin filtro
 renderEightFiles = () => {
     lastest.innerHTML = `<i class="fa fa-random"></i> Random ${FILES_PER_PAGE} files:`;
-    filteredFiles = getRandomItems(database.files, FILES_PER_PAGE);
+    filteredFiles = getRandomItems(searchableFiles, FILES_PER_PAGE);
     currentPage = 1;
     renderPage(currentPage);
 }
