@@ -67,8 +67,8 @@ header{
 header.sticky{
     background: rgb(0,0,0,.6);
     border: none;
-    -webkit-backdrop-filter: blur(40px);
-    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
     border-bottom: 1px solid #404040;
     padding: 20px 2.5%;
     transition: all .50s ease;
