@@ -1,367 +1,255 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#060606">
-    <meta name="application-name" content="DeskFixAll | ViewBV">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-title" content="DeskFixAll | ViewBV">
-
-    <link rel="manifest" href="./manifest.webmanifest">
-    <link rel="icon" type="image/png" sizes="192x192" href="./assets/logo.png">
-    <link rel="apple-touch-icon" href="./assets/logo.png">
-
-    <meta name="author" content="ViewBV - DeskFixAll Solutions">
-    <meta name="title" content="ViewBV - DeskFixAll Solutions">
+<!-- MARK: Head 
+-->
+<head>
+    <meta name="viewport" content="width=device-width, maximum-scale=5, initial-scale=1, user-scalable=1">
+    <title>DeskFIXall Solutions</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="stylesheet" href="./assets/css/(style).css">
+	
+    <meta name="author" content="Shop - DeskFixAll Solutions">
+    <meta name="title" content="Shop - DeskFixAll Solutions">
     <meta name="description" content="Store for motherboard and video card boardviews and schematics. Tienda de Boardviews y esquemáticos de placas bases y targetas de video.">
-	  
-    <meta name="keywords" content="DeskFixAll, tienda, venta, comprar, shop, BVD, Boardview, esquematico, esquemático, tablero, Schematic, schematic, esquema, schema, Skhema, videocard, motherboard, mainboard, tarjeta de video, tienda, Shop, Gigabyte, Asus, Asrock, MSI, EliteGroup, ECS, VIT, Inspur, GA-, MS-, Pegatron, Zotac, AMD, Nvidia, Radeon, RTX, RX, GTX, GT" />
+	<meta name="keywords" content="DeskFixAll, tienda, venta, comprar, shop, BVD, Boardview, esquematico, esquemático, tablero, Schematic, schematic, esquema, schema, Skhema, videocard, motherboard, mainboard, tarjeta de video, tienda, Shop, Gigabyte, Asus, Asrock, MSI, EliteGroup, ECS, VIT, Inspur, GA-, MS-, Pegatron, Zotac, AMD, Nvidia, Radeon, RTX, RX, GTX, GT" />
     <meta name="hostname" content="deskfixall.github.io">
     <meta name="expected-hostname" content="deskfixall.github.io">
+    <meta http-equiv="Cache-Control" content="max-age=86400">
+    <meta http-equiv="Content-Security-Police" content="frame-ancestors 'none'">
+    <meta name="google-site-verification" content="kF723r3gisRKChs3bWIkigSIE5rJwcBVIwlnd-keqqY" />
     
     <meta property="og:site_name" content="DeskFixAll">
-	  <meta property="og:type" content="website">
+	<meta property="og:type" content="website">
     <meta property="og:url" content="https://deskfixall.github.io">
-    <meta property="og:title" content="ViewBV - DeskFixAll Solutions.">
-    <meta property="og:description" content="View online boardview files.">
-	  <meta property="og:image" content="https://deskfixall.github.io/view-bv/assets/ViewBV.png">
+    <meta property="og:title" content="Shop - DeskFixAll Solutions.">
+    <meta property="og:description" content="Shop for Boardviews and Schematics. Tienda de Boardviews y esquemáticos.">
+	<meta property="og:image" content="https://deskfixall.github.io/main.webp">
 
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://deskfixall.github.io">
-    <meta property="twitter:title" content="ViewBV - DeskFixAll Solutions.">
-    <meta property="twitter:description" content="View online boardview files.">
-	  <meta property="twitter:image" content="https://deskfixall.github.io/view-bv/assets/ViewBV.png">
+    <meta property="twitter:title" content="Shop - DeskFixAll Solutions.">
+    <meta property="twitter:description" content="Shop for Boardviews and Schematics. Tienda de Boardviews y esquemáticos.">
+	<meta property="twitter:image" content="https://deskfixall.github.io/main.webp">
+    <link rel="canonical" href="https://deskfixall.github.io">
 
-    <title>DeskFixAll | ViewBV</title>
-    <script type="module" crossorigin="" src="./assets/script.js"></script>
-    <link rel="stylesheet" crossorigin="" href="./assets/css.css">
-  </head>
-  <body>
+    <link rel="preload" href="./assets/images/Portada.webp" as="image">
+    <link rel="preload" href="./assets/images/imagen1.webp" as="image">
+    
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Tienda",
+            "name": "DeskFixAll Solutions",
+            "applicationCategory": "Business",
+            "operatingSystem": "Web",
+            "description": "Tienda de venta de Boardviews y esquemáticos de placas bases y targetas de video.",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "ratingCount": "27"
+            }
+        }
+    </script>
+</head>
 
-    <section class="app-tittlebar">
-      <img class="logo-tittlebar" src="./../assets/images/favicon.png" alt="">
-      <div>DeskFixAll | ViewBV</div>
+<body>
+<main>
+    <header class="sticky">
+        <a href="/products-static.html" class="logo" style="font-size: 24px;">
+            <ul>     
+                <li translate="no">
+                    <svg style="margin-bottom: -2px;" width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path fill="currentColor" d="M20.1 23.88a3.75 3.75 0 0 0 3.72-4.22L22.24 7a1 1 0 0 0 0-.16l-1-2.93a1.77 1.77 0 0 0-1.64-1.03h-1a.75.75 0 0 0-.75.74a.76.76 0 0 0 .75.76h1a.2.2 0 0 1 .17.12l.55 1.5a.24.24 0 0 1 0 .23a.25.25 0 0 1-.21.11h-2.76a.26.26 0 0 1-.25-.26v-1a5 5 0 0 0-10 0v1a.26.26 0 0 1-.25.26H4a.27.27 0 0 1-.21-.12a.24.24 0 0 1 0-.23l.63-1.5a.26.26 0 0 1 .19-.15h1a.75.75 0 0 0 .75-.76a.74.74 0 0 0-.75-.74h-1a1.76 1.76 0 0 0-1.55 1L1.81 6.83a.7.7 0 0 0-.05.2L.18 19.66a3.75 3.75 0 0 0 3.72 4.22ZM8.73 14.76a.34.34 0 0 1 .48 0l1.51 1.45a.25.25 0 0 0 .35 0l4.48-4.47a.33.33 0 0 1 .48 0L17.26 13a.33.33 0 0 1 0 .48l-6.12 6.12a.34.34 0 0 1-.48 0L7.5 16.48a.34.34 0 0 1 0-.49Zm.37-9.64a3 3 0 1 1 6 0v1a.26.26 0 0 1-.25.26h-5.5a.26.26 0 0 1-.25-.26Z"/>
+                    </svg>
+                    Desk<span>FIX</span>all
+                </li>
+            </ul>
+        </a>
+        <!-- MARK: Navbar             
+        -->
+        <ul class="navlist">
+            <li><a href="#home"><i class="fa fa-home fa-fw"></i> Home</a></li>
+            <li><a href="#about"><i class="fa fa-coffee fa-fw"></i> About Us</a></li>
+            <li><a href="#services"><i class="fa fa-cart-plus fa-fw"></i> Services</a></li>
+            <li><a href="./view-bv"><i class="fa fa-random fa-fw"></i> ViewBV</a></li>
+            <li><a href="https://t.me/Tienda_DeskFixAll"><i class="fa fa-paper-plane fa-fw"></i> Join Us</a></li>
+            <li><a href="#contact""><i class="fa fa-map-marker fa-fw"></i> Contact</a></li>
+        </ul>
+        <p class='menu-icon' id="menu-icon"><i class="fa fa-bars"></i></p>
+
+    </header>
+    <!-- End Navigator bar -->
+
+    <!-- MARK: Home
+    -->
+    <section class="home" id="home" fetchpriority="high">
+        <div class="home-transition transition">
+            <div class="home-text">
+                <div class="slide">
+                    <span class="dos">Boardviews and schematics for sale.</span>
+                </div>
+
+                <h1 class="home-text-h1" translate="no">DeskFIXall</h1>
+                <h2 class="home-text-h3" >Shop: 
+                    <span class="text-services"></span>
+                </h2>
+
+                <p class="home-text-p">
+                    Access clear and detailed repair and maintenance diagrams, optimized for technicians and enthusiasts. 
+                    Simplify your work with accurate and reliable information!
+                    <strong></br>🤝Thank you for using our service.</strong>
+                </p> 
+
+                <div class="button">
+                    <a href="store.html" class="btn"><i class="fa fa-search"></i> Start to search</a>
+                </div>      
+            </div>
+
+            <center>
+                <div class="container">
+                    <img class="imagen1" src="assets/images/imagen1.webp" alt="Imagen original"/>
+                    <img class="imagen2" src="assets/images/imagen2.webp" alt="Imagen rayos X"/>
+                </div>
+            </center>
+        </div> 
     </section>
 
-    </header>
-    <div id="app">
-    <div class="shell">
-    <input id="fileInput" class="hidden-file-input" type="file" accept=".bv,.bvr,.f2b,.bdv,.cst,.tvw,.gr,.brd,.con,.pcb,.cad,.fil,.faz,.fz,.cae,.asc,.a3p,.nbv">
+    <!-- Scroll indicator -->
+    <div id="mouse" class="mouse" title="Scroll to move"></div>
 
 
-    <header class="app-toolbar">
-      <div class="menu-row">
-        <nav class="menu-bar" aria-label="Application menu">
-          <div class="menu-root">
-            <button id="fileMenuButton" class="menu-button" type="button" aria-haspopup="menu" aria-expanded="false">File</button>
-            <div id="fileMenu" class="menu-popover" role="menu" hidden="">
-              <button id="menuOpenButton" class="menu-item" type="button" role="menuitem">Open...</button>
-            </div>
-          </div>
-          <div class="menu-root">
-            <button id="viewMenuButton" class="menu-button" type="button" aria-haspopup="menu" aria-expanded="false">View</button>
-            <div id="viewMenu" class="menu-popover menu-popover-wide" role="menu" hidden="">
-              <button id="flipWithoutMirroringMenuButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Flip the board without mirroring</button>
-              <button id="flipOverXAxisMenuButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Flip the board over X-axis</button>
-            </div>
-          </div>
-
-          <!-- Menu Options -->
-          <div class="menu-root">
-            <button id="optionsMenuButton" class="menu-button" type="button" aria-haspopup="menu" aria-expanded="false">Options</button>
-            <div id="optionsMenu" class="menu-popover menu-popover-wide" role="menu" hidden="">
-              <button id="drawPinPadsMenuButton" class="menu-item menu-check-item checked" type="button" role="menuitemcheckbox" aria-checked="true">Draw pin pads</button>
-              <button id="hollowPinPadsMenuButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false" aria-disabled="false">Hollow pin pads</button>
-              <button id="showNetwebMenuButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Show netweb</button>
-              <button id="showPinNetLabelsMenuButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Show net name under pin label</button>
-              <div class="menu-separator" role="separator"></div>
-              <button id="renderUsingWebGpuMenuButton" class="menu-item menu-check-item checked" type="button" role="menuitemradio" aria-checked="true">Render using WebGPU</button>
-              <button id="renderUsingWebGlMenuButton" class="menu-item menu-check-item" type="button" role="menuitemradio" aria-checked="false">Render using WebGL2</button>
-              <div class="menu-separator" role="separator"></div>
-              <button id="resetSettingsMenuButton" class="menu-item menu-check-item" type="button" role="menuitem">Reset settings</button>
-            </div>
-          </div>
-
-          <!-- Button redirect -->
-          <div class="menu-root">
-            <a class="menu-button" type="button" href="./../store.html">Go to Store</a>
-          </div>
-
-        </nav>
-      </div>
-
-      <div class="toolbar-row">
-        <div class="view-controls" role="group" aria-label="View controls">
-          <button id="rotateCcwButton" class="icon-button" type="button" title="Rotate counterclockwise" aria-label="Rotate counterclockwise">
-            <img src="data:image/png;base64,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" alt="" aria-hidden="true">
-          </button>
-          <button id="rotateCwButton" class="icon-button" type="button" title="Rotate clockwise" aria-label="Rotate clockwise">
-            <img src="data:image/png;base64,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" alt="" aria-hidden="true">
-          </button>
-          <button id="fitButton" class="icon-button" type="button" title="Fit to screen" aria-label="Fit to screen">
-            <img src="data:image/png;base64,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" alt="" aria-hidden="true">
-          </button>
+    <!-- MARK: About 
+    -->
+    <section class="about" id="about">    
+        <div class="about-logo">
+            <center>
+                <div id="gallery"></div>
+            </center>
         </div>
 
-        <div class="side-switch" role="group" aria-label="Board side">
-          <button id="topSideButton" type="button">Top</button>
-          <button id="bottomSideButton" class="active" type="button">Bottom</button>
+        <div class="about-text">
+            <h2 class="about-text-h2"><i class="fa fa-coffee fa-fw"></i><span>About</span> Us<span>.</span></h2>
+            <h3 class="about-text-h4">Always thinking for you. </h3>
+            <p class="about-text-p"> 
+                Having accurate schematics greatly facilitates the repair of electronic equipment, 
+                enabling quick and precise diagnosis. By understanding how components are connected 
+                and function, you help avoid unnecessary testing and costly errors. </br>This translates 
+                into significant savings in time and resources, improving the efficiency of technical work. 
+                Furthermore, schematics are an essential tool for learning about and delving deeper into the 
+                equipment's design, providing a reliable reference for future repairs and maintenance. 
+                </br>With a good schematic, the repair process is simplified and becomes much more effective.
+            </p>
+            </br>  
         </div>
 
-        <div class="toolbar-combos">
-          <div class="search-field">
-            <label for="componentSearchInput">Parts:</label>
-            <div class="combo-shell">
-              <input id="componentSearchInput" class="combo-value" type="text" autocomplete="off" spellcheck="false">
-              <button id="componentDropdownButton" class="combo-trigger" type="button" aria-label="Show parts"></button>
-              <div id="componentDropdown" class="combo-menu" role="listbox"></div>
+    </section>   
+    <!-- End About Us -->
+
+    <!-- MARK: Services 
+    -->
+    <section class="services" id="services">
+        <div class="main-text">
+            <h2><i class="fa fa-cart-plus fa-fw">  </i><span>Services</span>.</h2>
+            <h3>My services now.</h3> 
+            <p>
+                </br>I offer sales of information for repairs related to computer accessories.</br>
+            </p>
+        </div>
+        
+        <!-- Services -->
+        <div class="services-content">
+            <!-- Service -->   
+            <article class="item-service"> 
+                <img src="assets/images/imagen2.webp" alt="Motherboards Boardviews" loading="lazy"/>
+                    <div class="layer">
+                    <p><strong>Boardview</strong></p>
+                    <p>Motherboards</p>
+                    </div>
+            </article>
+            <!-- End Service -->
+            <!-- Service -->   
+            <article class="item-service"> 
+                <img src="assets/images/gfx_bvd.webp" alt="Graphics Boardviews" loading="lazy"/>
+                    <div class="layer">
+                    <p><strong>Boardview</strong></p>
+                    <p>Graphics Cards</p>
+                    </div>
+            </article>
+            <!-- End Service -->
+            <!-- Service -->   
+            <article class="item-service"> 
+                <img src="assets/images/laptop-bvd.webp" alt="Laptops Boardviews" loading="lazy"/>
+                    <div class="layer">
+                    <p><strong>Boardview</strong></p>
+                    <p>Notebooks</p>
+                    </div>
+            </article>
+            <!-- End Service -->
+            <!-- Service -->   
+            <article class="item-service"> 
+                <img src="assets/images/schema.webp" alt="Schematics PDF" loading="lazy"/>
+                    <div class="layer">
+                    <p><strong>Schematics</strong></p>
+                    <p>All</p>
+                    </div>
+            </article>
+            <!-- End Service -->
+        </div>
+        <!-- End Services -->
+    </section>
+    <!-- End Services -->
+
+    <!-- MARK: Contact 
+    -->
+    <section class="contact" id="contact">
+        <div class="contact-transition transition">
+            <div class="contact-text">
+                <img class="logo-in-contact" src="assets/images/logo_shop.webp" alt="Logo" loading="lazy"/>
+                <h4>Please contact me if you need any information.</h4>
+                <p style="justify-items: center;">Available for Cuba. <img src="assets/images/flag-cuba.webp" alt="" width="16"></p>
             </div>
-          </div>
 
-          <div class="search-field">
-            <label for="netSearchInput">Nets:</label>
-            <div class="combo-shell">
-              <input id="netSearchInput" class="combo-value" type="text" autocomplete="off" spellcheck="false">
-              <button id="netDropdownButton" class="combo-trigger" type="button" aria-label="Show nets"></button>
-              <div id="netDropdown" class="combo-menu" role="listbox"></div>
+            <div class="contact-form">
+                <h2><i class="fa fa-map-marker fa-fw"></i><span>Contact</span> Us.</h2>  
+                <div class="form">
+                    <center>
+                    <label for="name" id="label_name"></label>
+                    <input id="name" type="text" placeholder="Your Name" autocomplete="off">
+                    <label for="email" id="label_email"></label>
+                    <input id="email" type="email" placeholder="Your Email Address" autocomplete="off">
+                    <label for="message" id="label_message"></label>
+                    <textarea id="message" id="" cols="35" rows="10" placeholder="Message"></textarea>
+                    <div class="submit-telegram"><i class="fa fa-paper-plane"></i>  Send to Telegram</div>
+                    </center>
+                </div>
             </div>
-          </div>
         </div>
 
-        <div class="toolbar-separator flip-separator" aria-hidden="true"></div>
+    </section>
+    <!-- End Contact -->
+</main>
 
-        <div class="flip-controls" role="group" aria-label="Flip board">
-          <button id="flipHorizontalButton" class="icon-button toggle-button" type="button" title="Flip horizontal" aria-label="Flip horizontal" aria-pressed="false">
-            <img src="data:image/png;base64,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" alt="" aria-hidden="true">
-          </button>
-          <button id="flipVerticalButton" class="icon-button toggle-button" type="button" title="Flip vertical" aria-label="Flip vertical" aria-pressed="false">
-            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAQAAABNTyozAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQflCgURChOUhqgRAAAEgElEQVR42u2dTWxUVRTH/wcqVmlEjIAxiqljUolQsMSghoSEtJqYmIjJ4M7oZnCnrqYLQsCN08QNbkxZ4kbahSYSN6DEjxiRAFU0sRqiJUYkQG0tYIHSvysNZTrvvum9b877OL/1e+ee85v23ffufXMGMAzDMAzDMAzDMAzDMAzDMAzDMAzDMAwvRDsBP7gSr6IbEzggX2jnkjrYwV2c4n8MaOeTKtjG13iWc3lOO6vUwBf5E+s5oJ1XKuBmfs35+UY7N3XYxSHOshHfauenK2cF9/I6oyiuIHawyr/popiCeBsr/NMpp5iCKCzzl1hyiiiIT/Or2HKKJojr+IlDxw98r6CC+AAHORMp53dWuJjlAgrictZ4JVLOFHfzDgAonCAuYYXnIuVc4yBX/n98kQRRWObpSDmzHGJpzjnFEcRennBckg+xp+6sYgjiWh50zlflec/MvyCu5iBvRMo5wwoXNzg734J4D2v8J1LORVbZHhEhv4J4J6v8K1LOVe7l3Y4o+RTERSzz10g5NzjEzhiR8iiIvRxxzlcbYsbKmyA+wSMOOce4tYl4eRLEh7g/YrGUJMdY4aKmYuZFEO9ljdORci6wytubjpsHQVzKKicj5VxmjcsWFDvrgtjGCv9wzFf7ef+C42dbEHt5yjlfdXuNkF1BfJKfO+Qc5RbvUbIpyLG5R5KjLDPAWyUZFBRjc+88q1wSaLRsCYqxuXeJNd4VcMTsCIqxuXeNg7wv8KgtEdQWINEX8A5KjoPGsREHGTb35UkIuRVvQdyDXTEOW4VVrSgnPE09/dTDjdipXUKyeArCNu8IKce3vA7tAm5iOomgvoJOKohoxPEkgnre0bIdJ/Goho06JrBezoQP6/kXJNN4Bp/qGJnDKJ5NQk+gN+3ZiU7Vi/UFfC+ziuMbhmEkRJiL9MPoVP1i1ThGUnuR5mp+Rn1+5qZk6vO/URxBV+s/lnmYxHoZCx/W9+7lpZToAZbhzSTC+gp6XEFFI3r8Q9TjK+iSgohGtPuHqMdX0IdI6+wRCN+H1eN4S7uEZPF+xJQ92IbT2mUkR4BncPkIa7AD57RLSYYgixRyXfahhH5MaZcTnmCrOHJZBlDCu5jRLiksQZe55Ly8jrUYRuAdQk2CrwPKqGzHU8hNJ41EFkrlqGxBH05pFxeCxFaS5TB6sANntQv0JcGldpmRfXgE/ZjULtKHhPci5IoMoIQBXNUudKG0YLNGLko/uvB+Nue2Fu1myZi8jE04ol1u87Rwu0+OyVb04Tvtkpujxfuhchg92I7ftMuOT8s3jGVWhtGFNzChXXrKifGVzGZJ71uuC5b0oLMJRbEFAQAf48dpFqT+hqH8KM+jDye080g5MVpTFPVf7CZJ7uYmxRYEAOzgbkd7nGILAmI1WCq2IADgGg6ZIJcka/LmVGRtAmNIskaTMSQttValbknW7DaGJGuX7MYabsegQcv2D7TzShHW9D8Gt/xsxNvJjJL9Hx55Bd0Yx7B8qZ2LYRiGYRiGYRiGYRiGYRiGYRiGYRiGYczLv+uBSl/JwU6tAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTEwLTA1VDE3OjEwOjE5KzAwOjAwfEqZwQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0xMC0wNVQxNzoxMDoxOSswMDowMA0XIX0AAAAASUVORK5CYII=" alt="" aria-hidden="true">
-          </button>
-        </div>
-
-        <div class="toolbar-separator layer-separator" aria-hidden="true"></div>
-
-        <div class="layer-tools" role="group" aria-label="Layer tools">
-          <input id="layerModeInput" class="hidden-toggle-input" type="checkbox" disabled="">
-          <button id="layerModeButton" class="icon-button toggle-button disabled" type="button" title="Layer mode" aria-label="Layer mode" aria-pressed="false" disabled="">
-            <img src="data:image/png;base64,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" alt="" aria-hidden="true">
-          </button>
-          <div class="menu-root toolbar-more-root">
-            <button id="moreToolsButton" class="icon-button toggle-button" type="button" title="More..." aria-label="More..." aria-haspopup="menu" aria-expanded="false" aria-pressed="false">
-              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAQAAABNTyozAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQflCgURChl0U0EPAAACX0lEQVR42u3YT0tUURzG8eeK0KjURlNDrZa6zDa1cFrVpkBpVUvrBQi+B/+8BcF9UWYqtalF5aZB6B0oqJMFpZtCKRSfFhI4MnPOHe7odfH9bOd8h3N+XO7lXgkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgHMnadxf+boe6pau6K/Keq83ya+66k6NqKg+SWUtayH5UVd9SQ90V326oO8qaT5ZP4vh1bPBDs/6wMfteNxNKesWT3uvot7ztFtS1k0e905FfeBZd+Q9k+NbHPCaq1lyW4q62ytV6xV3p6jbvFS1XvNA3nP5v8WOGuOx7fnYVeSCSzXrL26N1Imf16w33JX3bI42OeeQp5F6KlhPReonwXou79lI8qAPg5v86uZA3Xni3nPSXugqcLPLwfrQN7OeL+VtNOBx5EnYo6HAryMK34pbNBz4dUi9wTrRo/wHVIyuuHNO61SyD6g3uqInU917anUq2QfkTCvyrFPJPqCt6IpvmeqtU6tTyT6gj5lWfDrl+kPm82XlG5HHfDnymN+NPOY7A3WzNyOP+cG85yPJL4KbHI3Uk8F6MlKPBuuXec/maJPtgVeNV458L3DBn2vWaV41ntWs10NX39mOqN+rVbe4EDugJLmrxttYKc27lFu9ULVedX/eczm+zXbPeL9ig9seS/25o+CJE/eiXU+4kLJu8pi3K+p9z7i9MSdr5AezaxrRbfXoj8p6p7fJ77rqyxpWUVclbWpZi8nPuuqLuq976lNBWyrpdbLRuHMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHDu/AMPCoKOmUpbYAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0xMC0wNVQxNzoxMDoyNSswMDowMDVl9FYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMTAtMDVUMTc6MTA6MjUrMDA6MDBEOEzqAAAAAElFTkSuQmCC" alt="" aria-hidden="true">
-            </button>
-            <div id="moreToolsMenu" class="menu-popover menu-popover-wide toolbar-more-menu" role="menu" hidden="">
-              <button id="highlightSamePartsButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Highlight same parts</button>
-              <button id="highlightSelectedPartNetsButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Highlight part nets</button>
-              <button id="darkenPartsWithoutInfoButton" class="menu-item menu-check-item" type="button" role="menuitemcheckbox" aria-checked="false">Darken parts without info</button>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="tab-row">
-        <div id="documentTabs" class="document-tabs" role="tablist" aria-label="Board tabs"><button class="document-tab document-tab-home active" type="button" role="tab" data-home="true">Home</button></div>
-      </div>
-    </header>
-
-    <div id="workspace" class="workspace">
-      <main class="viewer">
-        <canvas id="boardCanvas" width="710" height="436"></canvas>
-        <canvas id="labelCanvas" width="710" height="436"></canvas>
-        <div id="boardTooltip" class="board-tooltip" hidden=""></div>
-        <div id="boardLoadingIndicator" class="board-loading-indicator" role="status" aria-live="polite" hidden="">Loading boardview...</div>
-        <div id="homePane" class="home-pane">
-          <img class="home-logo" src="./assets/logo.png" alt="ViewBV">
-          <div class="home-version">DeskFixAll | ViewBV</div>
-          <div class="home-open-text">You can open a boardview from File -&gt; Open... menu or drag &amp; drop it here</div>
-        </div>
-      </main>
-
-      <div id="sidebarResizeHandle" class="sidebar-resize-handle" role="separator" aria-label="Resize sidebar" tabindex="0" aria-orientation="horizontal" aria-valuemin="120" aria-valuemax="534" aria-valuenow="240"></div>
-
-      <aside id="sidebar" class="sidebar">
-        <div class="right-tabs" role="tablist">
-          <button id="partTabButton" class="active" type="button">Part</button>
-          <button id="netTabButton" type="button">Net</button>
-          <button id="findTabButton" type="button">Find parts</button>
-          <button id="layersTabButton" type="button" hidden="">Layers</button>
-          <button id="subBoardsTabButton" type="button" hidden="">Sub-boards</button>
-        </div>
-
-        <div id="partPane" class="sidebar-pane part-panel">
-          <section class="panel-section pins-section">
-            <div id="partDetails" class="part-details" hidden="">
-              <button id="partRefdesLine" class="part-refdes" type="button"></button>
-              <div id="partPinsLine" class="part-pins-line"></div>
-              <input id="partInfoEdit" class="part-info-edit" type="text" readonly="" spellcheck="false">
-            </div>
-            <div id="pinList" class="pin-list part-list-no-selection" style="--pin-divider-1: 25%; --column-divider-height: 197px;">
-              <div class="pin-row pin-row-header"><span>Pin</span><span>Net</span></div>
-            </div>
-          </section>
-        </div>
-
-        <div id="netPane" class="sidebar-pane net-panel" hidden="">
-          <section class="panel-section net-section">
-            <div id="netNameLine" class="section-title">Net</div>
-            <div id="netList" class="net-list">
-              <div class="net-row net-row-header"><span>RefDes</span><span></span><span>Pin</span><span>Info</span></div>
-            </div>
-          </section>
-        </div>
-
-        <div id="findPane" class="sidebar-pane find-panel" hidden="">
-          <section class="panel-section find-section">
-            <div class="find-search-row">
-              <input id="findPartsInput" class="find-input" type="search" autocomplete="off" spellcheck="false" placeholder="Search by the info or number of pins...">
-              <button id="findWholeWordButton" class="find-word-button" type="button" aria-label="Search for whole word" aria-pressed="false" title="Search for whole word">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAQAAABNTyozAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQflCgURCiVbPD2IAAAEmUlEQVR42u2cz28VVRTHz+WRVqHihmoMASoJCUQMhEDZU5YaCnupibFBwPiv4EIhIIuyqibAwmVpIjslcSUlQvwRJCSiLrRo2sZHvy5sy5z7fswMc+ee6cz3s3ozc+fc7z25c+fe77vviRBCCCGEEEIIIYQQQgghhBBCCCGEGOKsBSTBBnlDRObcsrWSSoI9mAMAzGGPtZYKghbuYJU5bLTWUzlwAklOWuupHLipEjRrradiYC+WoXnTWtP/bLAWsMLZjvfpaWtJFQIv4S/4PMHL1rpEqtKDJmRLx7khOWUtqzLgO3TjPio1jTUDx9CLY9baKgFu9EzQDWttFQA78G8iJb/jceKojZ3W+uwH6dOSXFZcls8SR63Gv+wx6PWYEWz3etQL1hptEzShxpzrIiK4ps5NWGu0TdBtlYwxEREcVee+tdZomZ6DKhV3V+c93rzoiKVG20H6I3X0qcPKp4vq/FlTjXZgKxYS/WQea8sNDOHPxJUlvGqn0rIHTUryDTXl5lc/ur/lauLKgLxnqNIKtPCzGmn2qau7lT/0SwMtWM9inem4PqOuN8+C9SzW8Y7r4+p60yxYz2J90PkIoYWfej+C8bAapLXFetG1/QLuqVxSJ5q0KvMs1kW80rWUngYYWbA2PUhbrNPut26F3B/yeeKwSRast5Q43LOcXoo0xYL1LNa+i1F8o8o2w4L1LNa+Dw5OqbJNsGCxA+1Ek1MMMQzi10TpNl6PrTf+IP2BtBJHl9xiv8JuSa4kDlsyGV1vXDot1tQ7mmXBdrNYU++5ru6ptwXbzWJNvWcs+1svPFFtBIxKcs6zIIdxKMNtThbkxbWjgxh1t2OqjgiuIgRTMTVHnJtiqzyUEEPskux0j2OpjvmanwySHpHBmBZstB6ElvwgI4GCPZRdnQZJOcTrQceDpUdku7wdTXcsMBtkgF7lpnV7QqfHt1hbuSMYWbCxHjFtsV5wT/MGqLUFm81iTY3iW7BbnidKXuL0oHezWKxp1NiCTfxMBehjsabGqacF61msXxeKVUcL1rNY3ykUq34WbD6LNTWab8GOlK2//EE6l8WaRu0s2PwWa2rEelmwnsV6LUjMOlmwnsV6NEhMUws2bHqOqKbcDTVv8b66Hi2zDeUO0np/6idru1iLUo9dsBjutYu1cGR/bVfiLtgye9D7vXaxFsU9Ubtgo1qwwei/i7Vw9L3rfhcsTqr0zBSP6MXXm0BPWLc3fwO0xToePL7eRrzeLNjiFmtqDaU+ws8oa5A+V9RiTWNdW7AYwLx6DQ+XUsswFtU0YsC63dmlH1Cdv7Tv0jGl6tlv3e7swrcp4c9tsabWoy3Y16zbnUf6F2FX8D3rmV6rZ9q6zfmEb8LHeIRHOI/NpdazGedX6tlk3WZCCCGEEEIIIaRqwOEc7nX8Je36Yxnf40wJm/fwoXXLgnIma7szZxL3ZXekzhqDey7j38Jn/1ajFOPdjMw7tbMn6JZ1m4LyVdaC2R+xEZmVXdbtCsSPMuYeZCuaYzTHkLwl++L+yrUE2nJHvnT/WMsghBBCCCGEEEIIIYQQQgghhJD68B/dU6utQMyavQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0xMC0wNVQxNzoxMDozNyswMDowMG5Q5eEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMTAtMDVUMTc6MTA6MzcrMDA6MDAfDV1dAAAAAElFTkSuQmCC" alt="" aria-hidden="true">
-              </button>
-            </div>
-            <div class="find-filter-row" role="group" aria-label="Filter by">
-              <span class="find-filter-label">Filter by:</span>
-              <label class="find-filter-choice" title="Filter by the number of pins">
-                <input id="findFilterPinsInput" type="radio" name="findFilter" value="pins">
-                <span>Pins</span>
-              </label>
-              <label class="find-filter-choice" title="Filter by the info">
-                <input id="findFilterInfoInput" type="radio" name="findFilter" value="info" checked="">
-                <span>Info</span>
-              </label>
-              <label class="find-filter-choice find-highlight-choice">
-                <input id="findHighlightMatchesInput" type="checkbox">
-                <span>Highlight matches</span>
-              </label>
-            </div>
-            <div id="findPartsList" class="find-list">
-              <div class="find-row find-row-header"><span>RefDes</span><span></span><span>Pins</span><span>Info</span></div>
-            </div>
-          </section>
-        </div>
-
-        <div id="layersPane" class="sidebar-pane layers-panel" hidden="">
-          <section class="panel-section layers-section">
-            <input id="layerInfoEdit" class="layer-info-edit" type="text" readonly="" autocomplete="off" spellcheck="false">
-            <div id="layerList" class="layer-list empty-list"></div>
-          </section>
-        </div>
-
-        <div id="subBoardsPane" class="sidebar-pane subboards-panel" hidden="">
-          <section class="panel-section subboards-section">
-            <div id="subBoardList" class="subboard-list empty-list"></div>
-          </section>
-        </div>
-      </aside>
+<!-- 
+    Footer  MARK: Footer 
+-->
+<footer class="footer">
+    <div class="last-text">
+        ©2026 <strong translate="no" style="color:white">DeskFixAll</strong>
     </div>
-    <div id="listTooltip" class="list-tooltip" hidden=""></div>
+</footer>
+<!---End Footer-->
 
-    <div id="resetSettingsWindowBackdrop" class="about-window-backdrop" hidden="">
-      <section class="about-window message-window" role="dialog" aria-modal="true" aria-labelledby="resetSettingsTitle">
-        <div class="about-titlebar">
-          <div id="resetSettingsTitle" class="about-title">Reset settings</div>
-          <button id="resetSettingsCloseButton" class="about-close-button" type="button" aria-label="Close">X</button>
-        </div>
-        <div class="about-content message-content">
-          <img class="about-logo" src="./assets/logo.png" alt="ViewBV">
-          <div>
-            <div class="about-name">Reset all settings?</div>
-            <div class="about-text message-text">The settings will be reset to their defaults.</div>
-          </div>
-        </div>
-        <div class="about-actions reset-settings-actions">
-          <button id="resetSettingsConfirmButton" class="about-ok-button" type="button">Reset</button>
-          <button id="resetSettingsCancelButton" class="about-ok-button" type="button">Cancel</button>
-        </div>
-      </section>
-    </div>
-    <div id="rendererSwitchWindowBackdrop" class="about-window-backdrop" hidden="">
-      <section class="about-window message-window" role="dialog" aria-modal="true" aria-labelledby="rendererSwitchTitle">
-        <div class="about-titlebar">
-          <div id="rendererSwitchTitle" class="about-title">Change renderer</div>
-          <button id="rendererSwitchCloseButton" class="about-close-button" type="button" aria-label="Close">X</button>
-        </div>
-        <div class="about-content message-content">
-          <img class="about-logo" src="./assets/logo.png" alt="ViewBV">
-          <div>
-            <div class="about-name">Restart boardviewer?</div>
-            <div id="rendererSwitchText" class="about-text message-text"></div>
-          </div>
-        </div>
-        <div class="about-actions reset-settings-actions">
-          <button id="rendererSwitchConfirmButton" class="about-ok-button" type="button">OK</button>
-          <button id="rendererSwitchCancelButton" class="about-ok-button" type="button">Cancel</button>
-        </div>
-      </section>
-    </div>
-
-    <div id="webGlFallbackWindowBackdrop" class="about-window-backdrop" hidden="">
-      <section class="about-window message-window" role="dialog" aria-modal="true" aria-labelledby="webGlFallbackTitle">
-        <div class="about-titlebar">
-          <div id="webGlFallbackTitle" class="about-title">WebGPU Required</div>
-          <button id="webGlFallbackCloseButton" class="about-close-button" type="button" aria-label="Close">X</button>
-        </div>
-        <div class="about-content message-content">
-          <img class="about-logo" src="./assets/logo.png" alt="ViewBV">
-          <div>
-            <div class="about-name">WebGPU is not available</div>
-            <div class="about-text webgpu-help-text">
-              WebGPU is not available. You can enable it and reload the app, or continue with WebGL 2. WebGL rendering may be slower on large or layer-heavy boards.
-              <a href="https://enablegpu.com/" target="_blank" rel="noreferrer">WebGPU enablement guide</a>
-            </div>
-          </div>
-        </div>
-        <div class="about-actions reset-settings-actions">
-          <button id="webGlFallbackOkButton" class="about-ok-button" type="button">Use WebGL 2</button>
-          <button id="webGlFallbackCancelButton" class="about-ok-button" type="button">Close</button>
-        </div>
-      </section>
-    </div>
-    <div id="webgpuWindowBackdrop" class="about-window-backdrop" hidden="">
-      <section class="about-window webgpu-window" role="dialog" aria-modal="true" aria-labelledby="webgpuTitle">
-        <div class="about-titlebar">
-          <div id="webgpuTitle" class="about-title">Renderer Unavailable</div>
-          <button id="webgpuCloseButton" class="about-close-button" type="button" aria-label="Close">X</button>
-        </div>
-        <div class="about-content webgpu-content">
-          <img class="about-logo" src="./assets/logo.png" alt="ViewBV">
-          <div>
-            <div class="about-name">No supported renderer is available</div>
-            <div class="about-text webgpu-help-text">
-              ViewBV Web needs WebGPU or WebGL 2 to render the board.
-              <a href="https://enablegpu.com/" target="_blank" rel="noreferrer">WebGPU enablement guide</a>
-            </div>
-          </div>
-        </div>
-        <div class="about-actions">
-          <button id="webgpuOkButton" class="about-ok-button" type="button">Close</button>
-        </div>
-      </section>
-    </div>
-    <div id="openErrorWindowBackdrop" class="about-window-backdrop" hidden="">
-      <section class="about-window message-window" role="dialog" aria-modal="true" aria-labelledby="openErrorTitle">
-        <div class="about-titlebar">
-          <div id="openErrorTitle" class="about-title">Open Failed</div>
-          <button id="openErrorCloseButton" class="about-close-button" type="button" aria-label="Close">X</button>
-        </div>
-        <div class="about-content message-content">
-          <img class="about-logo" src="./assets/logo.png" alt="ViewBV">
-          <div>
-            <div id="openErrorFileName" class="about-name message-name">Could not open boardview</div>
-            <div id="openErrorText" class="about-text message-text"></div>
-          </div>
-        </div>
-        <div class="about-actions">
-          <button id="openErrorOkButton" class="about-ok-button" type="button">Close</button>
-        </div>
-      </section>
-    </div>
-  </div>
+<!-- Scroll button -->
+<div class="scrollup index">
+    <i class="fa fa-angle-double-up"></i>
 </div>
-  
 
-</body></html>
+</body>
+    <!-- Scripts -->
+    <script defer src="./assets/js/3d.min.js"></script>
+    <script defer src="./assets/js/navbar.js"></script>
+    <script defer src="./assets/js/scroll.js"></script>
+    <script defer src="./assets/js/script.js"></script>
+    <!-- Activate to Christmas -->
+    <!--<script defer src="./assets/js/copo_de_nieve.js"></script> -->
+</html>
