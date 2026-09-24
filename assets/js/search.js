@@ -34,14 +34,15 @@ renderPage = (page) => {
         const articleItem = document.createElement('article');
         articleItem.classList.add('item-service');
         articleItem.innerHTML = `
-                    <a target="_blank" href="${file.image}" title="📷 Click to view.">
+                    <div class="product" title="📷 Click to view." >
                         <img src='assets/images/loading.webp'
+                             class="product-image"                           
                              data-src="${file.image}" 
-                             alt="${file.image}"
+                             alt="${file.name}"
                              loading="lazy"
                              onload="if(this.dataset.src){this.src=this.dataset.src; delete this.dataset.src;}"
                              onerror="this.onerror=null;this.src='assets/images/unlink.webp' "/>
-                    </a>
+                    </div>
                         <div class="layer">
                             <p class="name-search" title="${file.name}"><strong>${file.name}</strong></p></br>
                             <button class="addCart" onclick="addProduct( '${file.image}', '${file.name}' )">
@@ -144,6 +145,67 @@ renderEightFiles = () => {
     currentPage = 1;
     renderPage(currentPage);
 }
+
+// Modal
+const modal = document.getElementById('modal');
+const modalImg = document.getElementById('modal-img');
+const modalClose = document.getElementById('modal-close');
+const articles = document.querySelector('.services-content');
+
+function showImageModal(imgElement) {
+    const src = imgElement?.getAttribute('src');
+    const alt = imgElement?.getAttribute('alt');
+    const title = document.getElementById('title');
+
+    if (!src || src === '#') {
+        modalImg.alt = 'No hay imagen para mostrar';
+        modalImg.src = '';
+        title.textContent = 'No hay imagen disponible';
+    } else {
+        modalImg.src = src;
+        modalImg.alt = alt || 'Imagen ampliada';
+        title.innerHTML = `<i class="fa fa-random sw"></i> <strong>Modelo:</strong>  ${alt || 'Producto'}`;
+    }
+
+    modal.classList.remove('hidden');
+}
+
+modalClose.addEventListener('click', () => {
+    modal.classList.add('hidden');
+});
+
+modal.addEventListener('click', (e) => {
+    if (e.target === modal) {
+        modal.classList.add('hidden');
+    }
+});
+
+function bindProductModal() {
+    if (!articles) return;
+
+    const products = Array.from(document.querySelectorAll('.item-service'));
+
+    products.forEach(product => {
+        if (product.dataset.modalBound === 'true') return;
+
+        const img = product.querySelector('.product-image');
+        if (!img) return;
+
+        product.dataset.modalBound = 'true';
+        img.addEventListener('click', (event) => {
+            event.stopPropagation();
+            showImageModal(img);
+        });
+    });
+}
+
+bindProductModal();
+
+if (articles) {
+    const observer = new MutationObserver(() => bindProductModal());
+    observer.observe(articles, { childList: true, subtree: true });
+}
+
 
 // Lanzar al cargar
 renderEightFiles();
