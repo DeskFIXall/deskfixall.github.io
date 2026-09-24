@@ -166,9 +166,9 @@ MARK:Mobile
 }
 
 /*
-MARK:Hamburguesa 
+    MARK: Hamburguesa 
 */
-@media(width < 1060px){  
+@media(width < 1124px){  
     #menu-icon{
        display: block;
     }
