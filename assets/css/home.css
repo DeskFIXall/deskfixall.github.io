@@ -3,13 +3,13 @@
                       url(../images/Portada.webp);
     background-size: cover;
     background-position: center;
-    padding-left:0;
-    padding-right:0;
+    padding-left: 0;
+    padding-right: 0;
 }
 .home-transition{
-    display: grid;
+    display: grid;   
     grid-template-columns: repeat(2, 1fr);
-    align-items: center;
+    align-items: center;    
     gap: 2.55rem;
     padding-left: 3%;
     padding-right: 3%;
@@ -68,7 +68,7 @@
     font-weight: bolder;
     transition: all .45s ease;
     color: #000 !important;
-    transform: scale(0.9);
+    border: black 2px solid;
 }
 .btn:hover{
     transform: none;

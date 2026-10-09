@@ -59,12 +59,7 @@ MARK:Mobile
         font-size: 1.5rem;
         margin: 0 0 20px;      
     }
-    .home-text-p{
-        color:#fff !important;
-        max-width: 600px;
-        text-align: left;
-        padding: 15px 0 0 15px;
-    }
+
     .home{
         display: grid;
     }
