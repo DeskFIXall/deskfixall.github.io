@@ -225,3 +225,11 @@ h1, h2, h3, li, #pagination{
     color:white;
     font-weight: normal;
 }
+::selection {
+  background-color: #b1932f;
+  color: #fff;
+}
+::-moz-selection{
+  background-color: #b1932f;
+  color: #fff;
+}
