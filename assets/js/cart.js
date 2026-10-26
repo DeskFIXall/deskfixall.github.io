@@ -96,8 +96,8 @@ requestCart.addEventListener('click', () => {
         setList.add(texto);
     });
 
-    const result = Array.from(setList).join(', ');
-    window.location.href = urlPay + '```\n' + result + '\n' + '```' ;
+    const result = Array.from(setList).join(' | 🔀');
+    window.location.href = `${urlPay}${setList.size} file(s): [ 🔀${result} ]`;
 })
 
 
