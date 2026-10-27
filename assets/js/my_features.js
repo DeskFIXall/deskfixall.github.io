@@ -94,8 +94,7 @@ document.getElementById('btnCopy').addEventListener('click', () => {
   const img = document.getElementById('file');
   if (img) {
     const filename = document.getElementById('titleDialogView').textContent;
-    copiarAlPortapapeles("```🌐: https://deskfixall.github.io``` " + "```" + filename + "``` " +
-                         "```👤Contactme: @" + telegram_user + "``` " + img.src);
+    copiarAlPortapapeles(`${img.src}\n\n👤Contactme: @${telegram_user}`);
   }
 });
 
