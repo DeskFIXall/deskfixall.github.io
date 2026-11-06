@@ -118,23 +118,14 @@ MARK:Transitions
   }
 }
 /* Animación de fondo */
-@-webkit-keyframes moveBackground {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: -18000px 0;
-  }
-}
-@keyframes moveBackground {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: -18000px 0;
-  }
-}
+@-webkit-keyframes moveBackground {0% {background-position: 0 0;}100% {background-position: -18000px 0;}}
+@keyframes moveBackground {0% {background-position: 0 0;} 100% {background-position: -18000px 0;}}
 
+@keyframes animate {to{background-position: 300% 0}}
+.vibrant{font-weight: lighter;color: transparent;-webkit-text-stroke: 2px #aaa;position: relative;
+  transition: 0.3s;background: linear-gradient(90deg,gold, #fff, gold);
+  background-size: 300% 100%;background-clip: text;-webkit-text-stroke: 3px transparent;animation: animate 4s linear infinite;
+}
 /*
 MARK:Effects
 */
