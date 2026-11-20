@@ -11,6 +11,15 @@
     bottom: 20px;
 	right: 80px;
 }
+.cart__close{
+    position: absolute;
+    background-color: red;
+    background: linear-gradient(180deg, #9e3d3d, #5e2323);
+    padding: 0px 10px;
+    margin: 5px;
+    border-top-right-radius: 5px;
+    right: 0;
+}
 .car-button{
 	position: fixed;
 	bottom: 20px;
@@ -25,7 +34,7 @@
     position:absolute;
     right:-7px;
     background-color: red;
-    border-radius:10px;
+    border-radius: 10px;
     padding:5px;
     width:30px;
     text-align: center;

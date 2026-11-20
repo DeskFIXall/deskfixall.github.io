@@ -1,4 +1,4 @@
-var urlPay = `tg://resolve?domain=DeskFixAll&text=🖐🏻 Hello, I am interested in pay💳 for: \n`
+const urlPay = `tg://resolve?domain=DeskFixAll&text=🖐🏻 Hello, I am interested in pay💳 for `;
 
 // Función para asignar el evento de eliminar a los botones
  function asignarEventoEliminar() {
@@ -53,13 +53,15 @@ function addProduct(imageProductURl, nameProdduct) {
 // Show / Hide Cart
 const car_button = document.querySelector('.car-button');
 const shopping_car = document.querySelector('.shopping-car');
-car_button.addEventListener('click', () => {
+
+showHide = () =>{
     const style = window.getComputedStyle(shopping_car);
     if (style.display === 'none') {
         return shopping_car.style.display = 'block';
     }
     shopping_car.style.display = 'none';
-});
+}
+car_button.addEventListener('click', () => showHide() );
 
 
 // Count products
@@ -97,7 +99,7 @@ requestCart.addEventListener('click', () => {
     });
 
     const result = Array.from(setList).join(' | 🔀');
-    window.location.href = `${urlPay}${setList.size} file(s): [ 🔀${result} ]`;
+    window.location.href = `${urlPay}${setList.size} file(s): [ 🔀 ${result} ]`;
 })
 
 

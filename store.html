@@ -101,17 +101,15 @@
     MARK: Shopping-Cart 
 -->
 <div class="shopping-car">
-    <div>
+    <button class="cart__close"  onclick="showHide()"><i class="fa fa-close" title="Close cart"></i></button>
+
+    <div class="title__cart">
         <p style="font-size: large; padding: 10px;"><i class="fa fa-shopping-cart"></i> Cart</p>
     </div>
 
-    <div class="containerCar emptyCart">
-        <table id="cartTable">
-            <tbody></tbody>
-        </table>
-    </div>
+    <div class="containerCar emptyCart"><table id="cartTable"><tbody></tbody></table></div>
     
-    <div class="fotterCar" style="place-content: center; ">
+    <div class="fotterCar" style="place-content: center;">
         <span>The product list is empty.</span>
         <a id="requestCart" class="payNow">💳Pay Now</a>
     </div>
